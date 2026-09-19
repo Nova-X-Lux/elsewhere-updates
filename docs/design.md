@@ -1,11 +1,9 @@
-# Design direction
+# Elsewhere - pink noticeboard
 
-Elsewhere is a reading app for a personal list of interests. Open on the working surface: sources, headlines, bookmarks and catch-up, not a landing page.
+A reading app arranged like a small collection of favourite clippings. Pink is the actual interface palette, with raspberry ink, cream paper, strawberry borders and a faint squared-paper surface. Topic photographs and source-supplied article pictures carry the visual interest.
 
-Palette: desk blue #eaf0f8, paper white #ffffff, ink #19344e, action blue #245a9b, secondary #546a7f, warm punctuation #c86a21. Warm colour is confined to the wordmark dot and real alerts.
+Tokens: page #fff3f7, paper #fffdfb, pink #f6c9d9, ink #4e263b, muted #795467, action #a92e63, border #e8bfce. Georgia supplies soft editorial headings; Trebuchet MS supplies compact friendly controls and readable body text. No font service or paid asset dependency.
 
-Type: Trebuchet MS headings/wordmark and Verdana for reading. Both are system fonts, without external downloads. Headlines are left aligned; excerpts stay under 74 characters per line.
+Structure: a compact masthead, prominent follow search, five labelled notebook tabs. Explore opens first for a new visitor, with a Pokemon shelf and searchable pictured topic tiles. Returning readers open their feed. Articles form a continuous paper list, each with an original thumbnail when supplied. Mobile keeps the same content and a labelled bottom navigation.
 
-Desktop has a narrow, fixed reading-list rail and one continuous white sheet for articles. Mobile becomes one column with labelled bottom navigation. Grouping comes from source names and dates. There are no stat tiles, decorative gradients, hero slogans, auto-animation, fake news, generated editorial summaries, or stock illustrations.
-
-Review: source badges identify publishers; article rows have one predictable bookmark position. Controls use plain verbs (Follow, Save, Refresh). Freshness, first-seen dates and source failures are visible. The empty state offers actual source choices.
+Review: no giant marketing header, gradients, imaginary numbers, robot illustrations or generated article text. The personal detail is a small heart and stationery treatment, not a chat persona. Source names and original article links stay visible. An image that fails to load is removed cleanly. Search matches Pokemon with or without its accent, aliases and multiple words. All existing follows and saved clippings are preserved.

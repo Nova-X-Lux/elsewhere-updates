@@ -1,5 +1,344 @@
 [
   {
+    "id": "pokemon-news",
+    "name": "Pokémon news",
+    "category": "Pokémon",
+    "website": "https://pokejungle.net/",
+    "url": "https://pokejungle.net/feed/",
+    "type": "rss",
+    "description": "Announcements and stories from PokéJungle, an independent Pokémon fan site.",
+    "color": "#AD4D72",
+    "initials": "PK",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "general",
+      "announcements"
+    ],
+    "publisher": "PokéJungle",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
+    "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng"
+  },
+  {
+    "id": "pokemon-games",
+    "name": "Pokémon games",
+    "category": "Pokémon",
+    "website": "https://pokejungle.net/category/games/",
+    "url": "https://pokejungle.net/category/games/feed/",
+    "type": "rss",
+    "description": "Video game news, releases and updates from PokéJungle (fan site).",
+    "color": "#AD4D72",
+    "initials": "PG",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "games",
+      "switch",
+      "nintendo",
+      "legends",
+      "scarlet",
+      "violet",
+      "pokopia"
+    ],
+    "publisher": "PokéJungle",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
+    "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026"
+  },
+  {
+    "id": "pokemon-cards",
+    "name": "Pokémon cards",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-tcg/",
+    "url": "https://pokemonblog.com/tag/pokemon-tcg/feed/",
+    "type": "rss",
+    "description": "Sets, reveals and collecting news from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "TCG",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "cards",
+      "tcg",
+      "trading cards",
+      "boosters",
+      "sets"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/"
+  },
+  {
+    "id": "pokemon-pocket",
+    "name": "Pokémon TCG Pocket",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-tcg-pocket/",
+    "url": "https://pokemonblog.com/tag/pokemon-tcg-pocket/feed/",
+    "type": "rss",
+    "description": "New packs, cards and updates for TCG Pocket from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "PKT",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "pocket",
+      "tcgp",
+      "digital cards"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/"
+  },
+  {
+    "id": "pokemon-go",
+    "name": "Pokémon GO",
+    "category": "Pokémon",
+    "website": "https://pokemongo.com/en/news",
+    "url": "https://pokemongo.com/en/news",
+    "type": "pokemon-go",
+    "description": "Community Days, raids, events and game announcements from the official Pokémon GO website.",
+    "color": "#A04D76",
+    "initials": "GO",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "go",
+      "raids",
+      "community day",
+      "niantic",
+      "scopely",
+      "mobile"
+    ],
+    "publisher": "Pokémon GO",
+    "publisherType": "Official source",
+    "official": true,
+    "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
+    "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go"
+  },
+  {
+    "id": "pokemon-anime",
+    "name": "Pokémon anime",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-anime/",
+    "url": "https://pokemonblog.com/tag/pokemon-anime/feed/",
+    "type": "rss",
+    "description": "Episodes, trailers and Pokémon Horizons news from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "TV",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "anime",
+      "horizons",
+      "episodes",
+      "tv",
+      "ash",
+      "pikachu"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
+    "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv"
+  },
+  {
+    "id": "pokemon-merch",
+    "name": "Pokémon merchandise",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-center/",
+    "url": "https://pokemonblog.com/tag/pokemon-center/feed/",
+    "type": "rss",
+    "description": "Plush toys, Pokémon Center releases and collectibles from Pokémon Blog (fan site). Availability varies by country.",
+    "color": "#AD4D72",
+    "initials": "PC",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "merchandise",
+      "merch",
+      "plush",
+      "plushies",
+      "collectibles",
+      "pokemon center",
+      "pokemon centre"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/"
+  },
+  {
+    "id": "pokemon-events",
+    "name": "Play! Pokémon events",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/play-pokemon/",
+    "url": "https://pokemonblog.com/tag/play-pokemon/feed/",
+    "type": "rss",
+    "description": "Championships, tournaments and Play! Pokémon events from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "PLAY",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "competitive",
+      "championships",
+      "tournaments",
+      "vgc",
+      "play pokemon"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/"
+  },
+  {
+    "id": "pokemon-unite",
+    "name": "Pokémon UNITE",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-unite/",
+    "url": "https://pokemonblog.com/tag/pokemon-unite/feed/",
+    "type": "rss",
+    "description": "New Pokémon, events and updates for UNITE from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "UN",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "unite",
+      "moba"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/"
+  },
+  {
+    "id": "pokemon-sleep",
+    "name": "Pokémon Sleep",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-sleep/",
+    "url": "https://pokemonblog.com/tag/pokemon-sleep/feed/",
+    "type": "rss",
+    "description": "Events, additions and app updates for Pokémon Sleep from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "ZZ",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "sleep",
+      "snorlax"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/"
+  },
+  {
+    "id": "pokemon-masters",
+    "name": "Pokémon Masters EX",
+    "category": "Pokémon",
+    "website": "https://pokemonblog.com/tag/pokemon-masters-ex/",
+    "url": "https://pokemonblog.com/tag/pokemon-masters-ex/feed/",
+    "type": "rss",
+    "description": "Characters, events and app updates for Masters EX from Pokémon Blog (fan site).",
+    "color": "#AD4D72",
+    "initials": "EX",
+    "aliases": [
+      "pokemon",
+      "pokémon",
+      "masters",
+      "masters ex",
+      "mobile"
+    ],
+    "publisher": "Pokémon Blog",
+    "publisherType": "Independent fan site",
+    "official": false,
+    "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
+    "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/"
+  },
+  {
+    "id": "nintendo",
+    "name": "Nintendo",
+    "category": "Games",
+    "website": "https://www.nintendolife.com/",
+    "url": "https://www.nintendolife.com/feeds/news",
+    "type": "rss",
+    "description": "Nintendo news, releases and reviews from Nintendo Life (independent publication).",
+    "color": "#AE536B",
+    "initials": "N",
+    "aliases": [
+      "switch",
+      "switch 2",
+      "nintendo",
+      "mario",
+      "games"
+    ],
+    "publisher": "Nintendo Life",
+    "publisherType": "Independent publication",
+    "official": false,
+    "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
+    "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2"
+  },
+  {
+    "id": "animal-crossing",
+    "name": "Animal Crossing",
+    "category": "Games",
+    "website": "https://www.nintendolife.com/news/tags/animal-crossing",
+    "url": "https://www.nintendolife.com/feeds/news/tags/animal-crossing",
+    "type": "rss",
+    "description": "Game news and Animal Crossing releases from Nintendo Life (independent publication).",
+    "color": "#AE536B",
+    "initials": "AC",
+    "aliases": [
+      "animal crossing",
+      "new horizons",
+      "acnh",
+      "isabelle",
+      "tom nook",
+      "cosy",
+      "cozy"
+    ],
+    "publisher": "Nintendo Life",
+    "publisherType": "Independent publication",
+    "official": false,
+    "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
+    "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week"
+  },
+  {
+    "id": "zelda",
+    "name": "The Legend of Zelda",
+    "category": "Games",
+    "website": "https://www.nintendolife.com/news/tags/zelda",
+    "url": "https://www.nintendolife.com/feeds/news/tags/zelda",
+    "type": "rss",
+    "description": "Games, releases and Zelda news from Nintendo Life (independent publication).",
+    "color": "#AE536B",
+    "initials": "Z",
+    "aliases": [
+      "zelda",
+      "link",
+      "hyrule",
+      "breath of the wild",
+      "tears of the kingdom"
+    ],
+    "publisher": "Nintendo Life",
+    "publisherType": "Independent publication",
+    "official": false,
+    "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
+    "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie"
+  },
+  {
     "id": "playstation",
     "name": "PlayStation Blog",
     "category": "Games",
@@ -8,7 +347,13 @@
     "type": "rss",
     "description": "Announcements, release dates and updates from PlayStation.",
     "color": "#33548C",
-    "initials": "PS"
+    "initials": "PS",
+    "aliases": [
+      "sony",
+      "ps5",
+      "ps4",
+      "gaming"
+    ]
   },
   {
     "id": "xbox",
@@ -19,7 +364,12 @@
     "type": "rss",
     "description": "Game announcements and news from Xbox.",
     "color": "#426D43",
-    "initials": "XB"
+    "initials": "XB",
+    "aliases": [
+      "microsoft",
+      "game pass",
+      "gaming"
+    ]
   },
   {
     "id": "steam-stardew",
@@ -30,7 +380,16 @@
     "type": "steam",
     "description": "Stardew Valley announcements published by its developer on Steam.",
     "color": "#8F6936",
-    "initials": "SV"
+    "initials": "SV",
+    "aliases": [
+      "stardew valley",
+      "concernedape",
+      "farming",
+      "cosy",
+      "cozy"
+    ],
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
+    "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/"
   },
   {
     "id": "itch-cozy",
@@ -41,7 +400,13 @@
     "type": "rss",
     "description": "Games appearing in itch.io's new and popular cozy collection.",
     "color": "#AC514F",
-    "initials": "IT"
+    "initials": "IT",
+    "aliases": [
+      "indie",
+      "cosy",
+      "cozy",
+      "games"
+    ]
   },
   {
     "id": "nasa",
@@ -52,7 +417,13 @@
     "type": "rss",
     "description": "Space missions, discoveries and research from NASA.",
     "color": "#395D85",
-    "initials": "NA"
+    "initials": "NA",
+    "aliases": [
+      "space",
+      "astronomy",
+      "moon",
+      "stars"
+    ]
   },
   {
     "id": "esa-space",
@@ -63,7 +434,12 @@
     "type": "rss",
     "description": "Mission news and discoveries from the European Space Agency.",
     "color": "#456B77",
-    "initials": "ESA"
+    "initials": "ESA",
+    "aliases": [
+      "space",
+      "science",
+      "astronomy"
+    ]
   },
   {
     "id": "raspberry-pi",
@@ -74,7 +450,13 @@
     "type": "rss",
     "description": "Electronics projects, ideas and Raspberry Pi announcements.",
     "color": "#8E4761",
-    "initials": "RP"
+    "initials": "RP",
+    "aliases": [
+      "coding",
+      "electronics",
+      "diy",
+      "making"
+    ]
   },
   {
     "id": "gutenberg",
@@ -85,6 +467,13 @@
     "type": "rss",
     "description": "Ebooks newly added to or updated in Project Gutenberg's catalogue.",
     "color": "#815D49",
-    "initials": "PG"
+    "initials": "PG",
+    "aliases": [
+      "books",
+      "reading",
+      "ebooks",
+      "classics",
+      "free books"
+    ]
   }
 ]

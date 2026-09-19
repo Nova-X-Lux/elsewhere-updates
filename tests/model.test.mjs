@@ -6,6 +6,10 @@ import {
   safeUrl,
   escapeHtml,
   selectedItems,
+  searchSources,
+  matchesKeywords,
+  relatedItemIds,
+  isItemMarked,
 } from "../src/model.js";
 
 const sources = [{ id: "game" }, { id: "books" }];
@@ -152,4 +156,88 @@ test("shared URLs are deduplicated after selecting followed sources", () => {
       .length,
     1,
   );
+});
+
+test("discovery search matches unaccented Pokemon, aliases, multiple words and category", () => {
+  const catalogue = [
+    {
+      id: "cards",
+      name: "Pokémon cards",
+      category: "Pokémon",
+      aliases: ["TCG", "boosters", "trading cards"],
+    },
+    {
+      id: "plush",
+      name: "Pokémon merchandise",
+      category: "Pokémon",
+      aliases: ["plushies"],
+    },
+    {
+      id: "ac",
+      name: "Animal Crossing",
+      category: "Games",
+      aliases: ["cosy", "cozy"],
+      publisher: "Nintendo Life",
+    },
+  ];
+  assert.deepEqual(
+    searchSources(catalogue, "pokemon").map((s) => s.id),
+    ["cards", "plush"],
+  );
+  assert.deepEqual(
+    searchSources(catalogue, "tcg pokemon").map((s) => s.id),
+    ["cards"],
+  );
+  assert.deepEqual(
+    searchSources(catalogue, "plushies").map((s) => s.id),
+    ["plush"],
+  );
+  assert.equal(searchSources(catalogue, "cosy", "Pokémon").length, 0);
+  assert.equal(searchSources(catalogue, "cosy", "Games")[0].id, "ac");
+  assert.equal(searchSources(catalogue, "nintendo")[0].id, "ac");
+  assert.equal(searchSources(catalogue, "no such source").length, 0);
+});
+
+test("article search supports accents and unordered terms while keywords remain literal", () => {
+  const story = { ...items[0], title: "New Pokémon TCG cards" };
+  const state = { ...defaultState(), following: ["game"] };
+  assert.equal(
+    selectedItems([story], state, { query: "cards pokemon" }).length,
+    1,
+  );
+  assert.equal(matchesKeywords(story, "pokemon"), true);
+  assert.equal(matchesKeywords({ title: "C programming" }, "C++"), false);
+  assert.equal(matchesKeywords({ title: "C++ programming" }, "C++"), true);
+});
+
+test("saved images round trip and unsafe image URLs are discarded", () => {
+  const saved = { ...items[0], imageUrl: "https://example.com/picture.jpg" };
+  const state = {
+    ...defaultState(),
+    saved: ["one"],
+    savedItems: { one: saved },
+  };
+  assert.equal(
+    validateState(JSON.parse(JSON.stringify(state)), sources).savedItems.one
+      .imageUrl,
+    saved.imageUrl,
+  );
+  saved.imageUrl = "javascript:alert(1)";
+  assert.equal(validateState(state, sources).savedItems.one.imageUrl, "");
+});
+
+test("shared stories stay hidden or read across overlapping topic subscriptions", () => {
+  const shared = [items[0], { ...items[0], id: "copy", sourceId: "books" }];
+  const state = {
+    ...defaultState(),
+    following: ["game", "books"],
+    read: ["one"],
+  };
+  assert.deepEqual(relatedItemIds(shared, state, "one"), ["one", "copy"]);
+  assert.equal(isItemMarked(shared, state, "read", "copy"), true);
+  assert.equal(selectedItems(shared, state, { unread: true }).length, 0);
+  state.muted = ["one"];
+  assert.equal(selectedItems(shared, state).length, 0);
+  state.saved = ["one"];
+  assert.equal(selectedItems(shared, state, { view: "saved" }).length, 1);
 });

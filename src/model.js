@@ -66,6 +66,7 @@ export function validateState(raw, sources) {
       title: item.title.slice(0, 800),
       url: safeUrl(item.url),
       summary: String(item.summary || "").slice(0, 220),
+      imageUrl: safeUrl(item.imageUrl || ""),
       publishedAt: Number.isFinite(Date.parse(item.publishedAt))
         ? item.publishedAt
         : null,
@@ -94,13 +95,60 @@ export function validateState(raw, sources) {
         : null,
   };
 }
+function foldText(value = "") {
+  return String(value)
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .toLocaleLowerCase();
+}
+export function searchText(value = "") {
+  return foldText(value)
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .trim();
+}
+export function searchSources(sources, query = "", category = "All") {
+  const terms = searchText(query).split(/\s+/).filter(Boolean);
+  return sources.filter((source) => {
+    const text = searchText(
+      [
+        source.name,
+        source.category,
+        source.description,
+        source.publisher,
+        ...(source.aliases || []),
+      ].join(" "),
+    );
+    return (
+      (category === "All" || source.category === category) &&
+      terms.every((term) => text.includes(term))
+    );
+  });
+}
 export function matchesKeywords(item, keywords) {
   const terms = (keywords || "")
     .split(",")
-    .map((x) => x.trim().toLocaleLowerCase())
+    .map((x) => foldText(x).trim())
     .filter(Boolean);
-  const text = `${item.title} ${item.summary || ""}`.toLocaleLowerCase();
+  const text = foldText(`${item.title} ${item.summary || ""}`);
   return terms.length === 0 || terms.some((term) => text.includes(term));
+}
+export function relatedItemIds(items, state, id) {
+  const available = [...items, ...Object.values(state.savedItems || {})];
+  const item = available.find((candidate) => candidate.id === id);
+  return item
+    ? [
+        ...new Set(
+          available
+            .filter((candidate) => candidate.url === item.url)
+            .map((candidate) => candidate.id),
+        ),
+      ]
+    : [id];
+}
+export function isItemMarked(items, state, kind, id) {
+  return relatedItemIds(items, state, id).some((candidate) =>
+    state[kind].includes(candidate),
+  );
 }
 export function selectedItems(
   items,
@@ -113,9 +161,19 @@ export function selectedItems(
     now = Date.now(),
   } = {},
 ) {
-  const text = query.trim().toLocaleLowerCase();
+  const terms = searchText(query).split(/\s+/).filter(Boolean);
   const cutoff = now - (state.digest === "day" ? 1 : 7) * 86400000;
   const seen = new Set();
+  const known = [...items, ...Object.values(state.savedItems || {})];
+  const markedUrls = (kind) =>
+    new Set(
+      known
+        .filter((item) => state[kind].includes(item.id))
+        .map((item) => item.url),
+    );
+  const readUrls = markedUrls("read"),
+    mutedUrls = markedUrls("muted"),
+    savedUrls = markedUrls("saved");
   const available =
     view === "saved"
       ? [
@@ -131,22 +189,27 @@ export function selectedItems(
     .filter((item) => {
       if (!safeUrl(item.url)) return false;
       if (view === "saved") {
-        if (!state.saved.includes(item.id)) return false;
+        if (!state.saved.includes(item.id) && !savedUrls.has(item.url))
+          return false;
       } else {
         if (
           !state.following.includes(item.sourceId) ||
-          state.muted.includes(item.id)
+          state.muted.includes(item.id) ||
+          mutedUrls.has(item.url)
         )
           return false;
         if (!matchesKeywords(item, state.keywords[item.sourceId])) return false;
       }
       if (source !== "all" && item.sourceId !== source) return false;
-      if (unread && state.read.includes(item.id)) return false;
+      if (unread && (state.read.includes(item.id) || readUrls.has(item.url)))
+        return false;
       if (
-        text &&
-        !`${item.title} ${item.summary || ""} ${item.sourceName || ""}`
-          .toLocaleLowerCase()
-          .includes(text)
+        terms.length &&
+        !terms.every((term) =>
+          searchText(
+            `${item.title} ${item.summary || ""} ${item.sourceName || ""}`,
+          ).includes(term),
+        )
       )
         return false;
       if (

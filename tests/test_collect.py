@@ -204,6 +204,89 @@ class CollectorTests(unittest.TestCase):
                 self.assertEqual(collector.main(["--root", str(root)]), 1)
             self.assertEqual(destination.read_text(encoding="utf-8"), old)
 
+    def test_media_images_prefer_full_image_and_ignore_video(self):
+        payload = b'''<rss xmlns:media="http://search.yahoo.com/mrss/"><channel><item>
+        <title>New cards</title><link>https://publisher.org/cards</link>
+        <media:thumbnail url="https://publisher.org/small.jpg"/>
+        <media:content url="https://publisher.org/video.mp4" medium="video"/>
+        <media:content url="https://publisher.org/large.jpg" medium="image"/>
+        </item></channel></rss>'''
+        result = collector.collect([source()], fetch=lambda _: payload, now=NOW)
+        self.assertEqual(result["items"][0]["imageUrl"], "https://publisher.org/large.jpg")
+
+    def test_rss_and_atom_image_enclosures(self):
+        payloads = [b'''<rss><channel><item><title>Photo</title><link>/photo</link>
+            <enclosure url="/photo.jpg" type="image/jpeg"/></item></channel></rss>''',
+            b'''<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Photo</title>
+            <link href="/photo"/><link rel="enclosure" href="/photo.jpg" type="image/jpeg"/></entry></feed>''']
+        for payload in payloads:
+            with self.subTest(payload=payload):
+                result = collector.collect([source()], fetch=lambda _: payload, now=NOW)
+                self.assertEqual(result["items"][0]["imageUrl"], "https://publisher.org/photo.jpg")
+
+    def test_unsafe_images_are_skipped_for_first_usable_content_image(self):
+        summary = '<img src="javascript:bad()"><img src="http://127.0.0.1/private"><img src="https://publisher.org/pixel.gif" width="1"><img src="https://1.gravatar.com/avatar/a"><img src="/photo.jpg" width onerror="bad()">'
+        result = collector.collect([source()], fetch=lambda _: rss(item(summary=summary)), now=NOW)
+        self.assertEqual(result["items"][0]["imageUrl"], "https://publisher.org/photo.jpg")
+        self.assertEqual(result["items"][0]["summary"], "")
+        for value in ['data:image/svg+xml,bad', 'https://user:pass@publisher.org/x', 'http://publisher.org/photo.jpg', 'https://localhost/x', 'https://10.0.0.1/x']:
+            self.assertIsNone(collector.image_url(value, 'https://publisher.org/'))
+
+    def test_atom_xhtml_images_and_encoded_content(self):
+        payload = b'''<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Photo</title><link href="/photo"/>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><img src="/photo.jpg"/></div></content></entry></feed>'''
+        result = collector.collect([source()], fetch=lambda _: payload, now=NOW)
+        self.assertEqual(result["items"][0]["imageUrl"], "https://publisher.org/photo.jpg")
+        payload = b'''<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item><title>Photo</title><link>/photo</link>
+        <description>Short summary.</description><content:encoded><![CDATA[<img src="/encoded.jpg">]]></content:encoded></item></channel></rss>'''
+        result = collector.collect([source()], fetch=lambda _: payload, now=NOW)
+        self.assertEqual(result["items"][0]["imageUrl"], "https://publisher.org/encoded.jpg")
+        self.assertEqual(result["items"][0]["summary"], "Short summary.")
+
+    def test_steam_bbcode_image_without_markup_in_summary(self):
+        payload = json.dumps({"appnews": {"newsitems": [{"title": "A patch", "url": "https://store.steampowered.com/news/app/1/view/2", "contents": "[img]{STEAM_CLAN_IMAGE}/123/example.jpg[/img] New features.", "feedname": "steam_community_announcements"}]}}).encode()
+        result = collector.collect([source(source_type="steam")], fetch=lambda _: payload, now=NOW)
+        self.assertEqual(result["items"][0]["imageUrl"], "https://clan.fastly.steamstatic.com/images/123/example.jpg")
+        self.assertEqual(result["items"][0]["summary"], "New features.")
+
+    def test_image_and_first_seen_survive_missing_image_and_source_failure(self):
+        sources = [source('one'), source('two')]
+        previous = collector.collect(sources, fetch=lambda _: rss(item(summary='<img src="/photo.jpg">Hello')), now=NOW)
+        def fetch(url):
+            if 'two.xml' in url:
+                raise collector.FeedError('Unavailable')
+            return rss(item(summary='Updated text'))
+        current = collector.collect(sources, previous, fetch=fetch, now=NOW + timedelta(days=1))
+        for entry in current['items']:
+            self.assertEqual(entry['imageUrl'], 'https://publisher.org/photo.jpg')
+            self.assertEqual(entry['firstSeenAt'], '2026-09-19T12:00:00Z')
+
+    def test_catalogue_metadata_is_preserved_and_invalid_extras_rejected(self):
+        src = {**source(), 'aliases': ['pokemon', 'cards'], 'publisher': 'Example Blog', 'publisherType': 'Fan site', 'official': False, 'imageUrl': 'https://publisher.org/cover.jpg', 'imagePage': 'https://publisher.org/article'}
+        result = collector.collect([src], fetch=lambda _: rss(), now=NOW)
+        for field in ('aliases', 'publisher', 'publisherType', 'official', 'imageUrl', 'imagePage'):
+            self.assertEqual(result['sources'][0][field], src[field])
+        for extra in [{'aliases': 'cards'}, {'aliases': [False]}, {'imageUrl': 'javascript:bad()'}, {'imagePage': 'https://127.0.0.1/private'}, {'official': 'true'}]:
+            with self.subTest(extra=extra), self.assertRaises(collector.FeedError):
+                collector.validate_sources([{**source(), **extra}])
+
+    def test_official_pokemon_go_adapter_reads_cards_and_millisecond_dates(self):
+        src = {**source(source_type='pokemon-go'), 'url': 'https://pokemongo.com/en/news', 'website': 'https://pokemongo.com/en/news'}
+        payload = b'''<!doctype html><html><a href="/news/example" class="_newsCard_test_22"><picture>
+        <img src="https://lh3.googleusercontent.com/example=s0"/></picture><pg-date-format timestamp="1789491600000"></pg-date-format>
+        <div class="_newsCardTitle_test">October 2026 Community Day: Zorua</div></a><a href="/other">Ignore</a></html>'''
+        result = collector.collect([src], fetch=lambda _: payload, now=NOW)
+        entry = result['items'][0]
+        self.assertEqual(entry['url'], 'https://pokemongo.com/news/example')
+        self.assertEqual(entry['title'], 'October 2026 Community Day: Zorua')
+        self.assertEqual(entry['publishedAt'], collector.parse_date(1789491600))
+        self.assertEqual(entry['imageUrl'], 'https://lh3.googleusercontent.com/example=s0')
+        self.assertEqual(entry['summary'], '')
+        with self.assertRaises(collector.FeedError):
+            collector.parse_pokemon_go(b'<html>Unavailable</html>', src)
+        with self.assertRaises(collector.FeedError):
+            collector.validate_sources([source(source_type='pokemon-go')])
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -20,3 +20,14 @@
 
 - Final deployment run 35413290873 succeeded. Live HTML, application script, model, CSS and favicon matched the local build byte-for-byte.
 - A returning browser retained the old unversioned JavaScript. The build now fingerprints application, model and stylesheet filenames so new releases invalidate browser caches.
+
+
+## Pink redesign - 19 September 2026
+
+- Replaced the blue sidebar layout with a pink noticeboard, notebook navigation and pictured topic catalogue. No additional runtime dependencies or paid services.
+- Live source probe succeeded for 22/22 sources, including 11 distinct Pokémon choices. Snapshot: 326 stories, 258 carrying image metadata. Existing story IDs and first-seen times were preserved.
+- 11 model tests and 29 collector tests pass. Coverage includes accent/alias/multiple-word discovery search, source filters, literal keywords, image extraction and safe URLs, saved-image backup round trips, duplicate URL read/hide behaviour, source failure retention, and official Pokémon GO listing parsing. Syntax, build and diff whitespace checks pass.
+- Local browser: followed Pokémon cards and GO from discovery, searched feed stories, saved a pictured card article, opened Saved, reloaded and verified that story and picture persisted. Test follows and bookmark were removed again; pre-existing local follows/saved content were preserved.
+- Discovery: unaccented `cards pokemon` finds physical cards and Pocket; `plushies` finds merchandise; no-match reset returns 22 choices. No horizontal overflow at 1280, 390 and 320 CSS pixels. These are browser viewport checks, not tests on a physical phone.
+- Official Pokopia hero and the first six topic covers visibly loaded in the browser. Some publishers block their article images; a failed thumbnail is removed and a topic falls back to its initials.
+- Backup download limitations from the original verification remain unchanged; no download-history workaround was attempted in this redesign.

@@ -37,20 +37,26 @@ Scheduled runs can be delayed or dropped, and GitHub can disable schedules after
 
 ## Reader controls
 
-- Find sources: search the available library and follow or unfollow a source.
-- Following: optionally filter an individual source by comma-separated words/phrases. A match on any phrase keeps the article. These filters operate on titles and short previews, not full article bodies.
-- Latest: search, filter by source/unread, mark read, hide, and save an update. Opening the original marks it read.
+- Explore: search 22 available topics, including 11 Pokémon choices. Search matches names, aliases and publishers, with or without accents. Follow/unfollow directly from pictured topic cards.
+- My follows: optionally filter an individual source by comma-separated words/phrases. A match on any phrase keeps the article. These filters operate on titles and short previews, not full article bodies.
+- My feed: search, filter by source/unread, mark read, hide, and save an update. Opening the original marks it read.
 - Catch-up: group the past 24 hours or seven days by source. Undated entries use their original first-seen date and are labelled Added.
 - Saved: saved titles, original links and short previews are kept locally even after a source's collection rotates.
 - Settings: export/restore a JSON backup to move follows, keywords, read history and saved posts between devices. Restore explicitly asks before replacing the current list.
 
 There is no automatic account sync, email, Discord or push notification delivery in this version. Daily/weekly catch-up is on the website. Local preferences stay in browser storage; clearing that storage removes them unless a backup was kept. No analytics or third-party font requests are included.
 
+## Pokémon and pictures
+
+Pokémon news, games, physical cards, TCG Pocket, GO, anime, merchandise, Play! Pokémon events, UNITE, Sleep and Masters EX are separate follows. GO uses its official server-rendered news listing; PokéJungle and Pokémon Blog are clearly labelled independent fan sites. Nintendo, Animal Crossing and Zelda use Nintendo Life. Merchandise availability varies by country.
+
+Article thumbnails are extracted from source Media RSS, image enclosures, HTML or Steam BBcode. Images load directly from publishers; this sends those hosts an image request. Failed images are removed cleanly. Topic art is credited in the app. No full articles or images are copied into the repository. Read, hide and save actions apply across duplicate article URLs when several followed topics overlap.
+
 ## Add or change sources
 
-Edit `sources.json` and add an official RSS/Atom feed or a Steam community announcement feed. Keep stable unique IDs and supply `name`, `category`, `website`, `url`, `type` (`rss`, `atom`, `steam`), `description`, `color`, and `initials`. Run the collector and checks before pushing. Source configuration and collected articles are public; never put private URLs, account tokens, credentials or Katie's personal information in the repository.
+Edit `sources.json` and add an official RSS/Atom feed or a Steam community announcement feed. Keep stable unique IDs and supply `name`, `category`, `website`, `url`, `type` (`rss`, `atom`, `steam`, or the official listing adapter `pokemon-go`), `description`, `color`, and `initials`. Optional fields: `aliases` (array), `publisher`, `publisherType`, `official`, `imageUrl` (public HTTPS) and `imagePage` (credit page). Keep source pictures and credits paired. Run the collector and checks before pushing. Source configuration and collected articles are public; never put private URLs, account tokens, credentials or Katie's personal information in the repository.
 
-The library is intentionally explicit. Following a topic cannot search the entire internet. New artists, authors or other interests require a suitable feed in the catalogue. The starter library is a selection to try, not an assertion about Katie's interests.
+The library is intentionally explicit. Following a topic cannot search the entire internet. New artists, authors or other interests require a suitable feed in the catalogue. The catalogue can grow when more working public feeds are available.
 
 Sources are linked and attributed; summaries are short feed excerpts of at most 220 characters, never generated claims. HTML is removed in collection and escaped in rendering. Full publisher articles and external images are not republished. Recheck source availability and terms when changing the catalogue.
 

@@ -261,6 +261,146 @@ def element_text(node: ET.Element, *names: str) -> str:
     return found.text or ""
 
 
+def image_url(value: object, base: str) -> str | None:
+    """Keep optional public HTTPS image links; never include active HTML or data URLs."""
+    if not isinstance(value, str) or len(value) > 4096:
+        return None
+    try:
+        url = safe_url(unescape(value), base)
+    except FeedError:
+        return None
+    parsed = urlsplit(url)
+    if parsed.scheme != "https":
+        return None
+    # WordPress includes author portraits and tracking pixels in some feeds.
+    if "gravatar.com" in parsed.hostname or "pixel.wp.com" in parsed.hostname:
+        return None
+    if re.search(r"/(?:smilies|smileys|emoji)/", parsed.path, re.I):
+        return None
+    return url
+
+
+class ImageParser(HTMLParser):
+    def __init__(self, base: str):
+        super().__init__(convert_charrefs=True)
+        self.base = base
+        self.image = None
+        self.blocked = 0
+
+    def handle_starttag(self, tag, attrs):
+        tag = tag.rsplit(":", 1)[-1]
+        if tag in {"script", "style", "noscript", "template"}:
+            self.blocked += 1
+        if tag != "img" or self.image or self.blocked:
+            return
+        attrs = dict(attrs)
+        if any(isinstance(attrs.get(key), str) and attrs[key].isdigit() and int(attrs[key]) <= 1 for key in ("width", "height")):
+            return
+        for key in ("src", "data-src", "data-original"):
+            self.image = image_url(attrs.get(key), self.base)
+            if self.image:
+                return
+
+    def handle_startendtag(self, tag, attrs):
+        self.handle_starttag(tag, attrs)
+        self.handle_endtag(tag)
+
+    def handle_endtag(self, tag):
+        if tag.rsplit(":", 1)[-1] in {"script", "style", "noscript", "template"} and self.blocked:
+            self.blocked -= 1
+
+
+def content_image(text: object, base: str) -> str | None:
+    if not isinstance(text, str):
+        return None
+    for match in re.finditer(r"\[img\](.*?)\[/img\]", text, flags=re.I | re.S):
+        candidate = match.group(1).strip().replace("{STEAM_CLAN_IMAGE}", "https://clan.fastly.steamstatic.com/images")
+        valid = image_url(candidate, base)
+        if valid:
+            return valid
+    parser = ImageParser(base)
+    parser.feed(text)
+    parser.close()
+    return parser.image
+
+
+def entry_image(entry: ET.Element, base: str) -> str | None:
+    media_namespace = "{http://search.yahoo.com/mrss/}"
+    # Prefer the publisher's article image over a small thumbnail.
+    for wanted in ("content", "thumbnail"):
+        for element in entry.iter(media_namespace + wanted):
+            if wanted == "content" and element.get("medium") not in {None, "image"}:
+                continue
+            media_type = element.get("type", "")
+            if wanted == "content" and media_type and not media_type.startswith("image/"):
+                continue
+            valid = image_url(element.get("url"), base)
+            if valid:
+                return valid
+    for element in entry:
+        name = local_name(element.tag)
+        if name == "enclosure" or (name == "link" and element.get("rel") == "enclosure"):
+            if element.get("type", "").startswith("image/"):
+                valid = image_url(element.get("url") or element.get("href"), base)
+                if valid:
+                    return valid
+    for field in ("description", "summary", "encoded", "content"):
+        valid = content_image(element_text(entry, field), base)
+        if valid:
+            return valid
+    return None
+
+
+class PokemonGoParser(HTMLParser):
+    """Read the official public news listing without fetching full articles."""
+    def __init__(self, base: str):
+        super().__init__(convert_charrefs=True)
+        self.base = base
+        self.items = []
+        self.current = None
+        self.parts = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "a":
+            href = attrs.get("href") or ""
+            if "newsCard" in (attrs.get("class") or "") and href.startswith("/news/"):
+                self.current = {"url": href, "base": self.base, "summary": "", "publishedAt": None}
+                self.parts = []
+        elif self.current is not None:
+            if tag == "img" and not self.current.get("imageUrl"):
+                self.current["imageUrl"] = image_url(attrs.get("src"), self.base)
+            elif tag == "pg-date-format":
+                try:
+                    self.current["publishedAt"] = parse_date(float(attrs.get("timestamp", "")) / 1000)
+                except (TypeError, ValueError, OverflowError):
+                    pass
+
+    def handle_startendtag(self, tag, attrs):
+        self.handle_starttag(tag, attrs)
+
+    def handle_data(self, data):
+        if self.current is not None:
+            self.parts.append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self.current is not None:
+            self.current["title"] = " ".join(self.parts)
+            if clean_text(self.current["title"]):
+                self.items.append(self.current)
+            self.current = None
+            self.parts = []
+
+
+def parse_pokemon_go(body: bytes, source: dict) -> list[dict]:
+    parser = PokemonGoParser(source["website"])
+    parser.feed(body.decode("utf-8", errors="replace"))
+    parser.close()
+    if not parser.items:
+        raise FeedError("The official Pokemon GO news listing could not be read")
+    return parser.items
+
+
 def parse_xml(body: bytes, source: dict) -> list[dict]:
     if re.search(br"<!\s*(?:DOCTYPE|ENTITY)\b", body, flags=re.I):
         raise FeedError("XML document types and entities are not supported")
@@ -302,7 +442,7 @@ def parse_xml(body: bytes, source: dict) -> list[dict]:
             summary = element_text(entry, "description", "summary", "encoded", "content")
         if not link:
             continue
-        items.append({"title": element_text(entry, "title"), "url": link, "base": base, "summary": summary, "publishedAt": date})
+        items.append({"title": element_text(entry, "title"), "url": link, "base": base, "summary": summary, "publishedAt": date, "imageUrl": entry_image(entry, base)})
     return items
 
 
@@ -314,7 +454,7 @@ def parse_steam(body: bytes, source: dict) -> list[dict]:
             raise ValueError
     except (ValueError, KeyError, TypeError) as exc:
         raise FeedError("Source returned invalid Steam news JSON") from exc
-    return [{"title": entry.get("title", ""), "url": entry.get("url", ""), "summary": entry.get("contents", ""), "publishedAt": entry.get("date"), "base": source["website"]}
+    return [{"title": entry.get("title", ""), "url": entry.get("url", ""), "summary": entry.get("contents", ""), "publishedAt": entry.get("date"), "base": source["website"], "imageUrl": content_image(entry.get("contents", ""), source["website"])}
             for entry in entries if isinstance(entry, dict) and entry.get("feedname") == "steam_community_announcements"]
 
 
@@ -330,7 +470,11 @@ def normalise_item(raw: dict, source: dict, now: str, previous: dict | None = No
     old = (previous or {}).get(item_id, {})
     first_seen = parse_date(old.get("firstSeenAt")) or parse_date(raw.get("firstSeenAt")) or now
     published = parse_date(raw.get("publishedAt")) or parse_date(old.get("publishedAt"))
-    return {"id": item_id, "sourceId": source["id"], "sourceName": source["name"], "title": title, "url": url, "summary": clean_text(raw.get("summary")), "publishedAt": published, "firstSeenAt": first_seen}
+    result = {"id": item_id, "sourceId": source["id"], "sourceName": source["name"], "title": title, "url": url, "summary": clean_text(raw.get("summary")), "publishedAt": published, "firstSeenAt": first_seen}
+    image = image_url(raw.get("imageUrl"), url) or image_url(old.get("imageUrl"), url)
+    if image:
+        result["imageUrl"] = image
+    return result
 
 
 def bounded_history(items: list[dict], now: datetime) -> list[dict]:
@@ -353,11 +497,35 @@ def validate_sources(sources: object) -> list[dict]:
             raise FeedError("Every source must contain the required text fields")
         if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,63}", source["id"]) or source["id"] in seen:
             raise FeedError("Source IDs must be unique lowercase slugs")
-        if source["type"] not in {"rss", "atom", "steam"}:
+        if source["type"] not in {"rss", "atom", "steam", "pokemon-go"}:
             raise FeedError("Unsupported source type")
         item = {field: source[field] for field in SOURCE_FIELDS}
         item["url"] = safe_url(item["url"])
         item["website"] = safe_url(item["website"])
+        if item["type"] == "pokemon-go" and urlsplit(item["url"]).hostname != "pokemongo.com":
+            raise FeedError("The Pokemon GO adapter requires the official source")
+        if "aliases" in source:
+            if not isinstance(source["aliases"], list) or len(source["aliases"]) > 40 or any(not isinstance(alias, str) or not alias.strip() or len(alias) > 100 for alias in source["aliases"]):
+                raise FeedError("Source aliases must be a bounded list of short text values")
+            item["aliases"] = list(dict.fromkeys(clean_text(alias, 100) for alias in source["aliases"]))
+        for field in ("publisher", "publisherType"):
+            if field in source:
+                if not isinstance(source[field], str) or not source[field].strip() or len(source[field]) > 120:
+                    raise FeedError("Source publisher metadata must contain short text")
+                item[field] = clean_text(source[field], 120)
+        if "official" in source:
+            if not isinstance(source["official"], bool):
+                raise FeedError("Source official status must be a boolean")
+            item["official"] = source["official"]
+        for field in ("imageUrl", "imagePage"):
+            if field in source:
+                if field == "imageUrl":
+                    valid = image_url(source[field], item["website"])
+                    if not valid:
+                        raise FeedError("Source image must use a public HTTPS URL")
+                    item[field] = valid
+                else:
+                    item[field] = safe_url(source[field], item["website"])
         seen.add(item["id"])
         validated.append(item)
     return validated
@@ -387,7 +555,12 @@ def collect(sources: list[dict], previous: dict | None = None, *, fetch: Callabl
             body = fetch(source["url"])
             if len(body) > MAX_BYTES:
                 raise FeedError("Source response exceeds the size limit")
-            parsed = parse_steam(body, source) if source["type"] == "steam" else parse_xml(body, source)
+            if source["type"] == "steam":
+                parsed = parse_steam(body, source)
+            elif source["type"] == "pokemon-go":
+                parsed = parse_pokemon_go(body, source)
+            else:
+                parsed = parse_xml(body, source)
             for raw in parsed:
                 item = normalise_item(raw, source, stamp, retained)
                 if item:
