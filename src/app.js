@@ -186,6 +186,12 @@ function itemRow(item) {
 }
 function welcomeView() {
   return `<section class="welcome"><div class="welcome-title"><span class="welcome-symbol">${icon("following")}</span><h2>Start with a few favourites.</h2><p>Follow a source to put its latest updates here. You can change your list whenever you like.</p></div><div class="welcome-sources">${data.sources
+    .filter(
+      (source, index, sources) =>
+        sources.findIndex(
+          (candidate) => candidate.category === source.category,
+        ) === index,
+    )
     .slice(0, 4)
     .map(
       (s) =>
@@ -223,7 +229,9 @@ function openDialog(html) {
 }
 function closeDialog() {
   dialog.close();
-  lastFocus?.focus();
+  (lastFocus?.isConnected ? lastFocus : document.querySelector("#main"))?.focus(
+    { preventScroll: true },
+  );
 }
 function browse() {
   openDialog(
@@ -468,7 +476,9 @@ document.addEventListener("click", async (event) => {
     const a = document.createElement("a");
     a.href = url;
     a.download = `elsewhere-backup-${new Date().toISOString().slice(0, 10)}.json`;
+    document.body.append(a);
     a.click();
+    a.remove();
     setTimeout(() => URL.revokeObjectURL(url), 5000);
     toast("Backup download started.");
     return;
@@ -537,7 +547,11 @@ dialog.addEventListener("click", (event) => {
       closeDialog();
   }
 });
-dialog.addEventListener("close", () => lastFocus?.focus());
+dialog.addEventListener("close", () =>
+  (lastFocus?.isConnected ? lastFocus : document.querySelector("#main"))?.focus(
+    { preventScroll: true },
+  ),
+);
 window.addEventListener("storage", (event) => {
   if (event.key === STORAGE_KEY && event.newValue && data) {
     try {

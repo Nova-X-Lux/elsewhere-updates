@@ -10,4 +10,10 @@
 - Export button triggered its handler; the in-app browser did not emit its expected download event. Restore was verified using a valid local backup fixture. Browser-specific download delivery has not been independently confirmed.
 - The preview used isolated local browser preferences, without touching Katie's Pixel Friend or its database.
 
-Deployment and live verification are recorded below after the GitHub Actions run completes.
+## Live deployment
+
+- Published at https://nova-x-lux.github.io/elsewhere-updates/ from its own public repository.
+- GitHub Actions run 35413170269 completed successfully: collection, tests, build, retained snapshot and Pages deployment.
+- Live JSON loaded successfully with 8 successful sources, 146 items, and generatedAt 2026-09-19T01:36:31Z.
+- On the actual Pages URL, first-use onboarding, following PlayStation Blog, saving a real update, and saved-item persistence after a reload passed. The live browser error/warning log was empty.
+- The first token lacked the scope to create workflow files. The already connected GitHub app added the workflow successfully; no account permissions or token scopes were expanded.
