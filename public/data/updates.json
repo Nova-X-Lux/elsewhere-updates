@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-19T01:42:44Z",
+  "generatedAt": "2026-09-19T08:50:38Z",
   "sources": [
     {
       "id": "playstation",
@@ -12,8 +12,8 @@
       "description": "Announcements, release dates and updates from PlayStation.",
       "color": "#33548C",
       "initials": "PS",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
       "itemCount": 10
     },
@@ -27,8 +27,8 @@
       "description": "Game announcements and news from Xbox.",
       "color": "#426D43",
       "initials": "XB",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
       "itemCount": 10
     },
@@ -42,8 +42,8 @@
       "description": "Stardew Valley announcements published by its developer on Steam.",
       "color": "#8F6936",
       "initials": "SV",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
       "itemCount": 40
     },
@@ -57,10 +57,10 @@
       "description": "Games appearing in itch.io's new and popular cozy collection.",
       "color": "#AC514F",
       "initials": "IT",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
-      "itemCount": 36
+      "itemCount": 40
     },
     {
       "id": "nasa",
@@ -72,10 +72,10 @@
       "description": "Space missions, discoveries and research from NASA.",
       "color": "#395D85",
       "initials": "NA",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
-      "itemCount": 10
+      "itemCount": 11
     },
     {
       "id": "esa-space",
@@ -87,8 +87,8 @@
       "description": "Mission news and discoveries from the European Space Agency.",
       "color": "#456B77",
       "initials": "ESA",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
       "itemCount": 15
     },
@@ -102,8 +102,8 @@
       "description": "Electronics projects, ideas and Raspberry Pi announcements.",
       "color": "#8E4761",
       "initials": "RP",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
       "itemCount": 10
     },
@@ -117,13 +117,43 @@
       "description": "Ebooks newly added to or updated in Project Gutenberg's catalogue.",
       "color": "#815D49",
       "initials": "PG",
-      "checkedAt": "2026-09-19T01:42:44Z",
-      "lastSuccessAt": "2026-09-19T01:42:44Z",
+      "checkedAt": "2026-09-19T08:50:38Z",
+      "lastSuccessAt": "2026-09-19T08:50:38Z",
       "error": null,
-      "itemCount": 15
+      "itemCount": 16
     }
   ],
   "items": [
+    {
+      "id": "45fc58f283a01f0a5b0b609e",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "White nights, and other stories by Fyodor Dostoyevsky",
+      "url": "https://www.gutenberg.org/ebooks/36034",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
+    {
+      "id": "fd146fa90fdafe75279eb17c",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "APOD: 2026 September 19 – A Zodiacal Night",
+      "url": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+      "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+      "publishedAt": "2026-09-19T04:05:00Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
+    {
+      "id": "ca9b40ebeaea07cd38cb89c7",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "PachinPOP! [Free] [Action]",
+      "url": "https://asoda-ludic.itch.io/pachinpop",
+      "summary": "Come try this mix of Pachinko + Roguelite!!!",
+      "publishedAt": "2026-09-19T02:43:33Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
     {
       "id": "ff7714d7af9a27193ab53fed",
       "sourceId": "gutenberg",
@@ -275,6 +305,16 @@
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
+      "id": "12682aced3eb29794b73e47e",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Goldwood Empire [Free] [Strategy]",
+      "url": "https://wasdeq-games.itch.io/goldwood-empire",
+      "summary": "A sarcastic incremental empire-builder.",
+      "publishedAt": "2026-09-18T23:42:28Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
+    {
       "id": "bcafda47a909049670366200",
       "sourceId": "xbox",
       "sourceName": "Xbox Wire",
@@ -283,6 +323,16 @@
       "summary": "The EA Sports FC 27 10-hour EA Play trial is now available on XBOX Series X|S, XBOX One, and XBOX on PC for Game Pass Ultimate and PC Game Pass members. If members decide to buy, their progress carries over to the full…",
       "publishedAt": "2026-09-18T22:00:00Z",
       "firstSeenAt": "2026-09-19T01:09:35Z"
+    },
+    {
+      "id": "7fae8b57950819d571108455",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Jolen [Free] [Simulation]",
+      "url": "https://octoorca.itch.io/jolen",
+      "summary": "A cozy marble-shooting game by the sea. Bank shots, trickshots, and a bay full of washed-up treasures.",
+      "publishedAt": "2026-09-18T21:48:12Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
     },
     {
       "id": "4aa7ecf93cef86ad66b8147d",
@@ -305,6 +355,16 @@
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
+      "id": "d8ca4dbf5bb0a439e8991b3c",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Entre Folhas [Free] [Simulation]",
+      "url": "https://blackstar503.itch.io/entre-folhas",
+      "summary": "",
+      "publishedAt": "2026-09-18T18:53:52Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
+    {
       "id": "186c079f79eff22999f4592c",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -313,6 +373,16 @@
       "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and…",
       "publishedAt": "2026-09-18T18:02:53Z",
       "firstSeenAt": "2026-09-19T01:09:35Z"
+    },
+    {
+      "id": "0e7c1fa4b3f3e95f4828ba43",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Dolly Parton Clicker [Free] [Simulation]",
+      "url": "https://muditaheart.itch.io/dolly-parton-clicker",
+      "summary": "Play through Dolly Parton's life and works through this biographical narrative incremental game",
+      "publishedAt": "2026-09-18T17:24:36Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
     },
     {
       "id": "8dd01916e4553012cd8d1ba5",
@@ -483,6 +553,16 @@
       "summary": "",
       "publishedAt": "2026-09-18T00:03:38Z",
       "firstSeenAt": "2026-09-19T01:09:35Z"
+    },
+    {
+      "id": "1dbbba507d5f5c428008c9dc",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Root and Ruin DEMO [Free] [Simulation]",
+      "url": "https://hivemindstudios.itch.io/root-and-ruin",
+      "summary": "",
+      "publishedAt": "2026-09-17T23:39:13Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
     },
     {
       "id": "73a0b57abaff4481eb3d7210",
@@ -805,6 +885,16 @@
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
+      "id": "46d4dee6ec28793fa30ed652",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Active Listening [Free] [Simulation]",
+      "url": "https://bonzozone.itch.io/active-listening",
+      "summary": "A cozy and chill interactive listening experience, featuring 4 original ambient/instrumental guitar tracks",
+      "publishedAt": "2026-09-16T01:18:44Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
+    {
       "id": "2aa0b468a55380b9a2774dd8",
       "sourceId": "playstation",
       "sourceName": "PlayStation Blog",
@@ -1015,6 +1105,16 @@
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
+      "id": "433013d854b5105b331bc48f",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "BOBO ~In ANIMIA~ [Free] [Adventure] [Windows]",
+      "url": "https://bodiigame.itch.io/bobo-in-animia",
+      "summary": "A cozy roguelite adventure where you fight, farm, cook, build, and befriend adorable animals!",
+      "publishedAt": "2026-09-01T12:40:06Z",
+      "firstSeenAt": "2026-09-19T08:50:38Z"
+    },
+    {
       "id": "476acb9f2d2170375903492c",
       "sourceId": "esa-space",
       "sourceName": "ESA Space Science",
@@ -1125,16 +1225,6 @@
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
-      "id": "b91191daaefec0a56d9355d6",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Good Meat [Free] [Role Playing]",
-      "url": "https://ernie-interactive.itch.io/good-meat",
-      "summary": "16-bit inspired incremental game where players hunt animals, cook for customers, and buy up the universe!",
-      "publishedAt": "2026-08-13T20:18:02Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z"
-    },
-    {
       "id": "3b46b7940d540f352029c4ff",
       "sourceId": "esa-space",
       "sourceName": "ESA Space Science",
@@ -1152,26 +1242,6 @@
       "url": "https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb",
       "summary": "Image: Observing across the starry 'plains' of space, the NASA/ESA/CSA James Webb Space Telescope has taken images of NGC 2392, nicknamed the Lion Nebula. The NASA/ESA Hubble Space Telescope previously viewed this…",
       "publishedAt": "2026-08-10T14:00:00Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z"
-    },
-    {
-      "id": "191a1ee8edfefed389b0c2b3",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Mini Me-Mao [Free] [Simulation] [Windows] [macOS] [Linux]",
-      "url": "https://sleeping-robot-games.itch.io/mini-me-mao",
-      "summary": "A cozy desktop companion that paints while you decorate their room and dress them up",
-      "publishedAt": "2026-06-15T22:33:20Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z"
-    },
-    {
-      "id": "9a220b5d0c601cd9d2a9954b",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "CYBER SOUL [$2.99] [Visual Novel] [Windows] [macOS] [Linux]",
-      "url": "https://eve-pen-name.itch.io/cyber-soul",
-      "summary": "",
-      "publishedAt": "2026-05-11T12:41:35Z",
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
@@ -1512,16 +1582,6 @@
       "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4090922416510393241",
       "summary": "{STEAM_CLAN_IMAGE}/11170746/0ff2088d32e85c15092cb8096c4481e65b63d61d.png Hi everyone, Santa came early... Stardew Valley's 1.5 update is now available! As always, this update is completely free for anyone who owns…",
       "publishedAt": "2020-12-21T18:01:47Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z"
-    },
-    {
-      "id": "f4a75b18d559c484dbbbf7fd",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "CryptidCam Demo [Free] [Windows] [macOS]",
-      "url": "https://katmothman.itch.io/cryptidcam-demo",
-      "summary": "It's Pokemon Snap, but with cute cryptids!",
-      "publishedAt": "2020-12-07T19:01:46Z",
       "firstSeenAt": "2026-09-19T01:09:35Z"
     },
     {
