@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#eaf0f8" />
+    <meta
+      name="description"
+      content="Keep up with the things you follow. Read the latest updates, save something for later, and catch up at your own pace."
+    />
+    <title>Elsewhere — your updates</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to updates</a>
+    <div id="app">
+      <main class="boot">
+        <span class="wordmark">elsewhere<span>.</span></span>
+        <p>Opening your updates…</p>
+      </main>
+    </div>
+    <noscript
+      ><p class="noscript">
+        Enable JavaScript to choose sources and read your updates.
+      </p></noscript
+    >
+    <div id="announcer" role="status" aria-live="polite" class="sr-only"></div>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <dialog id="dialog"></dialog>
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>

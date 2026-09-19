@@ -1,0 +1,90 @@
+[
+  {
+    "id": "playstation",
+    "name": "PlayStation Blog",
+    "category": "Games",
+    "website": "https://blog.playstation.com/",
+    "url": "https://blog.playstation.com/feed/",
+    "type": "rss",
+    "description": "Announcements, release dates and updates from PlayStation.",
+    "color": "#33548C",
+    "initials": "PS"
+  },
+  {
+    "id": "xbox",
+    "name": "Xbox Wire",
+    "category": "Games",
+    "website": "https://news.xbox.com/en-us/",
+    "url": "https://news.xbox.com/en-us/feed/",
+    "type": "rss",
+    "description": "Game announcements and news from Xbox.",
+    "color": "#426D43",
+    "initials": "XB"
+  },
+  {
+    "id": "steam-stardew",
+    "name": "Stardew Valley",
+    "category": "Games",
+    "website": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "url": "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=413150&count=40&maxlength=400&feeds=steam_community_announcements",
+    "type": "steam",
+    "description": "Stardew Valley announcements published by its developer on Steam.",
+    "color": "#8F6936",
+    "initials": "SV"
+  },
+  {
+    "id": "itch-cozy",
+    "name": "Cozy games on itch.io",
+    "category": "Games",
+    "website": "https://itch.io/games/new-and-popular/tag-cozy",
+    "url": "https://itch.io/games/new-and-popular/tag-cozy.xml",
+    "type": "rss",
+    "description": "Games appearing in itch.io's new and popular cozy collection.",
+    "color": "#AC514F",
+    "initials": "IT"
+  },
+  {
+    "id": "nasa",
+    "name": "NASA",
+    "category": "Science",
+    "website": "https://www.nasa.gov/",
+    "url": "https://www.nasa.gov/feed/",
+    "type": "rss",
+    "description": "Space missions, discoveries and research from NASA.",
+    "color": "#395D85",
+    "initials": "NA"
+  },
+  {
+    "id": "esa-space",
+    "name": "ESA Space Science",
+    "category": "Science",
+    "website": "https://www.esa.int/Science_Exploration/Space_Science",
+    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science",
+    "type": "rss",
+    "description": "Mission news and discoveries from the European Space Agency.",
+    "color": "#456B77",
+    "initials": "ESA"
+  },
+  {
+    "id": "raspberry-pi",
+    "name": "Raspberry Pi",
+    "category": "Making",
+    "website": "https://www.raspberrypi.com/news/",
+    "url": "https://www.raspberrypi.com/news/feed/",
+    "type": "rss",
+    "description": "Electronics projects, ideas and Raspberry Pi announcements.",
+    "color": "#8E4761",
+    "initials": "RP"
+  },
+  {
+    "id": "gutenberg",
+    "name": "New free ebooks",
+    "category": "Books",
+    "website": "https://www.gutenberg.org/",
+    "url": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
+    "type": "rss",
+    "description": "Ebooks newly added to or updated in Project Gutenberg's catalogue.",
+    "color": "#815D49",
+    "initials": "PG"
+  }
+]
