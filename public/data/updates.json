@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-20T18:51:12Z",
+  "generatedAt": "2026-09-20T22:30:50Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 10
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 10
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 9
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 8
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 31
     },
@@ -170,10 +170,10 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
-      "itemCount": 8
+      "itemCount": 9
     },
     {
       "id": "pokemon-merch",
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 8
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 9
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 8
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 9
     },
@@ -309,10 +309,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
-      "itemCount": 9
+      "itemCount": 10
     },
     {
       "id": "nintendo",
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 30
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 20
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 21
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 10
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 10
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
-      "itemCount": 55
+      "itemCount": 60
     },
     {
       "id": "nasa",
@@ -499,8 +499,8 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 12
     },
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 15
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
       "itemCount": 10
     },
@@ -562,13 +562,106 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-09-20T18:51:12Z",
-      "lastSuccessAt": "2026-09-20T18:51:12Z",
+      "checkedAt": "2026-09-20T22:30:50Z",
+      "lastSuccessAt": "2026-09-20T22:30:50Z",
       "error": null,
-      "itemCount": 23
+      "itemCount": 29
     }
   ],
   "items": [
+    {
+      "id": "cc9ef8dcc250c7fc8e348e30",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume II)",
+      "url": "https://www.gutenberg.org/ebooks/79619",
+      "summary": "Language: Portuguese",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-20T22:30:50Z"
+    },
+    {
+      "id": "cc96f213ec32775e3c0d24a6",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Histoire maccaronique de Merlin Coccaie by Teofilo Folengo",
+      "url": "https://www.gutenberg.org/ebooks/79618",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-20T22:30:50Z"
+    },
+    {
+      "id": "c03caa6b571c3873496c0fcd",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Tama of the light country by Ray Cummings",
+      "url": "https://www.gutenberg.org/ebooks/79620",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-20T22:30:50Z"
+    },
+    {
+      "id": "9c210d7fc3ef04934ed7dfd7",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The poetical works of Anna Seward, Vol. 2 [of 3] by Anna Seward",
+      "url": "https://www.gutenberg.org/ebooks/79616",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-20T22:30:50Z"
+    },
+    {
+      "id": "66be1e2d8591b5cde101a9a0",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The poetical works of Anna Seward, Vol. 3 [of 3] by Anna Seward",
+      "url": "https://www.gutenberg.org/ebooks/79617",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-20T22:30:50Z"
+    },
+    {
+      "id": "546256ce0478aa6ff87e1907",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The poetical works of Anna Seward, Vol. 1 [of 3] by Anna Seward",
+      "url": "https://www.gutenberg.org/ebooks/79615",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-20T22:30:50Z"
+    },
+    {
+      "id": "abfb6aa17b370147e6f31311",
+      "sourceId": "pokemon-masters",
+      "sourceName": "Pokémon Masters EX",
+      "title": "Pokémon Masters EX brings back Irida and Typhlosion in new EX Master Fair Scout",
+      "url": "https://pokemonblog.com/2026/09/20/pokemon-masters-ex-brings-back-irida-and-typhlosion-in-new-ex-master-fair-scout/",
+      "summary": "Pokémon Masters EX has brought back 5★ Irida (Anniversary 2025) & Typhlosion in a limited-time EX Master Fair Scout running from Sept. 19 at 11 p.m. PT through Oct. 2 at 10:59 p.m. PT. The returning EX Master Sync Pair…",
+      "publishedAt": "2026-09-20T21:30:05Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2025/08/irida_anniversary_2025_and_hisuian_typhlosion_pokemon_masters_ex.jpg"
+    },
+    {
+      "id": "2d30be2e6d4077be35a11fab",
+      "sourceId": "pokemon-anime",
+      "sourceName": "Pokémon anime",
+      "title": "Pokémon: Lucario and the Mystery of Mew celebrates 20th anniversary of U.S. release",
+      "url": "https://pokemonblog.com/2026/09/20/pokemon-lucario-and-the-mystery-of-mew-celebrates-20th-anniversary-of-u-s-release/",
+      "summary": "Pokémon: Lucario and the Mystery of Mew marked 20 years since its U.S. release on Sept. 19, 2006, with the official Pokémon social media account commemorating the anniversary Saturday. The 2005 animated film, which…",
+      "publishedAt": "2026-09-20T21:26:18Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2019/07/pokemon_lucario_and_the_mystery_of_mew_pokemon_tv.jpg"
+    },
+    {
+      "id": "30b66d997c17653477d5c18b",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Cruzadinhas [Free] [Puzzle]",
+      "url": "https://ylovalho.itch.io/cruzadinhas",
+      "summary": "monte o máximo de palavras que conseguir!",
+      "publishedAt": "2026-09-20T19:16:33Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTMxOTg0LnBuZw==/315x250%23c/O7ReYw.png"
+    },
     {
       "id": "94e781889f0d928622bc7fa9",
       "sourceId": "gutenberg",
@@ -578,6 +671,17 @@
       "summary": "Language: Dutch",
       "publishedAt": null,
       "firstSeenAt": "2026-09-20T18:51:12Z"
+    },
+    {
+      "id": "7d7a365b54727693b23e90bb",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Ketch-Ants [Free] [Other]",
+      "url": "https://tenairi.itch.io/ketch-ants",
+      "summary": "",
+      "publishedAt": "2026-09-20T17:38:58Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTI3MDYxLnBuZw==/315x250%23c/EL1%2Fq1.png"
     },
     {
       "id": "6b7489745f441613a80e8227",
@@ -633,6 +737,17 @@
       "publishedAt": "2026-09-20T14:17:32Z",
       "firstSeenAt": "2026-09-20T18:51:12Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMTIyMzA2LnBuZw==/315x250%23c/a%2FyqSW.png"
+    },
+    {
+      "id": "b3ae6a14b028b7040bd07adc",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Delicious T(h)reat [Free] [Strategy] [Windows]",
+      "url": "https://pandazzzle.itch.io/deliciousthreat",
+      "summary": "“I’ll have what she’s having… (or maybe not).”",
+      "publishedAt": "2026-09-20T13:15:19Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTI3ODAyLnBuZw==/315x250%23c/uk0qKQ.png"
     },
     {
       "id": "51db12e82363b428e24675cf",
@@ -731,6 +846,17 @@
       "publishedAt": "2026-09-20T06:30:00Z",
       "firstSeenAt": "2026-09-20T13:05:09Z",
       "imageUrl": "https://images.nintendolife.com/3a09dcbb19df1/large.jpg"
+    },
+    {
+      "id": "85ec318a8fbf460072013c8b",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Last Farewell [Free] [Other] [Windows]",
+      "url": "https://joanieb.itch.io/last-farewell",
+      "summary": "",
+      "publishedAt": "2026-09-20T05:59:43Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTI5NjU0LnBuZw==/315x250%23c/i8ayX2.png"
     },
     {
       "id": "db3a47deeb8df2176be9bb86",
@@ -848,6 +974,17 @@
       "publishedAt": "2026-09-19T20:43:12Z",
       "firstSeenAt": "2026-09-19T22:20:59Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMTA1OTgyLnBuZw==/315x250%23c/cM5vuk.png"
+    },
+    {
+      "id": "73343096c9b28cc90f75fa06",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Trouble Brewing [Free] [Role Playing] [Windows] [macOS] [Linux]",
+      "url": "https://meganerk.itch.io/trouble-brewing",
+      "summary": "Use your expertise as an alchemist to prepare adventurers for a battle with the dragon threatening your village.",
+      "publishedAt": "2026-09-19T19:51:39Z",
+      "firstSeenAt": "2026-09-20T22:30:50Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTMxNTc4LnBuZw==/315x250%23c/L%2Fzf8p.png"
     },
     {
       "id": "1adca477eb60a86b2b4e3959",
