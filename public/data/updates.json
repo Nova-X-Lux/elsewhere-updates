@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T19:42:17Z",
+  "generatedAt": "2026-09-23T22:58:59Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 10
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 10
     },
@@ -83,10 +83,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
-      "itemCount": 11
+      "itemCount": 12
     },
     {
       "id": "pokemon-pocket",
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 8
     },
@@ -140,10 +140,10 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "id": "pokemon-anime",
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 9
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 8
     },
@@ -230,10 +230,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
-      "itemCount": 10
+      "itemCount": 11
     },
     {
       "id": "pokemon-unite",
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 9
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 12
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 11
     },
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 60
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 20
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 24
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 14
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 16
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
-      "itemCount": 91
+      "itemCount": 95
     },
     {
       "id": "nasa",
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
-      "itemCount": 38
+      "itemCount": 41
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 16
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
       "itemCount": 12
     },
@@ -562,13 +562,109 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-09-23T19:42:17Z",
-      "lastSuccessAt": "2026-09-23T19:42:17Z",
+      "checkedAt": "2026-09-23T22:58:59Z",
+      "lastSuccessAt": "2026-09-23T22:58:59Z",
       "error": null,
-      "itemCount": 57
+      "itemCount": 60
     }
   ],
   "items": [
+    {
+      "id": "bb99652dd9f27badc7b8bb4b",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "I, the vampire by Henry Kuttner",
+      "url": "https://www.gutenberg.org/ebooks/79638",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-23T22:58:59Z"
+    },
+    {
+      "id": "66abeaa5f0934b0b221c1cae",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "What the butler winked at : by Eric Horne",
+      "url": "https://www.gutenberg.org/ebooks/79637",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-23T22:58:59Z"
+    },
+    {
+      "id": "55a25300804054821b64b0d3",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "La chienne by Georges de la Fouchardière",
+      "url": "https://www.gutenberg.org/ebooks/79639",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-23T22:58:59Z"
+    },
+    {
+      "id": "77060c7154088f5bce33f146",
+      "sourceId": "pokemon-events",
+      "sourceName": "Play! Pokémon events",
+      "title": "Pokémon Regional Championships return to Stuttgart on Nov. 28-29",
+      "url": "https://pokemonblog.com/2026/09/23/pokemon-regional-championships-return-to-stuttgart-on-nov-28-29/",
+      "summary": "The Pokémon Regional Championships will return to Stuttgart, Germany, on Nov. 28-29, 2026, at Messe Stuttgart’s Hall 1, featuring official tournaments for the Pokémon Trading Card Game, Pokémon video game and Pokémon…",
+      "publishedAt": "2026-09-23T22:55:47Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2018/06/pokemon_regional_championships_tapu_koko_and_tapu_lele.jpg"
+    },
+    {
+      "id": "4130f043ba3efda6eebfdd06",
+      "sourceId": "pokemon-cards",
+      "sourceName": "Pokémon cards",
+      "title": "Pokémon Regional Championships return to Stuttgart on Nov. 28-29",
+      "url": "https://pokemonblog.com/2026/09/23/pokemon-regional-championships-return-to-stuttgart-on-nov-28-29/",
+      "summary": "The Pokémon Regional Championships will return to Stuttgart, Germany, on Nov. 28-29, 2026, at Messe Stuttgart’s Hall 1, featuring official tournaments for the Pokémon Trading Card Game, Pokémon video game and Pokémon…",
+      "publishedAt": "2026-09-23T22:55:47Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2018/06/pokemon_regional_championships_tapu_koko_and_tapu_lele.jpg"
+    },
+    {
+      "id": "f358c477c87f28d682240003",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Modernizes Commercial Airline Systems",
+      "url": "https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/",
+      "summary": "NASA’s researchers know that when you settle into your seat on a commercial flight, you expect a smooth takeoff, views over the clouds, a steady descent, and hopefully an early arrival at your destination. But when…",
+      "publishedAt": "2026-09-23T22:08:54Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/acd26-0034-011.jpg?w=2048"
+    },
+    {
+      "id": "9f57460f34695b6a4a31e89d",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Welcomes Croatia as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-croatia-as-newest-artemis-accords-signatory/",
+      "summary": "The Republic of Croatia became the 74th signatory to the Artemis Accords on Wednesday during a ceremony in the capital city of Zagreb with NASA and U.S. Department of State officials present. “It is my privilege to…",
+      "publishedAt": "2026-09-23T20:37:19Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/artemis-accords-croatia-74-092326.jpg?w=2048"
+    },
+    {
+      "id": "a7eea77afa9adfe58f64066a",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Selects Far-Infrared Telescope as First in New Mission Class",
+      "url": "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+      "summary": "NASA announced Wednesday a mission to explore the history and evolution of the universe, PRIMA (PRobe far-Infrared Mission for Astrophysics), is advancing to the next phase of development. This space telescope is the…",
+      "publishedAt": "2026-09-23T20:09:42Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
+    },
+    {
+      "id": "332e2dacbd2df64ce0bcadda",
+      "sourceId": "pokemon-go",
+      "sourceName": "Pokémon GO",
+      "title": "Fall Marathon: Buddy Trek will bring Bramblin’s Pokémon GO debut!",
+      "url": "https://pokemongo.com/news/fall-marathon-buddy-trek-2026",
+      "summary": "",
+      "publishedAt": "2026-09-23T19:59:00Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://lh3.googleusercontent.com/M4kOTm3cvwmzkibKybdE7ItO-lG_C4RpMeI-UQJdEH7kOGF36MjUUo_2VVd6QMHmGoUypowGKIzv2f7LBAXjT3qrtYNNYRhX4GszOYp3vw=s0-e365"
+    },
     {
       "id": "0baf2b64c4e28e762409efa3",
       "sourceId": "nasa",
@@ -764,6 +860,17 @@
       "imageUrl": "https://images.nintendolife.com/88e6aa2417a5c/large.jpg"
     },
     {
+      "id": "7fa50702538239d6e8a8e202",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "The Wee Pier - An Island Fishing Idle [Free] [Simulation]",
+      "url": "https://peatstack.itch.io/the-wee-pier",
+      "summary": "A cosy island fishing idle. Bait the line, land the catch, watch the numbers climb.",
+      "publishedAt": "2026-09-23T10:13:20Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjA5NDI5LnBuZw==/315x250%23c/GMDoKR.png"
+    },
+    {
       "id": "083acf09122b34848b2b5f26",
       "sourceId": "nintendo",
       "sourceName": "Nintendo",
@@ -784,6 +891,17 @@
       "publishedAt": "2026-09-23T09:00:00Z",
       "firstSeenAt": "2026-09-23T13:41:52Z",
       "imageUrl": "https://images.nintendolife.com/2ddd682fcde05/large.jpg"
+    },
+    {
+      "id": "2951058ca27cce92df95cd6b",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Whisper Hollow [Free] [Visual Novel]",
+      "url": "https://petrisa.itch.io/whisper-hollow",
+      "summary": "Words unlock worlds. Read aloud to light up a sleeping kingdom.",
+      "publishedAt": "2026-09-23T08:42:54Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk1NTc5LnBuZw==/315x250%23c/OD%2FTnb.png"
     },
     {
       "id": "d7fcf0dfeeb8b45f4db4baf9",
@@ -1093,7 +1211,7 @@
       "sourceName": "Cozy games on itch.io",
       "title": "Sheepscape [Free] [Simulation] [Windows] [macOS]",
       "url": "https://lemurtangogames.itch.io/sheepscape",
-      "summary": "You, one dog, and a field full of sheep.",
+      "summary": "A cozy sheep-farming sim",
       "publishedAt": "2026-09-22T15:57:29Z",
       "firstSeenAt": "2026-09-23T19:42:17Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMTg0Mjk0LnBuZw==/315x250%23c/dOA%2FCY.png"
@@ -1336,6 +1454,17 @@
       "publishedAt": "2026-09-22T09:15:00Z",
       "firstSeenAt": "2026-09-22T13:27:36Z",
       "imageUrl": "https://images.nintendolife.com/db642e4460dae/large.jpg"
+    },
+    {
+      "id": "78fe040d886fd1b61d8c947a",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Feature Creep [Free] [Card Game]",
+      "url": "https://sh0tybumbati.itch.io/feature-creep",
+      "summary": "A deckbuilder about never, ever finishing your game.",
+      "publishedAt": "2026-09-22T06:31:06Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjA3MDYxLnBuZw==/315x250%23c/OsaskA.png"
     },
     {
       "id": "eb3cd02af8c0c1c0fbe6d80f",
@@ -2024,6 +2153,17 @@
       "publishedAt": "2026-09-21T09:00:00Z",
       "firstSeenAt": "2026-09-21T15:09:17Z",
       "imageUrl": "https://images.nintendolife.com/2a92035183820/large.jpg"
+    },
+    {
+      "id": "260277c4b86a8695e20d2820",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "RhythmTago [Free] [Rhythm] [macOS]",
+      "url": "https://bkchoi.itch.io/rhythm-tago",
+      "summary": "RHYTHMTAGO is a playful rhythm game where you listen, follow the beat, and respond with your own rhythm.",
+      "publishedAt": "2026-09-21T08:37:35Z",
+      "firstSeenAt": "2026-09-23T22:58:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTkxMDcyLnBuZw==/315x250%23c/HJMTvp.png"
     },
     {
       "id": "1223988e984e18d804324905",
