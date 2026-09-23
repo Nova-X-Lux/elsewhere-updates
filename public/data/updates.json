@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-23T13:41:52Z",
+  "generatedAt": "2026-09-23T19:42:17Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 10
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 10
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 11
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 8
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 35
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 9
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 8
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 10
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 9
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 12
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 11
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
-      "itemCount": 58
+      "itemCount": 60
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 20
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 24
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 14
     },
@@ -433,10 +433,10 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
-      "itemCount": 15
+      "itemCount": 16
     },
     {
       "id": "steam-stardew",
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
-      "itemCount": 83
+      "itemCount": 91
     },
     {
       "id": "nasa",
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
-      "itemCount": 31
+      "itemCount": 38
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 16
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 12
     },
@@ -562,13 +562,143 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-09-23T13:41:52Z",
-      "lastSuccessAt": "2026-09-23T13:41:52Z",
+      "checkedAt": "2026-09-23T19:42:17Z",
+      "lastSuccessAt": "2026-09-23T19:42:17Z",
       "error": null,
       "itemCount": 57
     }
   ],
   "items": [
+    {
+      "id": "0baf2b64c4e28e762409efa3",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Aircraft to Make Low-Altitude Research Flights Over Colorado",
+      "url": "https://www.nasa.gov/general/nasa-aircraft-to-make-low-altitude-research-flights-over-colorado/",
+      "summary": "Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates…",
+      "publishedAt": "2026-09-23T19:03:03Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960"
+    },
+    {
+      "id": "af2a7627a1b3ec1b4405e4ed",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
+      "url": "https://www.nasa.gov/image-article/nasas-hubble-telescope-reaches-milestone-looks-for-elusive-supernova/",
+      "summary": "NASA’s Hubble Space Telescope captured this image of massive galaxy cluster MACS J0417 (left of center) on Sept. 19, 2026. This galaxy cluster acts as a gravitational lens, bending and magnifying light from objects far…",
+      "publishedAt": "2026-09-23T18:43:43Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stsci-h-p26023a-m-2000x1207-1.jpg?w=2000"
+    },
+    {
+      "id": "54dabb5b2679dbe1c5ff44a7",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "Age of Empires II: Definitive Edition – The Viking Sagas Available Now",
+      "url": "https://news.xbox.com/en-us/2026/09/23/age-of-empires-ii-definitive-edition-the-viking-sagas-available-now/",
+      "summary": "The post Age of Empires II: Definitive Edition – The Viking Sagas Available Now appeared first on XBOX Wire.",
+      "publishedAt": "2026-09-23T18:00:00Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z"
+    },
+    {
+      "id": "128a66b30241e9521694b682",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Opinion: I Think I'm Missing Something About Stellar Blade On Switch 2",
+      "url": "https://www.nintendolife.com/features/opinion-i-think-im-missing-something-about-stellar-blade-on-switch-2",
+      "summary": "Not quite landing. I’ve been hearing a lot of hype around Stellar Blade - that is when fans haven’t been lamenting the sequel’s awful AI music video the creators decided was a good idea. I’d heard it was Bayonetta…",
+      "publishedAt": "2026-09-23T18:00:00Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://images.nintendolife.com/b930543d874a6/large.jpg"
+    },
+    {
+      "id": "7789e3cdcf85c555fabb8b72",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Arctic Sea Ice Reaches 2026 Annual Minimum Extent",
+      "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+      "summary": "Arctic sea ice reached its annual minimum extent on Sept. 12, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado Boulder. The ice covered an estimated 1.78 million square…",
+      "publishedAt": "2026-09-23T17:15:32Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/earth-observer/2025/NASA-meatball-blk.png?w=1920&h=1080&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "8872fd7f64da8d9e62a68496",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Tanning Salon Simulator [Free] [Simulation]",
+      "url": "https://ghostinthelobby.itch.io/tanning-salon-simulator",
+      "summary": "",
+      "publishedAt": "2026-09-23T16:19:12Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjA0NDQ0LnBuZw==/315x250%23c/KB1JYu.png"
+    },
+    {
+      "id": "eeba32dbd894affb3d8986ea",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Shannon Lucid’s Record-Setting Mission Aboard Mir",
+      "url": "https://www.nasa.gov/image-article/shannon-lucids-record-setting-mission-aboard-mir/",
+      "summary": "Shannon Lucid’s Record-Setting Mission Aboard Mir Three days before returning to Earth, Shannon W. Lucid—who joined NASA in 1978 as one of its first six female astronauts—checked in on wheat growing in the Svet…",
+      "publishedAt": "2026-09-23T16:03:37Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://images-assets.nasa.gov/image/s79e5277/s79e5277~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "cb1131826de9f2fb16e5c0e6",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Casa De IAs [Free] [Other]",
+      "url": "https://leo-game-dev.itch.io/casa-de-ias",
+      "summary": "Colecciona, apuesta, programa y gana.",
+      "publishedAt": "2026-09-23T15:59:04Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjAzOTA3LnBuZw==/315x250%23c/1%2BEBqq.png"
+    },
+    {
+      "id": "f92498ffc3606f1f7be5ac18",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Poll: Who's Your Favourite Fire Emblem: Fortune's Weave Character?",
+      "url": "https://www.nintendolife.com/features/poll-whos-your-favourite-fire-emblem-fortunes-weave-character",
+      "summary": "Cai on the prize. If you have been playing Fire Emblem: Fortune's Weave this past week, then I'm sure you have already started stewing a favourites list for the four main heroes. Be it their dazzling combat abilities…",
+      "publishedAt": "2026-09-23T15:00:00Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://images.nintendolife.com/bdc052b6f5fb6/large.jpg"
+    },
+    {
+      "id": "80275455e20b9874a0fdc0ad",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "FFA 2026 Hyperwall Schedule",
+      "url": "https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/",
+      "summary": "FFA 2026 Hyperwall Schedule",
+      "publishedAt": "2026-09-23T14:58:13Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z"
+    },
+    {
+      "id": "b85872b9a8e1022f4828ebd2",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Risk of Hydrazine Use Following Freeze–Thaw Exposure",
+      "url": "https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/",
+      "summary": "For more information, contact Jonathan E. Jones, Langley Research Center, jonathan.e.jones@nasa.gov Download the PDF version The purpose of this Technical Bulletin is to communicate the risks associated with…",
+      "publishedAt": "2026-09-23T14:31:58Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2015/04/nesc-tb-26-06-hydrazine-powered-sls-bosster-thrust-vector-control-system.png?w=581"
+    },
+    {
+      "id": "6d0ec53d78de11725fd8ba93",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+      "summary": "NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe. Hubble has traveled…",
+      "publishedAt": "2026-09-23T13:55:34Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/clusters/STSCI-H-p26023a-m-2000x1207.jpg?w=2000&h=1207&fit=clip&crop=faces%2Cfocalpoint"
+    },
     {
       "id": "dc951ff5a5bf1960fa01ac22",
       "sourceId": "gutenberg",
@@ -599,6 +729,28 @@
       "publishedAt": "2026-09-23T13:00:00Z",
       "firstSeenAt": "2026-09-23T13:41:52Z",
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/CTRL_R_Launch_4K_Public_03-8239be67850ed8d29793-1024x576.jpg"
+    },
+    {
+      "id": "8b959ee3229224c78a0608a2",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Civilization Alchemy [Free] [Puzzle]",
+      "url": "https://novascreen.itch.io/civilization-alchemy",
+      "summary": "Combine two elements and discover the inventions that shaped civilization.",
+      "publishedAt": "2026-09-23T12:38:27Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk5ODE2LnBuZw==/315x250%23c/B3YdHc.png"
+    },
+    {
+      "id": "5b9a0522508629c1c6cd7f2c",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Jewel Bloom [Free] [Simulation]",
+      "url": "https://nexustide400.itch.io/jewel-bloom",
+      "summary": "Mine gems, upgrade your gear, and grow a little settlement. A short, ad-free game for PC & mobile.",
+      "publishedAt": "2026-09-23T12:29:58Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjA0MjM2LnBuZw==/315x250%23c/XCHPq8.png"
     },
     {
       "id": "f2de90d2fd03171445262c88",
@@ -632,6 +784,17 @@
       "publishedAt": "2026-09-23T09:00:00Z",
       "firstSeenAt": "2026-09-23T13:41:52Z",
       "imageUrl": "https://images.nintendolife.com/2ddd682fcde05/large.jpg"
+    },
+    {
+      "id": "d7fcf0dfeeb8b45f4db4baf9",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Just One Drop [Free] [Simulation]",
+      "url": "https://lowpolysaint.itch.io/just-one-drop",
+      "summary": "A calm idle clicker. Click a little cloud and it rains on a painted sea.",
+      "publishedAt": "2026-09-23T08:23:42Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTk1NTE2LnBuZw==/315x250%23c/dbHXzy.png"
     },
     {
       "id": "b4356a0220697b2efc62158c",
@@ -828,6 +991,17 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_general_notices_nightcap_pikachu.jpg"
     },
     {
+      "id": "808a0bedf5dd8303d4f750fb",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Sprayloom Co. [Free] [Simulation] [Windows] [Linux]",
+      "url": "https://arkkis.itch.io/sprayloom",
+      "summary": "An early test build of a pressure washing game. Three short jobs.",
+      "publishedAt": "2026-09-22T20:36:04Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTg3MTEzLnBuZw==/315x250%23c/oKGol1.png"
+    },
+    {
       "id": "ce3792e247d230de2f71a575",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
@@ -912,6 +1086,17 @@
       "publishedAt": "2026-09-22T17:00:00Z",
       "firstSeenAt": "2026-09-22T19:46:05Z",
       "imageUrl": "https://lh3.googleusercontent.com/YI_hCo34fVtgznowncdPRDK3uObq-7nJkPTmsttNh2uBZGkKDqFWvPQFP-9lTLmjkvpb-iHQq-JERqqXXYbVsWryT2gNTWc5_xVf3H0H-3FN=s0-e365"
+    },
+    {
+      "id": "17d3d29a1e2abe160795859a",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Sheepscape [Free] [Simulation] [Windows] [macOS]",
+      "url": "https://lemurtangogames.itch.io/sheepscape",
+      "summary": "You, one dog, and a field full of sheep.",
+      "publishedAt": "2026-09-22T15:57:29Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTg0Mjk0LnBuZw==/315x250%23c/dOA%2FCY.png"
     },
     {
       "id": "d8869e849c2fa3ece1695141",
@@ -1645,6 +1830,17 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMTU3MDQ5LnBuZw==/315x250%23c/YCjIY3.png"
     },
     {
+      "id": "a60779eebeb74d637ae8efc8",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Nature Hike [$2.00] [Visual Novel] [Windows] [macOS] [Linux]",
+      "url": "https://maximjdev.itch.io/nature-hike",
+      "summary": "A short and sweet cozy visual novel!",
+      "publishedAt": "2026-09-21T14:17:00Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTU2MDc0LmpwZw==/315x250%23c/89BkS0.jpg"
+    },
+    {
       "id": "b47ac59dcff735171c53aaf1",
       "sourceId": "esa-space",
       "sourceName": "ESA Space Science",
@@ -2070,6 +2266,17 @@
       "publishedAt": "2026-09-20T17:19:52Z",
       "firstSeenAt": "2026-09-20T18:51:12Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMTI2NDE3LnBuZw==/315x250%23c/4s050Z.png"
+    },
+    {
+      "id": "ca4b84c0cee0fa729ef82556",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "A (tiny) Slime Quest - Demo [Free] [Adventure] [Windows]",
+      "url": "https://simple-a-experiences.itch.io/a-tiny-slime-quest",
+      "summary": "A short top down cozy adventure game in which you play as a harmless slime, exiled to a village teeming with mystery.",
+      "publishedAt": "2026-09-20T16:49:24Z",
+      "firstSeenAt": "2026-09-23T19:42:17Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMTI3MDc5LnBuZw==/315x250%23c/wcSKJf.png"
     },
     {
       "id": "928a0aa006db6a4983ac1942",
@@ -3483,10 +3690,10 @@
       "sourceName": "Cozy games on itch.io",
       "title": "Little Vac [Free] [Simulation]",
       "url": "https://fooded.itch.io/little-vac",
-      "summary": "Clean against the clock, upgrade your little vacuum, and uncover 24 illustrated treasures.",
+      "summary": "Start with a dusty shack. Build your little vacuum, find hidden keepsakes, and work your way to a mansion.",
       "publishedAt": "2026-09-17T21:28:07Z",
       "firstSeenAt": "2026-09-20T04:59:12Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTQyNDkwLnBuZw==/315x250%23c/aHB%2F9c.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjAyNjExLnBuZw==/315x250%23c/EcGffA.png"
     },
     {
       "id": "837f763d1c8aa5b1c0092e4b",
@@ -3901,17 +4108,6 @@
       "publishedAt": "2026-09-16T16:02:29Z",
       "firstSeenAt": "2026-09-19T01:09:35Z",
       "imageUrl": "https://www.raspberrypi.com/app/uploads/2026/09/RPOM-210x276_Annual-2027-web-1024x1024.jpg"
-    },
-    {
-      "id": "6a50ab3d5a8ba844b041c85a",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "I Have a Garden [Free] [Simulation]",
-      "url": "https://ihaveagamestudio.itch.io/i-have-a-garden",
-      "summary": "One zucchini plant. 48 real days. It keeps growing while the tab is closed.",
-      "publishedAt": "2026-09-16T14:40:58Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDMzOTAyLnBuZw==/315x250%23c/dZmU84.png"
     },
     {
       "id": "2df0285ae1cb19dad9eda0e3",
