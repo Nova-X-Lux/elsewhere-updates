@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T13:54:07Z",
+  "generatedAt": "2026-09-25T20:03:00Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 14
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 12
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 15
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 11
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 9
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 8
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 12
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 10
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 13
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 11
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 69
+      "itemCount": 70
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 20
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 26
     },
@@ -413,10 +413,10 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 15
+      "itemCount": 18
     },
     {
       "id": "xbox",
@@ -433,10 +433,10 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 20
+      "itemCount": 25
     },
     {
       "id": "steam-stardew",
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 106
+      "itemCount": 103
     },
     {
       "id": "nasa",
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 47
+      "itemCount": 49
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
       "itemCount": 17
     },
@@ -540,10 +540,10 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 12
+      "itemCount": 13
     },
     {
       "id": "gutenberg",
@@ -562,13 +562,264 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-09-25T13:54:07Z",
-      "lastSuccessAt": "2026-09-25T13:54:07Z",
+      "checkedAt": "2026-09-25T20:03:00Z",
+      "lastSuccessAt": "2026-09-25T20:03:00Z",
       "error": null,
-      "itemCount": 74
+      "itemCount": 76
     }
   ],
   "items": [
+    {
+      "id": "aa2874178c5e2c2e9367ee85",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "A minute to think by Ray Humphreys",
+      "url": "https://www.gutenberg.org/ebooks/79649",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-25T20:03:00Z"
+    },
+    {
+      "id": "459d42aaf085f1ab19db4ab9",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Historia geral da invasão dos francezes em Portugal e da restauração deste reino (Volume IV)",
+      "url": "https://www.gutenberg.org/ebooks/79650",
+      "summary": "Language: Portuguese",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-25T20:03:00Z"
+    },
+    {
+      "id": "95c3eaa3a25186dc39e860ac",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing…",
+      "publishedAt": "2026-09-25T19:53:03Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/san-marino.jpeg?w=1600"
+    },
+    {
+      "id": "fc80f85b0760626cfb816b31",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+      "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight…",
+      "publishedAt": "2026-09-25T19:36:10Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://images-assets.nasa.gov/image/933/933~large.jpg?w=1920&h=1440&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "7a146ffce9275e762877f50b",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "Five Ways to Build a Better Used-Car Business in Used Cars Simulator",
+      "url": "https://news.xbox.com/en-us/2026/09/25/five-ways-to-build-a-better-used-car-business/",
+      "summary": "Buying a cheap car is easy. Figuring out whether it is actually a good deal takes a little more work. In Used Cars Simulator, every vehicle can be an opportunity – or a collection of dents, missing parts, and…",
+      "publishedAt": "2026-09-25T18:00:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/2-416c8016ebb73acd32b1.jpg"
+    },
+    {
+      "id": "0b9e5a70939418a1c562ad62",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System…",
+      "publishedAt": "2026-09-25T17:20:51Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-ms-web.jpg?w=2048"
+    },
+    {
+      "id": "da551a47cfcfba44095f191c",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "Official PlayStation Podcast Episode 548: September Selects",
+      "url": "https://blog.playstation.com/2026/09/25/official-playstation-podcast-episode-548-september-selects/",
+      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, everybody! We’re back this week to talk through September’s big releases and other recent titles we’re still playing. Stuff…",
+      "publishedAt": "2026-09-25T17:20:35Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://blog.playstation.com/tachyon/2026/09/1c3481bf10fb1f00372ad48b52fcb3e181dfb759.jpg"
+    },
+    {
+      "id": "a525fcca19fdebd83c8b2807",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "2026-2027 DWU: High School Engineering Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+      "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’…",
+      "publishedAt": "2026-09-25T17:19:42Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/dwu-x-plane-design2-16x9-hs-web.jpg?w=2048"
+    },
+    {
+      "id": "9f403fbc089dfffd4f1cbd7a",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Soulslike 'Fountains' Gets A Free Switch 2 Upgrade Pack One Week After Launch",
+      "url": "https://www.nintendolife.com/news/2026/09/soulslike-fountains-gets-a-free-switch-2-upgrade-pack-one-week-after-launch",
+      "summary": "120fps + an exclusive \"Gauntlet Mode\". We're into the final week of September and the video games have been coming so thick and fast that it's hard to keep up. One such game — indie Soulslike Fountains — released just…",
+      "publishedAt": "2026-09-25T16:30:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://images.nintendolife.com/f84be037eec16/large.jpg"
+    },
+    {
+      "id": "77a55c7875e1abc716f0f987",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "Share of the Week – Marvel’s Wolverine",
+      "url": "https://blog.playstation.com/2026/09/25/share-of-the-week-marvels-wolverine/",
+      "summary": "Last week, we asked you to share ferocious moments from Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: adambomb2mk shares Wolverine’s claws illuminated in the…",
+      "publishedAt": "2026-09-25T16:00:47Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://live.staticflickr.com/65535/55547094242_19061698dd_k.jpg"
+    },
+    {
+      "id": "157b6134d4603055a2c38c59",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "Gears of War: E-Day x Liquid Death – Unlock a Legendary Pose and More",
+      "url": "https://news.xbox.com/en-us/2026/09/25/gears-of-war-e-day-liquid-death/",
+      "summary": "Gears of War: E-Day launches with a collab that puts a Legendary pose in your hands. We’re teaming up with Liquid Death from September 25 through November 30, bringing an in-game reward, a limited-edition merch drop…",
+      "publishedAt": "2026-09-25T16:00:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/GoW_EDAY_LiquidDeath-1-ba9b306aa6e0fc70a9ff-1024x576.jpg"
+    },
+    {
+      "id": "1a0d465241552aa149dfda48",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+      "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has…",
+      "publishedAt": "2026-09-25T15:54:10Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55534741297-34e5a9d414-o.jpg?w=2018"
+    },
+    {
+      "id": "4939861fd158a2ab4a653090",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Ten Seats [Free] [Simulation]",
+      "url": "https://launchwaygames.itch.io/ten-seats",
+      "summary": "A small café, one day at a time. No clock and nobody leaves angry - seat people and see who comes back.",
+      "publishedAt": "2026-09-25T15:49:04Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjQ5OTI4LnBuZw==/315x250%23c/RvOBLo.png"
+    },
+    {
+      "id": "d242a4e59f917029306fc104",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Four Years After Release, Splatoon 3's Player Numbers Are On The Up In 2026",
+      "url": "https://www.nintendolife.com/news/2026/09/four-years-after-release-splatoon-3s-player-numbers-are-on-the-up-in-2026",
+      "summary": "A Raiders resurgence. It has been quite a big year for Splatoon, and the player numbers for the latest mainline entry apparently show it, even though it has been on the market for four years now. That's according to…",
+      "publishedAt": "2026-09-25T15:45:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://images.nintendolife.com/221fbafb730bd/large.jpg"
+    },
+    {
+      "id": "c33c296732d46299d591888f",
+      "sourceId": "raspberry-pi",
+      "sourceName": "Raspberry Pi",
+      "title": "Sensea underwater camera — Raspberry Pi Official Magazine #170",
+      "url": "https://www.raspberrypi.com/news/sensea-underwater-camera-raspberry-pi-official-magazine-170/",
+      "summary": "A trio of young makers created a fantastic Raspberry Pi 3–based underwater camera that investigates water quality and organisms. The post Sensea underwater camera — Raspberry Pi Official Magazine #170 appeared first on…",
+      "publishedAt": "2026-09-25T15:26:38Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://www.raspberrypi.com/app/uploads/2026/09/Assembly1-Large-edited.jpeg"
+    },
+    {
+      "id": "f32efbaf5c5e33d7a5c01c28",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Poll: What Review Score Would You Give Fire Emblem: Fortune's Weave?",
+      "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-fire-emblem-fortunes-weave",
+      "summary": "Are you not entertained? The latest entry in Intelligent Systems' strategy RPG series hit Switch 2 last week, and it's a big one. With five protagonists, you'll easily be hitting a triple-digit hour count if you want…",
+      "publishedAt": "2026-09-25T15:00:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://images.nintendolife.com/42b047f23d196/large.jpg"
+    },
+    {
+      "id": "3d8612a961d2bffdfbe21bee",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "Celebrate Delta Force’s 2nd Anniversary With New Ways to Play, Exclusive Rewards, and More",
+      "url": "https://news.xbox.com/en-us/2026/09/25/delta-force-second-anniversary-interview/",
+      "summary": "Has It Really Been Two Years? An anniversary is a great checkpoint for a live game. It is a reason to celebrate, and a chance to look at how far the game has moved from the version first placed in players’ hands. Delta…",
+      "publishedAt": "2026-09-25T15:00:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Layali-Grove-2.0-Fishing-df120190075829bc04e0-1024x576.jpg"
+    },
+    {
+      "id": "7dc36a94a4e03ff28fcd8a6a",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
+      "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to…",
+      "publishedAt": "2026-09-25T14:45:51Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/tb-26-07-figure-12.png?w=674"
+    },
+    {
+      "id": "eb0463117258a04d369aa801",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "How Ace Combat 8: Wings of Theve Brings High Flying Drama to XBOX Series X|S",
+      "url": "https://news.xbox.com/en-us/2026/09/25/ace-combat-8-wings-of-theve-high-flying-drama-xbox/",
+      "summary": "Few game franchises capture the fantasy of becoming an ace pilot quite like Ace Combat – with accessible arcade-like controls, beautiful looking fighter jets, and cinematic storytelling, it has long been a recipe for a…",
+      "publishedAt": "2026-09-25T14:30:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/03-8a48b1e2f85ab83d2cbb-1024x576.jpg"
+    },
+    {
+      "id": "3f2dc2b02b675d4a437e5f0d",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "How Ace Combat 8: Wings of Theve uses first-person to tell a more personal story",
+      "url": "https://blog.playstation.com/2026/09/25/how-ace-combat-8-wings-of-theve-uses-first-person-to-tell-a-more-personal-story/",
+      "summary": "The world of Strangereal, setting of the Ace Combat games, has developed a deep and storied history over the course of the series. But with Ace Combat 8: Wings of Theve, developer Project Aces has changed its approach…",
+      "publishedAt": "2026-09-25T14:00:34Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+    },
+    {
+      "id": "b3a509f629fd649be6f30e6c",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Ubisoft Switch eShop Sale Now Live, Up To 90% Off",
+      "url": "https://www.nintendolife.com/news/2026/09/ubisoft-switch-eshop-sale-now-live-up-to-90percent-off",
+      "summary": "Assassin's Creed Shadows! Mario & Rabbids! Rayman! Ubisoft has launched a new 40th anniversary sale on the eShop, discounting a bunch of games across Switch 1 and 2. These are some pretty heavy discounts too (including…",
+      "publishedAt": "2026-09-25T14:00:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://images.nintendolife.com/eac4401dd379b/large.jpg"
+    },
+    {
+      "id": "b245e965014a3a5f235810fe",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "Next Week on XBOX: New Games for September 28 to October 2",
+      "url": "https://news.xbox.com/en-us/2026/09/25/next-week-on-xbox-new-games-for-september-28-to-october-2/",
+      "summary": "Welcome to Next Week on XBOX! In this weekly feature we cover all the games coming soon to XBOX Series X|S, XBOX One, XBOX on PC, and Game Pass! Get more details on these upcoming games below and click their profiles…",
+      "publishedAt": "2026-09-25T14:00:00Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://store-images.s-microsoft.com/image/apps.26573.14360336411888409.72be7b12-25b1-41c9-b77e-0930c50aeaca.c2e7b502-2158-4de6-a16e-87d9a399582c?w=400&h=600"
+    },
+    {
+      "id": "9925ce3d4473c6f0522bb446",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Honeyvale: Idle Farm Tycoon [Free] [Strategy]",
+      "url": "https://asarinnovations.itch.io/honeyvale-idle-farm-tycoon",
+      "summary": "A cozy pixel-art clicker about bees, honey, and building your dream countryside.",
+      "publishedAt": "2026-09-25T13:29:20Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjQ4NDg4LnBuZw==/315x250%23c/Olh6hF.png"
+    },
     {
       "id": "927d2dd5fddd75c9149a6337",
       "sourceId": "nintendo",
@@ -786,6 +1037,17 @@
       "publishedAt": "2026-09-25T02:05:00Z",
       "firstSeenAt": "2026-09-25T05:03:58Z",
       "imageUrl": "https://images.nintendolife.com/0c45e9b01aa30/large.jpg"
+    },
+    {
+      "id": "e5f62a4273908c65c20a4ab5",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Duckypus Sweeper [Free] [Other]",
+      "url": "https://saltshaker-rabbit.itch.io/duckypus-sweeper",
+      "summary": "Evolve your Duck-Platypus to better clean and regrow nature at the park",
+      "publishedAt": "2026-09-25T01:49:11Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjM2Nzg4LnBuZw==/315x250%23c/HKhO%2BX.png"
     },
     {
       "id": "9df435bdcabd2ac76bebaca3",
@@ -1131,6 +1393,17 @@
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/nisar-kamchatka-still-volcano.jpg"
     },
     {
+      "id": "c01101b9a7146e0677077176",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Mila's Travel Sketchbook: Cozy Hidden Objects Episode 1: The Sailmaker's Loft [Free] [Puzzle]",
+      "url": "https://catmangames.itch.io/mila-cozy-hidden-objects-ep1",
+      "summary": "A tiny cozy hidden-object game about slowing down and noticing the little details.",
+      "publishedAt": "2026-09-24T15:28:10Z",
+      "firstSeenAt": "2026-09-25T20:03:00Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMjI2MTcwLmpwZw==/315x250%23c/suZ9Tp.jpg"
+    },
+    {
       "id": "93dffbf5923a830ecb939a27",
       "sourceId": "nintendo",
       "sourceName": "Nintendo",
@@ -1277,7 +1550,7 @@
       "sourceName": "Cozy games on itch.io",
       "title": "What You See [Free] [Puzzle]",
       "url": "https://captandrey.itch.io/what-you-see",
-      "summary": "A calm nightly puzzle. Connect the stars. Name what you see.",
+      "summary": "A calm constellation puzzle for your phone. One new sky every night.",
       "publishedAt": "2026-09-24T12:56:16Z",
       "firstSeenAt": "2026-09-24T20:01:17Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMjIzMTA1LnBuZw==/315x250%23c/879yA2.png"
@@ -4405,105 +4678,6 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2025/10/pokemon_horizons_season_3_rising_hope_netflix.jpg"
     },
     {
-      "id": "4aa7ecf93cef86ad66b8147d",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Invites Media to Albania Artemis Accords Signing Ceremony",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
-      "summary": "The Republic of Albania will sign the Artemis Accords during a ceremony at 12 p.m. EDT on Monday, Sept. 21, at NASA Headquarters in Washington, becoming the 73rd country signatory. NASA Deputy Administrator Matt…",
-      "publishedAt": "2026-09-18T19:56:08Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080"
-    },
-    {
-      "id": "36fd500c13ed6d7252f800dd",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Fusa [Free] [Simulation]",
-      "url": "https://foundlore-games.itch.io/fusa",
-      "summary": "A few purrs, a comfier sofa, and suddenly you live with twelve cats. A cozy pixel-art incremental.",
-      "publishedAt": "2026-09-18T19:05:16Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDgxMDMxLnBuZw==/315x250%23c/cnzN5m.png"
-    },
-    {
-      "id": "d8ca4dbf5bb0a439e8991b3c",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Entre Folhas [Free] [Simulation]",
-      "url": "https://blackstar503.itch.io/entre-folhas",
-      "summary": "",
-      "publishedAt": "2026-09-18T18:53:52Z",
-      "firstSeenAt": "2026-09-19T08:50:38Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDgwODA4LmpwZWc=/315x250%23c/XSqCjI.jpeg"
-    },
-    {
-      "id": "c3d0f1dbdc8af55395967f22",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "MAPLE STACK [Free] [Other]",
-      "url": "https://hauntgames.itch.io/maple-stack",
-      "summary": "Cozy runner where you have to stack up pancakes and warp reality with black holes.",
-      "publishedAt": "2026-09-18T18:14:54Z",
-      "firstSeenAt": "2026-09-20T04:59:12Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDgwNTEzLnBuZw==/315x250%23c/CLaAfX.png"
-    },
-    {
-      "id": "186c079f79eff22999f4592c",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
-      "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/",
-      "summary": "Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and…",
-      "publishedAt": "2026-09-18T18:02:53Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2026/wind-accreting-pulsar/GX_301-2_spectrum_med.jpg?w=2020&h=1080&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "ccfa71ba051dd3af00e66563",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Review: Hautepad C-AS Arcade Stick For Switch 1 & 2 - Unique & Eye-Catching, But Improvements Are Needed",
-      "url": "https://www.nintendolife.com/reviews/hautepad-c-as-arcade-stick-for-switch-1-and-2-unique-and-eye-catching-but-improvements-are-needed",
-      "summary": "Short goes a long way. Cosmox Gaming is best known for its leverless arcade controllers, and although it experimented with a modular joystick in its Hautepad X model, it has yet to fully embrace the more traditional…",
-      "publishedAt": "2026-09-18T18:00:00Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://images.nintendolife.com/e4a6eb1cb7409/large.jpg"
-    },
-    {
-      "id": "0e7c1fa4b3f3e95f4828ba43",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Dolly Parton Clicker [Free] [Simulation]",
-      "url": "https://muditaheart.itch.io/dolly-parton-clicker",
-      "summary": "Play through Dolly Parton's life and works through this biographical narrative incremental game",
-      "publishedAt": "2026-09-18T17:24:36Z",
-      "firstSeenAt": "2026-09-19T08:50:38Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDgzODAxLmdpZg==/original/Jcflsn.gif"
-    },
-    {
-      "id": "8dd01916e4553012cd8d1ba5",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "No Honey No Money [Free] [Simulation]",
-      "url": "https://challenging-games.itch.io/no-honey-no-money",
-      "summary": "Grab a hammer, smash honeycombs, and collect honey!",
-      "publishedAt": "2026-09-18T16:09:00Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDc3Nzg0LmpwZw==/315x250%23c/vpwQj8.jpg"
-    },
-    {
-      "id": "6933c58e8e8fccbf66cb8238",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-      "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-      "publishedAt": "2026-09-18T16:02:31Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/01/54387592956-0d0c5c9258-o.jpg?w=2048"
-    },
-    {
       "id": "19be31f7ada0abd634650be8",
       "sourceId": "xbox",
       "sourceName": "Xbox Wire",
@@ -4524,61 +4698,6 @@
       "publishedAt": "2026-09-18T15:59:55Z",
       "firstSeenAt": "2026-09-19T01:09:35Z",
       "imageUrl": "https://live.staticflickr.com/65535/55534670460_1377e3b73b_k.jpg"
-    },
-    {
-      "id": "427eafc58056b5273177a5b2",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "STATE: ZERO [Free] [Simulation]",
-      "url": "https://2d-creator.itch.io/state-zero",
-      "summary": "The Blind Mayor: Every Decision You Make Will Ruin Someone's Life. Welcome to Governance.",
-      "publishedAt": "2026-09-18T15:47:16Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDc3MzA3LnBuZw==/315x250%23c/SDvexU.png"
-    },
-    {
-      "id": "272b3b43c417b76fc4c5d793",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "COSI Telescope Comes Together",
-      "url": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/",
-      "summary": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the…",
-      "publishedAt": "2026-09-18T15:45:03Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/cosi-2026july-01.jpg?w=2048"
-    },
-    {
-      "id": "4f497e45d09f5a06f45bee15",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Mareas Doradas [Free] [Simulation] [Windows]",
-      "url": "https://orbitgames2026.itch.io/mareas-doradas",
-      "summary": "Un relajante juego de pesca ¡Vive el ciclo del día y la noche y prueba suerte en el Tragamonedas!",
-      "publishedAt": "2026-09-18T15:30:22Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMDc3Mjk5LmpwZw==/315x250%23c/eglrYf.jpg"
-    },
-    {
-      "id": "a0c10c49006b6c1a1eea7a9c",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "ICYMI: Shujinkou's September Update Boosts Switch 1 & 2 Performance, Here Are The Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/09/icymi-shujinkous-september-update-boosts-switch-1-and-2-performance-here-are-the-patch-notes",
-      "summary": "Uncapped frame rates and fixes with v1.1.0. It's been a busy couple of weeks in Nintendo land, with plenty of Switch games, related news, and updates dropping outside last week's big Directs. One such tidbit that you…",
-      "publishedAt": "2026-09-18T15:30:00Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://images.nintendolife.com/c6731c6194899/large.jpg"
-    },
-    {
-      "id": "5a03180921ed24391da5c2a6",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Level-5 Is Really Starting To Panic Amidst Increasing AI Backlash",
-      "url": "https://www.nintendolife.com/news/2026/09/level-5-is-really-starting-to-panic-amidst-increasing-ai-backlash",
-      "summary": "\"We deeply apologize for causing distrust\". Developer Level-5 has issued another statement in the wake of increasing backlash against its stance and use of generative AI. Essentially, it sounds like the company is…",
-      "publishedAt": "2026-09-18T15:00:00Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://images.nintendolife.com/26bb5a1215105/large.jpg"
     },
     {
       "id": "78e5a38b1d293f0078625025",
