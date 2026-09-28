@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-27T23:06:46Z",
+  "generatedAt": "2026-09-28T05:31:44Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,10 +23,10 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 14
+      "itemCount": 15
     },
     {
       "id": "pokemon-games",
@@ -54,10 +54,10 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 12
+      "itemCount": 13
     },
     {
       "id": "pokemon-cards",
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 16
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 11
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 10
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 9
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 13
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 10
     },
@@ -282,10 +282,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 14
+      "itemCount": 16
     },
     {
       "id": "pokemon-masters",
@@ -309,10 +309,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 12
+      "itemCount": 13
     },
     {
       "id": "nintendo",
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 69
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 20
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 28
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 18
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 28
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 133
+      "itemCount": 136
     },
     {
       "id": "nasa",
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 50
+      "itemCount": 49
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 17
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
       "itemCount": 13
     },
@@ -562,18 +562,104 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-09-27T23:06:46Z",
-      "lastSuccessAt": "2026-09-27T23:06:46Z",
+      "checkedAt": "2026-09-28T05:31:44Z",
+      "lastSuccessAt": "2026-09-28T05:31:44Z",
       "error": null,
-      "itemCount": 67
+      "itemCount": 65
     }
   ],
   "items": [
     {
+      "id": "e3fdb845de9b9cd593c0b925",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The gist of Burton's Anatomy of melancholy by Charles Joseph Finger",
+      "url": "https://www.gutenberg.org/ebooks/79662",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-28T05:31:44Z"
+    },
+    {
+      "id": "69c140d08be80dcc1f11577e",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Slang and its analogues past and present, volume 4 [of 7] : by Farmer and Henley",
+      "url": "https://www.gutenberg.org/ebooks/79663",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-28T05:31:44Z"
+    },
+    {
+      "id": "1575ac3a80ea106aa3e7c693",
+      "sourceId": "pokemon-sleep",
+      "sourceName": "Pokémon Sleep",
+      "title": "Pokémon Sleep adds Foongus and Amoonguss during Packed Portions Cooking Week",
+      "url": "https://pokemonblog.com/2026/09/27/pokemon-sleep-adds-foongus-and-amoonguss-during-packed-portions-cooking-week/",
+      "summary": "Pokémon Sleep will add Foongus and Amoonguss to sleep research beginning Oct. 5 at 3 p.m., with both Poison-type Pokémon appearing as Dozing encounters in Greengrass Isle, Lapis Lakeside, Amber Canyon, Greengrass Isle…",
+      "publishedAt": "2026-09-28T04:19:05Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/foongus_and_amoonguss_pokemon_sleep.jpg"
+    },
+    {
+      "id": "9afda49623e447c649fa74a3",
+      "sourceId": "pokemon-masters",
+      "sourceName": "Pokémon Masters EX",
+      "title": "Pokémon Masters EX reveals Sygna Suit Ghetsis and Lysandre with Legendary Pokémon",
+      "url": "https://pokemonblog.com/2026/09/27/pokemon-masters-ex-reveals-sygna-suit-ghetsis-and-lysandre-with-legendary-pokemon/",
+      "summary": "The official Pokémon Masters EX channel has revealed two new villain-focused Sync Pairs: Sygna Suit Ghetsis & Chien-Pao and Sygna Suit Lysandre (Alt.) & Chi-Yu. The new trailer showcases the Pokémon Scarlet and Violet…",
+      "publishedAt": "2026-09-28T04:13:20Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/sygna_suit_ghetsis_and_chien_pao_pokemon_masters_ex.jpg"
+    },
+    {
+      "id": "70f807b9546d85f3a11efaa3",
+      "sourceId": "pokemon-sleep",
+      "sourceName": "Pokémon Sleep",
+      "title": "Pokémon Sleep shares new “Pokéoki” short featuring Pawmi",
+      "url": "https://pokemonblog.com/2026/09/27/pokemon-sleep-shares-new-pokeoki-short-featuring-pawmi/",
+      "summary": "Pokémon Sleep has released the fourth installment in its “Pokéoki” short video series, this time starring Pawmi. Centered on the theme of spending Monday mornings with Pokémon, the series offers brief scenes inspired…",
+      "publishedAt": "2026-09-28T04:08:45Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/02/pokemon_sleep_snorlax_logo.jpeg"
+    },
+    {
+      "id": "80d3a725d1b99d9fe023f99c",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Uncovering the Valleys Hidden Below Greenland’s Ice",
+      "url": "https://science.nasa.gov/earth/earth-observatory/uncovering-the-valleys-hidden-below-greenlands-ice/",
+      "summary": "A new map of the terrain beneath the Greenland Ice Sheet links hundreds of valleys that previous maps missed or left fragmented.",
+      "publishedAt": "2026-09-28T04:00:00Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/uncovering-the-valleys-hidden-below-greenland’s-ice/greenlandvalleynet_ifpa_2026.jpg?w=1440&h=1847&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "e2c8c24071c8084f8786e1bf",
+      "sourceId": "pokemon-games",
+      "sourceName": "Pokémon games",
+      "title": "Zorua Community Day, Bramblin’s debut and more coming to Pokémon GO",
+      "url": "https://pokejungle.net/2026/09/27/zorua-community-day-bramblins-debut-and-more-coming-to-pokemon-go/",
+      "summary": "October’s Community Day is coming up soon in Pokémon GO, plus we’re covering other events that will be taking place next month! There are also some recently announced collaborations that fans may want to take advantage…",
+      "publishedAt": "2026-09-28T02:48:59Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://pokejungle.net/wp-content/uploads/2026/09/pokemon-go_2026-10_oct-events01-1024x576.jpg"
+    },
+    {
+      "id": "20b2b04421d2d3649d07a851",
+      "sourceId": "pokemon-news",
+      "sourceName": "Pokémon news",
+      "title": "Zorua Community Day, Bramblin’s debut and more coming to Pokémon GO",
+      "url": "https://pokejungle.net/2026/09/27/zorua-community-day-bramblins-debut-and-more-coming-to-pokemon-go/",
+      "summary": "October’s Community Day is coming up soon in Pokémon GO, plus we’re covering other events that will be taking place next month! There are also some recently announced collaborations that fans may want to take advantage…",
+      "publishedAt": "2026-09-28T02:48:59Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://pokejungle.net/wp-content/uploads/2026/09/pokemon-go_2026-10_oct-events01-1024x576.jpg"
+    },
+    {
       "id": "a7f0ccc6542aa770c623ae68",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "Voyages and travels of Marco Polo by Anonymous",
+      "title": "Voyages and travels of Marco Polo by Marco Polo",
       "url": "https://www.gutenberg.org/ebooks/79661",
       "summary": "Language: English",
       "publishedAt": null,
@@ -676,6 +762,17 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwMzE0OTg5LnBuZw==/315x250%23c/pfJ7Sg.png"
     },
     {
+      "id": "9c7246868475fd9b35dbd993",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "TangleCrops [Free] [Puzzle]",
+      "url": "https://leloupv.itch.io/tanglecrops",
+      "summary": "Harvest as much as you can !",
+      "publishedAt": "2026-09-27T18:43:53Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzE3MzkwLnBuZw==/315x250%23c/yQZr2y.png"
+    },
+    {
       "id": "526a92f17118d5efaae76650",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
@@ -707,6 +804,17 @@
       "publishedAt": "2026-09-27T17:17:43Z",
       "firstSeenAt": "2026-09-27T23:06:46Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMzExODM3LnBuZw==/315x250%23c/QNZnR0.png"
+    },
+    {
+      "id": "14aab9aebc809b4e9cbafac3",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Of Myth & Mocha [Free] [Interactive Fiction]",
+      "url": "https://mazzykissdesigns.itch.io/of-myth-and-mocha",
+      "summary": "Make coffee for mythical creatures in a café that only opens after dark.",
+      "publishedAt": "2026-09-27T16:34:22Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzEyODA2LnBuZw==/315x250%23c/AJQ5B5.png"
     },
     {
       "id": "8a23e0975acf42eafd09cfad",
@@ -1963,6 +2071,17 @@
       "publishedAt": "2026-09-25T14:00:00Z",
       "firstSeenAt": "2026-09-25T20:03:00Z",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.26573.14360336411888409.72be7b12-25b1-41c9-b77e-0930c50aeaca.c2e7b502-2158-4de6-a16e-87d9a399582c?w=400&h=600"
+    },
+    {
+      "id": "3e05fca998f34e9fa1e735e8",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Root is Due [Free] [Puzzle]",
+      "url": "https://studiopeppernut.itch.io/root-is-due",
+      "summary": "Bring in the harvest before you lose your mouse house!",
+      "publishedAt": "2026-09-25T13:33:02Z",
+      "firstSeenAt": "2026-09-28T05:31:44Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzE0NTEyLnBuZw==/315x250%23c/%2BH46b4.png"
     },
     {
       "id": "9925ce3d4473c6f0522bb446",
@@ -4830,68 +4949,6 @@
       "publishedAt": "2026-09-21T07:00:18Z",
       "firstSeenAt": "2026-09-21T15:09:17Z",
       "imageUrl": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
-    },
-    {
-      "id": "abb7d10f4f522bcf8ba6b228",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 01: Childhood by Giacomo Casanova",
-      "url": "https://www.gutenberg.org/ebooks/2951",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-21T05:04:25Z"
-    },
-    {
-      "id": "a39370681155ed7b6afd1d93",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Paddenstoelen by Jac. P. Thijsse",
-      "url": "https://www.gutenberg.org/ebooks/79622",
-      "summary": "Language: Dutch",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-21T05:04:25Z"
-    },
-    {
-      "id": "8eadf77fb515d4b6855c72b4",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Grimms' Fairy Tales by Jacob Grimm and Wilhelm Grimm",
-      "url": "https://www.gutenberg.org/ebooks/2591",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-21T05:04:25Z"
-    },
-    {
-      "id": "3c8f544d2962d6aca6bdd6d8",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The sewing circle meets at Mrs. Martin's : by F. M. Kelly",
-      "url": "https://www.gutenberg.org/ebooks/79621",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-21T05:04:25Z"
-    },
-    {
-      "id": "4765517c4459a2b19760bca2",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "APOD: 2026 September 21 – Cocoon Nebula Wide Field",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-21-cocoon-nebula-wide-field/",
-      "summary": "APODScienceAPODAPOD: 2026 September 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
-      "publishedAt": "2026-09-21T04:05:00Z",
-      "firstSeenAt": "2026-09-21T05:04:25Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Cocoon_Czerski_3000.jpg?w=3000&h=2000&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "68fd782766d07a2b9f41714d",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Arctic Melt Season Length Levels Off",
-      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-melt-season-length-levels-off/",
-      "summary": "While the sea ice melt season has lengthened dramatically in most of the satellite era, the trend unexpectedly stabilized around 2010.",
-      "publishedAt": "2026-09-21T04:00:00Z",
-      "firstSeenAt": "2026-09-21T15:09:17Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-melt-season-length-levels-off/arcticmelttrend_20002009.jpg"
     },
     {
       "id": "abfb6aa17b370147e6f31311",
