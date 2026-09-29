@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-29T18:07:28Z",
+  "generatedAt": "2026-09-29T23:45:55Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 15
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 13
     },
@@ -83,10 +83,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "id": "pokemon-pocket",
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 12
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 10
     },
@@ -201,10 +201,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
-      "itemCount": 9
+      "itemCount": 10
     },
     {
       "id": "pokemon-events",
@@ -230,10 +230,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
-      "itemCount": 13
+      "itemCount": 14
     },
     {
       "id": "pokemon-unite",
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 10
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 16
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 14
     },
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 67
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 29
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 22
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 34
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
-      "itemCount": 144
+      "itemCount": 147
     },
     {
       "id": "nasa",
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
-      "itemCount": 55
+      "itemCount": 59
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 20
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
       "itemCount": 15
     },
@@ -562,10 +562,10 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-09-29T18:07:28Z",
-      "lastSuccessAt": "2026-09-29T18:07:28Z",
+      "checkedAt": "2026-09-29T23:45:55Z",
+      "lastSuccessAt": "2026-09-29T23:45:55Z",
       "error": null,
-      "itemCount": 74
+      "itemCount": 79
     }
   ],
   "items": [
@@ -581,6 +581,196 @@
       "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/global_mars_in_colour/24894462-7-eng-GB/Global_Mars_in_colour_card_full.jpg"
     },
     {
+      "id": "f4c8caed5c4a2c05031fbd9a",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Landesverein Sächsischer Heimatschutz — Mitteilungen Band XVII, Heft 3–4 :",
+      "url": "https://www.gutenberg.org/ebooks/79679",
+      "summary": "Language: German",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "c74030addbd3fee8c65b7d4b",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Childhood by Alice Meynell",
+      "url": "https://www.gutenberg.org/ebooks/79680",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "b7794be2073a47e130352565",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The ego and the id by Sigmund Freud",
+      "url": "https://www.gutenberg.org/ebooks/79682",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "65fb42f5ba8606b677e5a32a",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Così parlarono due imbecilli by Luigi Lucatelli",
+      "url": "https://www.gutenberg.org/ebooks/79683",
+      "summary": "Language: Italian",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "5e941186b9029915871dabc6",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The lake of life by Edmond Hamilton",
+      "url": "https://www.gutenberg.org/ebooks/79677",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "2d8abb88013c1e070be3d85a",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The last woman by Thomas S. Gardner",
+      "url": "https://www.gutenberg.org/ebooks/79678",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "089b5a0f1b6b4309f492efbd",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The hour before the dawn : by Josephine Elizabeth Grey Butler",
+      "url": "https://www.gutenberg.org/ebooks/79681",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "8a0d507926b664e548bb8d5b",
+      "sourceId": "pokemon-merch",
+      "sourceName": "Pokémon merchandise",
+      "title": "Shiny Magikarp and Shiny Gyarados skateboards now available at Pokémon Center",
+      "url": "https://pokemonblog.com/2026/09/29/shiny-magikarp-and-shiny-gyarados-skateboards-now-available-at-pokemon-center/",
+      "summary": "Pokémon Center has released a new Lake of Rage collection from Bear Walker featuring handcrafted wooden skateboards inspired by Shiny Magikarp and Shiny Gyarados. The collection includes a functional cruiser skateboard…",
+      "publishedAt": "2026-09-29T23:01:13Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_center_bear_walker_skateboards_shiny_magikarp_and_shiny_gyarados.jpg"
+    },
+    {
+      "id": "b349c53655eaeee3abd5427f",
+      "sourceId": "pokemon-events",
+      "sourceName": "Play! Pokémon events",
+      "title": "Pokémon League prizes updated with new acrylic standees and Battle Box this October",
+      "url": "https://pokemonblog.com/2026/09/29/pokemon-league-prizes-updated-with-new-acrylic-standees-and-battle-box-this-october/",
+      "summary": "Pokémon League is getting a new wave of prizes and activities starting in October, with Play! Pokémon stores set to receive updated League Kits featuring new sticker sheets, activity tracking posters, avatar stickers…",
+      "publishedAt": "2026-09-29T22:58:22Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2020/09/play_pokemon_logo_with_geometric_poke_ball_shapes_background.jpg"
+    },
+    {
+      "id": "35dc4fdba5c9b06987e35ab8",
+      "sourceId": "pokemon-cards",
+      "sourceName": "Pokémon cards",
+      "title": "Pokémon League prizes updated with new acrylic standees and Battle Box this October",
+      "url": "https://pokemonblog.com/2026/09/29/pokemon-league-prizes-updated-with-new-acrylic-standees-and-battle-box-this-october/",
+      "summary": "Pokémon League is getting a new wave of prizes and activities starting in October, with Play! Pokémon stores set to receive updated League Kits featuring new sticker sheets, activity tracking posters, avatar stickers…",
+      "publishedAt": "2026-09-29T22:58:22Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2020/09/play_pokemon_logo_with_geometric_poke_ball_shapes_background.jpg"
+    },
+    {
+      "id": "8d70b3bd54ac745d63a363fb",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
+      "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for…",
+      "publishedAt": "2026-09-29T21:27:56Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png?w=1536"
+    },
+    {
+      "id": "b6a1af4ee402544bd6fc5071",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
+      "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery…",
+      "publishedAt": "2026-09-29T21:00:00Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z"
+    },
+    {
+      "id": "cc1e10deb0d715c10aa6381b",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Features Exploration, Science at International Space Conference",
+      "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
+      "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars…",
+      "publishedAt": "2026-09-29T20:55:24Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg?w=1920"
+    },
+    {
+      "id": "f583f0980e59721c1371a6ff",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "summary": "In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch…",
+      "publishedAt": "2026-09-29T20:08:01Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080"
+    },
+    {
+      "id": "f8c76b2f4cfc07338d82cfed",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Lumen: Bodhi Engine [Free]",
+      "url": "https://retrogames10000.itch.io/lumen-bodhi-engine",
+      "summary": "An HTML5 inbrowser Buddhist musical learning experience",
+      "publishedAt": "2026-09-29T19:21:27Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzgzNjgzLnBuZw==/315x250%23c/iNe90y.png"
+    },
+    {
+      "id": "db60624a9df7a8377d92c3a9",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "The Celestial Cannon [Free]",
+      "url": "https://retrogames10000.itch.io/the-celestial-cannon",
+      "summary": "An HTML5 inbrowser automatic distance harp clicker.",
+      "publishedAt": "2026-09-29T19:01:31Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzgzMTc4LnBuZw==/315x250%23c/Dk%2B%2Fqs.png"
+    },
+    {
+      "id": "ef4102ed988747edd16cfa98",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
+      "summary": "NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX Crew‑13 mission to the International Space Station. Live coverage will stream through a variety of platforms. Learn…",
+      "publishedAt": "2026-09-29T18:57:14Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "f0d3750ba3d78c19564e0154",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Orin Jump V1 [Free] [Platformer]",
+      "url": "https://hg17.itch.io/orin-jump-v1-test",
+      "summary": "",
+      "publishedAt": "2026-09-29T18:20:24Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzgyMjgzLnBuZw==/315x250%23c/FIZ%2FP%2B.png"
+    },
+    {
       "id": "d2f061f751f6e28eda481f05",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
@@ -594,7 +784,7 @@
       "id": "ca7e26372b801848ae44e1bf",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "Lehrbuch der Protozoenkunde : by Franz Theodor Doflein",
+      "title": "Lehrbuch der Protozoenkunde : by Franz Doflein",
       "url": "https://www.gutenberg.org/ebooks/79674",
       "summary": "Language: German",
       "publishedAt": null,
@@ -644,7 +834,7 @@
       "id": "3b185feaf3c2f9ed88f545ac",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "Histoire de don Pèdre Ier roi de Castille by Prosper Mérimée",
+      "title": "Histoire de don Pèdre Ier, roi de Castille by Prosper Mérimée",
       "url": "https://www.gutenberg.org/ebooks/79676",
       "summary": "Language: French",
       "publishedAt": null,
@@ -660,6 +850,17 @@
       "publishedAt": "2026-09-29T18:00:00Z",
       "firstSeenAt": "2026-09-29T18:07:28Z",
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Wave-One-Anthems-4x5-v2-320a1478d17807e7d78f-546x683.jpg"
+    },
+    {
+      "id": "cb1c94bbf0cfcd43af9ba92d",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Autoharp Airplane [Free] [Rhythm]",
+      "url": "https://retrogames10000.itch.io/autoharp-airplane",
+      "summary": "An HTML5 Musical Automatic Clicker Experience.",
+      "publishedAt": "2026-09-29T17:42:17Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzgxMDMwLnBuZw==/315x250%23c/5bqZ%2FH.png"
     },
     {
       "id": "386cdb3fc8b615a9df2d4c1d",
@@ -678,7 +879,7 @@
       "sourceName": "Cozy games on itch.io",
       "title": "Lumen: Jyoti Engine [Free] [Rhythm]",
       "url": "https://retrogames10000.itch.io/lumen-jyoti-engine",
-      "summary": "An HTML5 inbrowser Dharmic learning experience",
+      "summary": "An HTML5 inbrowser Dharmic musical learning experience",
       "publishedAt": "2026-09-29T16:04:07Z",
       "firstSeenAt": "2026-09-29T18:07:28Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwMzc4MzUwLnBuZw==/315x250%23c/EcqTHI.png"
@@ -738,6 +939,17 @@
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/10/earth-blue-planet-globe-planet-87651.jpeg?w=750"
     },
     {
+      "id": "472ab9a446e775766b6289bb",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Frog Eats Flies! [Free] [Other] [Windows]",
+      "url": "https://reddvermelhogames.itch.io/frog-eats-flies",
+      "summary": "Incremental cozy game about frogs having dinner.",
+      "publishedAt": "2026-09-29T14:45:24Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzgxOTQ4LnBuZw==/315x250%23c/r%2BzVjS.png"
+    },
+    {
       "id": "9ad6602c04dea67eb9577ecc",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
@@ -780,6 +992,17 @@
       "publishedAt": "2026-09-29T14:20:08Z",
       "firstSeenAt": "2026-09-29T18:07:28Z",
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?w=525"
+    },
+    {
+      "id": "6a22e179b139e2a11c289261",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Lumen: Nur Engine [Free]",
+      "url": "https://retrogames10000.itch.io/lumen-nur-engine",
+      "summary": "An HTML5 interactive Quranic clicking learning experience.",
+      "publishedAt": "2026-09-29T14:02:38Z",
+      "firstSeenAt": "2026-09-29T23:45:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwMzc0NzMyLnBuZw==/315x250%23c/8k3lRj.png"
     },
     {
       "id": "8077553142f982f3befd21bc",
@@ -5109,70 +5332,6 @@
       "publishedAt": "2026-09-22T23:31:31Z",
       "firstSeenAt": "2026-09-23T04:51:13Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_general_notices_nightcap_pikachu.jpg"
-    },
-    {
-      "id": "808a0bedf5dd8303d4f750fb",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Sprayloom Co. [Free] [Simulation] [Windows] [Linux]",
-      "url": "https://arkkis.itch.io/sprayloom",
-      "summary": "An early test build of a pressure washing game. Three short jobs.",
-      "publishedAt": "2026-09-22T20:36:04Z",
-      "firstSeenAt": "2026-09-23T19:42:17Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTg3MTEzLnBuZw==/315x250%23c/oKGol1.png"
-    },
-    {
-      "id": "ce3792e247d230de2f71a575",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Psycho-analysis : by William J. Fielding",
-      "url": "https://www.gutenberg.org/ebooks/79631",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-22T19:46:05Z"
-    },
-    {
-      "id": "5f017d889c8d52e1f288b8bf",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "A Journey into the Interior of the Earth by Jules Verne",
-      "url": "https://www.gutenberg.org/ebooks/3748",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-22T19:46:05Z"
-    },
-    {
-      "id": "10103ce125628b4169a55ae2",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Risks of Decompression Sickness and Venous Thromboembolism during Spaceflight and Patent Foramen Ovale Implications",
-      "url": "https://www.nasa.gov/organizations/ochmo/risks-of-decompression-sickness-and-venous-thromboembolism-during-spaceflight-and-patent-foramen-ovale-implications/",
-      "summary": "NASA’s Office of the Chief Health and Medical Officer formed a working group in August 2026 to review the most recent data related to extravehicular activity (EVA) prebreathe testing and decompression sickness (DCS)…",
-      "publishedAt": "2026-09-22T19:19:45Z",
-      "firstSeenAt": "2026-09-22T19:46:05Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/pfo-dcs-vte-working-group-photo.jpg?w=2048"
-    },
-    {
-      "id": "152d312e1c565060309389e8",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Wildmark (Demo) [Free] [Windows] [macOS] [Linux]",
-      "url": "https://standergames.itch.io/wildmark-demo",
-      "summary": "A cozy woodland idle RPG. Chop, fish, forage and craft as the Warden. Free demo, full game coming to Steam.",
-      "publishedAt": "2026-09-22T18:33:28Z",
-      "firstSeenAt": "2026-09-22T22:59:45Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTg0MDMzLnBuZw==/315x250%23c/7kX%2BQc.png"
-    },
-    {
-      "id": "78aa063b8ab1b10d1179ace4",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Pixel Paths [Free] [Puzzle]",
-      "url": "https://likemygame.itch.io/pixel-paths",
-      "summary": "A relaxing color puzzle where tiny bugs nibble through procedural pixel patterns.",
-      "publishedAt": "2026-09-22T18:08:03Z",
-      "firstSeenAt": "2026-09-22T22:59:45Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMTgzNDk4LnBuZw==/315x250%23c/0H%2FmtO.png"
     },
     {
       "id": "737b392e43e91fb4ddbb6df1",
