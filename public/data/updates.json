@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-06T01:19:35Z",
+  "generatedAt": "2026-10-06T11:20:09Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 18
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 16
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 25
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 15
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 12
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 13
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 14
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 10
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 20
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 18
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
-      "itemCount": 66
+      "itemCount": 67
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 34
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 32
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
-      "itemCount": 111
+      "itemCount": 108
     },
     {
       "id": "nasa",
@@ -499,7 +499,7 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
       "lastSuccessAt": "2026-10-05T05:50:11Z",
       "error": "XML document types and entities are not supported",
       "itemCount": 40
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 21
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
       "itemCount": 17
     },
@@ -562,13 +562,87 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-06T01:19:35Z",
-      "lastSuccessAt": "2026-10-06T01:19:35Z",
+      "checkedAt": "2026-10-06T11:20:09Z",
+      "lastSuccessAt": "2026-10-06T11:20:09Z",
       "error": null,
-      "itemCount": 89
+      "itemCount": 85
     }
   ],
   "items": [
+    {
+      "id": "7ec3341fee8a7ec9179e5169",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The Unbearable Bassington by Saki",
+      "url": "https://www.gutenberg.org/ebooks/555",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-06T11:20:09Z"
+    },
+    {
+      "id": "33ce290ca338d0fff41c3b2f",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Le cerf by Jean Giraudoux",
+      "url": "https://www.gutenberg.org/ebooks/79732",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-06T11:20:09Z"
+    },
+    {
+      "id": "2b420a5fb616d457d9e9c359",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Pages mystiques by Séverine",
+      "url": "https://www.gutenberg.org/ebooks/79733",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-06T11:20:09Z"
+    },
+    {
+      "id": "5c805eb183b3d06284c3abf9",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Monster Hunter Rise Surpasses 20 Million Sales Worldwide",
+      "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-rise-surpasses-20-million-sales-worldwide",
+      "summary": "An absolute monster. Capcom's Monster Hunter series has become an absolute powerhouse over the past two decades and while the company's current focus is on the latest entry Monster Hunter Wilds, it's taken a brief…",
+      "publishedAt": "2026-10-06T05:55:00Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://images.nintendolife.com/97ab283680207/large.jpg"
+    },
+    {
+      "id": "f15c38012b29808f4785ffe7",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Nintendo Announces Another Switch 2 Hardware Bundle",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle",
+      "summary": "Japan gets a new \"Choose-Your-Game\" bundle. The Switch 2 is now over a year into its life, and Nintendo has so far shifted more than 23 million units globally. In recent months, the video game giant has announced…",
+      "publishedAt": "2026-10-06T04:55:00Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://images.nintendolife.com/84398a2b4ba21/large.jpg"
+    },
+    {
+      "id": "9b54fa3418cbcc7a2b816b4b",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Bleak Survival City-Builder 'Frostpunk' Is Finally Coming To The Switch",
+      "url": "https://www.nintendolife.com/news/2026/10/bleak-survival-city-builder-frostpunk-is-finally-coming-to-the-switch",
+      "summary": "Update: Demo and release date announced. : The city-building survival series Frostpunk recently held a special broadcast about \"all things Frostpunk\", and during this event, developer '11 bit studios' announced a…",
+      "publishedAt": "2026-10-06T02:55:00Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://images.nintendolife.com/dbce13742bb92/large.jpg"
+    },
+    {
+      "id": "45d30d8400e54e414b6b28b5",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Nintendo Releases 'Hello, Peach!' And 'Hello, Luigi!' App For Switch & Mobile Devices",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-releases-hello-peach-and-hello-luigi-app-for-switch-and-mobile-devices",
+      "summary": "It's also revealed a toy 'Melody Car'. Last year, Nintendo launched the 'My Mario' - a new line of products designed for parents and children. This included a new app for Switch and mobile devices known as 'Hello…",
+      "publishedAt": "2026-10-06T01:55:00Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://images.nintendolife.com/96c4e34c7328c/large.jpg"
+    },
     {
       "id": "b2832608202ea2fb01dce6f7",
       "sourceId": "gutenberg",
@@ -603,11 +677,22 @@
       "id": "6a539f007f54da833512aa5c",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "Naurun loppu : by Wäinö Kolkkala",
+      "title": "Naurun loppu : by Väinö Kolkkala",
       "url": "https://www.gutenberg.org/ebooks/79729",
       "summary": "Language: Finnish",
       "publishedAt": null,
       "firstSeenAt": "2026-10-06T01:19:35Z"
+    },
+    {
+      "id": "7086124a4726d1b72c0e72aa",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Round Up: The Reviews For Kingdom Hearts Collection On Switch 2 Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-kingdom-hearts-collection-on-switch-2-are-in",
+      "summary": "Here's what the critics had to say. This week, the Kingdom Hearts series returns to Nintendo's platforms, and this time, it's the proper experience with no cloud-related drawbacks. The reviews are now rolling in for…",
+      "publishedAt": "2026-10-06T00:55:00Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://images.nintendolife.com/7c238fa1dca15/large.jpg"
     },
     {
       "id": "dbec8e38e760b0bc50365adc",
@@ -619,6 +704,28 @@
       "publishedAt": "2026-10-05T23:55:00Z",
       "firstSeenAt": "2026-10-06T01:19:35Z",
       "imageUrl": "https://images.nintendolife.com/25d24756c83ee/large.jpg"
+    },
+    {
+      "id": "a2a815e95e87cd15bdd6245d",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Star Catcher: Space Pet Shop — Demo [Free] [Simulation]",
+      "url": "https://memnayalabs.itch.io/star-catcher",
+      "summary": "Catch star slimes with bubbles and sell them in Grandpa Raccoon's pet shop!",
+      "publishedAt": "2026-10-05T20:49:07Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTgwNDk5LnBuZw==/315x250%23c/1Viw58.png"
+    },
+    {
+      "id": "f94fca7727e38bff7fff8d32",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Mossbound [Free] [Action]",
+      "url": "https://gigantoid-studio.itch.io/mossbound",
+      "summary": "Kill monsters. Grow flowers. Become a shrub.",
+      "publishedAt": "2026-10-05T20:44:40Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTgwMzgwLnBuZw==/315x250%23c/rExyHK.png"
     },
     {
       "id": "72314211dd57e18adf050515",
@@ -911,6 +1018,17 @@
       "imageUrl": "https://images.nintendolife.com/51d718301000c/large.jpg"
     },
     {
+      "id": "ec8dbc39cc2881c33f338b51",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Doggy Life – Cozy Puppy Raising Game [Free] [Simulation]",
+      "url": "https://parkmk.itch.io/doggy-life-game",
+      "summary": "Raise a puppy, decorate a cozy home and play cute minigames!",
+      "publishedAt": "2026-10-05T09:24:19Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTYyOTI5LnBuZw==/315x250%23c/0rBUoX.png"
+    },
+    {
       "id": "7c5f50d57bca74b8b052f05f",
       "sourceId": "nintendo",
       "sourceName": "Nintendo",
@@ -1154,6 +1272,17 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNTQ5MjEzLmpwZWc=/315x250%23c/rtYDYe.jpeg"
     },
     {
+      "id": "9100e1b7039a5b58b0c704e4",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "1h Adventure: Tom's Tiny Armies [Free] [Simulation]",
+      "url": "https://ifr13nd.itch.io/toms-tiny-armies",
+      "summary": "Paint tiny armies. Mix unique colours. Embark on a journey!",
+      "publishedAt": "2026-10-04T19:53:31Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTYyNzQ4LmdpZg==/original/9w1l4w.gif"
+    },
+    {
       "id": "84cd1413e372fadeda17a072",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
@@ -1238,6 +1367,17 @@
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/10/spolzino-richard.jpg?w=1365"
     },
     {
+      "id": "77339a1d3987a62bc9b095fb",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "mr. JUGAAD [Free] [Puzzle]",
+      "url": "https://rpc29.itch.io/mr-jugaad",
+      "summary": "Run a repair shop while trying to to as cheap as possible",
+      "publishedAt": "2026-10-04T18:16:33Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTU0NDQzLnBuZw==/315x250%23c/6uuNre.png"
+    },
+    {
       "id": "d98bbe9e95c021eda991881a",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
@@ -1297,10 +1437,10 @@
       "sourceName": "Cozy games on itch.io",
       "title": "Gift Shop Organizer [Free] [Simulation]",
       "url": "https://challenging-games.itch.io/gift-shop-organizer",
-      "summary": "Sort adorable gifts, find the right shelf for each one, and create the cutest little gift shop!",
+      "summary": "Organize mugs into the perfect gift shop",
       "publishedAt": "2026-10-04T11:41:26Z",
       "firstSeenAt": "2026-10-04T19:41:07Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNTI4MzYyLmpwZw==/315x250%23c/Cna%2Bm4.jpg"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNTkwNzQyLmpwZw==/315x250%23c/31PNhb.jpg"
     },
     {
       "id": "b93624bfa4e2035879529836",
@@ -2264,6 +2404,17 @@
       "publishedAt": "2026-10-02T08:16:08Z",
       "firstSeenAt": "2026-10-02T14:47:25Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMwNDU5Mzc4LnBuZw==/315x250%23c/NUDOKG.png"
+    },
+    {
+      "id": "4e2638f6e761dc9c95e785db",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Crossed Wires [Free] [Interactive Fiction] [Windows] [macOS]",
+      "url": "https://alliegallie.itch.io/crossed-wires",
+      "summary": "A short interactive story about feeling lost",
+      "publishedAt": "2026-10-02T07:01:48Z",
+      "firstSeenAt": "2026-10-06T11:20:09Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNDU3OTkxLmdpZg==/original/Gea0DA.gif"
     },
     {
       "id": "da85755764c105e4d245a6a9",
@@ -4387,120 +4538,6 @@
       "imageUrl": "https://images.nintendolife.com/6ad2c3ba7ec28/large.jpg"
     },
     {
-      "id": "015d9f80c15cd21b30da08a0",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Lost and Fowl [Free] [Other]",
-      "url": "https://shaqayegh.itch.io/lost-and-fowl",
-      "summary": "A narrative lost-and-found prototype where you manage lost belongings for anxious bird passengers",
-      "publishedAt": "2026-09-29T10:55:47Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzcxMzM2LnBuZw==/315x250%23c/HuaBUQ.png"
-    },
-    {
-      "id": "f0bcfb4f972496ad34b6db3d",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Alberuni's India (Volume 1 of 2) : by Muḥammad ibn Aḥmad Bīrūnī",
-      "url": "https://www.gutenberg.org/ebooks/79672",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "bbc13d819de8f36e4eca5270",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The Misplaced Battleship by Harry Harrison",
-      "url": "https://www.gutenberg.org/ebooks/22541",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "baccd582145d34f702a5e252",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Dangling doom by W. C. Tuttle",
-      "url": "https://www.gutenberg.org/ebooks/79673",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "4089a11b0c33ca3f52ca7565",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Sahara et Soudan, tome premier : by Gustav Nachtigal",
-      "url": "https://www.gutenberg.org/ebooks/79599",
-      "summary": "Language: French",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "3971af59dcb405b402eb0f8a",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Bevis: The Story of a Boy by Richard Jefferies",
-      "url": "https://www.gutenberg.org/ebooks/35930",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "288a26b7ec99fa72f2daef88",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The Interesting Narrative of the Life of Olaudah Equiano, Or Gustavus Vassa, The African by Equiano",
-      "url": "https://www.gutenberg.org/ebooks/15399",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "1845994a3f3c61fe219c99ca",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Hamlet by William Shakespeare",
-      "url": "https://www.gutenberg.org/ebooks/9077",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-09-29T10:44:39Z"
-    },
-    {
-      "id": "954ebb1645208f1ddf1a1e8f",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Postmarked [Free] [Simulation]",
-      "url": "https://postmarked.itch.io/postmarked",
-      "summary": "Stamp letters, hire pigeons and grow a tiny post office into a postal empire.",
-      "publishedAt": "2026-09-29T09:28:59Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzY4NzA3LnBuZw==/315x250%23c/r3unt9.png"
-    },
-    {
-      "id": "6bdcac734017602a00bed4f7",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Komachi [$2.00] [Simulation] [Windows] [Linux]",
-      "url": "https://saiss.itch.io/komachi",
-      "summary": "Watch a small Japanese island town live its days. A cosy diorama with no failure states.",
-      "publishedAt": "2026-09-29T09:10:26Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzY4MTA0LnBuZw==/315x250%23c/rBVm9x.png"
-    },
-    {
-      "id": "2b824c879a458199ef0a18e7",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Magnet Fisher [Free] [Simulation] [Windows] [Linux] [Android]",
-      "url": "https://office-serval.itch.io/magnet-fisher",
-      "summary": "Get rich by fishing up scrap with a magnet!",
-      "publishedAt": "2026-09-29T08:00:32Z",
-      "firstSeenAt": "2026-09-30T14:58:13Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzY2NzY5LnBuZw==/315x250%23c/pte5R9.png"
-    },
-    {
       "id": "d6d87582ac90125023ce287b",
       "sourceId": "esa-space",
       "sourceName": "ESA Space Science",
@@ -4512,17 +4549,6 @@
       "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/09/galaxies_in_a_cosmic_house_of_mirrors/27538440-1-eng-GB/Galaxies_in_a_cosmic_house_of_mirrors_card_full.jpg"
     },
     {
-      "id": "4576e102b8d68a1a60a59b00",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Mallow Team [Free] [Simulation] [Windows]",
-      "url": "https://blackalphwolfyt.itch.io/mallow-team",
-      "summary": "Squish marshmallows, run cozy mallow stands, and collect cute skins and dumpling squishies.",
-      "publishedAt": "2026-09-29T07:08:44Z",
-      "firstSeenAt": "2026-10-05T17:11:57Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzY1NzE4LnBuZw==/315x250%23c/yyDYAh.png"
-    },
-    {
       "id": "bcf3bfc1a781ba9f151c959c",
       "sourceId": "raspberry-pi",
       "sourceName": "Raspberry Pi",
@@ -4532,39 +4558,6 @@
       "publishedAt": "2026-09-29T06:59:12Z",
       "firstSeenAt": "2026-09-29T10:44:39Z",
       "imageUrl": "https://www.raspberrypi.com/app/uploads/2026/09/SDM-Hero_updated-1024x692.jpg"
-    },
-    {
-      "id": "46b050a7c10b09969644f9ef",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Round Up: The First Reviews For The Witcher 3 Remastered Are In",
-      "url": "https://www.nintendolife.com/news/2026/09/round-up-the-first-reviews-for-the-witcher-3-remastered-are-in",
-      "summary": "Here's what the critics had to say. Geralt returns this week in The Witcher 3: Wild Hunt Remastered, and if you are an existing owner of this title on the Switch, you can grab it for free. The reviews for this update…",
-      "publishedAt": "2026-09-29T06:35:00Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://images.nintendolife.com/eac6d8b131c29/large.jpg"
-    },
-    {
-      "id": "b7a767c374c9b0857cb3b88d",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "OffScript [Free] [Simulation]",
-      "url": "https://blockfidumgames.itch.io/offscript",
-      "summary": "Be 18 in a new city. Rent is due, friends need you, and every choice comes back.",
-      "publishedAt": "2026-09-29T06:17:17Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzY1MDAyLnBuZw==/315x250%23c/b7XxOH.png"
-    },
-    {
-      "id": "d995c7041863737c29851bf3",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "ART SLIDE PUZZLE [Free] [Puzzle]",
-      "url": "https://bijutsu-fan.itch.io/art-slide-puzzle",
-      "summary": "Masterpieces & Cultural Treasures",
-      "publishedAt": "2026-09-29T06:03:23Z",
-      "firstSeenAt": "2026-10-03T19:16:32Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDU4MzQyLmpwZw==/315x250%23c/nRp%2Ftn.jpg"
     },
     {
       "id": "8fdcac95c749360aed8d5a98",
@@ -4611,39 +4604,6 @@
       "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-cloud-with-a-pileus-on-top/montanafire_master_20260811.jpg"
     },
     {
-      "id": "0cb3d4f01136c16dd50eab6a",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Tales Of Eternia Is Getting A Proper Physical Release On Switch",
-      "url": "https://www.nintendolife.com/news/2026/09/tales-of-eternia-is-getting-a-proper-physical-release-on-switch",
-      "summary": "Just don't expect an upgrade. Bandai Namco is bringing its role-playing game Tales of Eternia Remastered to the Switch and Switch 2 next month, and some more information about the physical release has now been shared.…",
-      "publishedAt": "2026-09-29T03:55:00Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://images.nintendolife.com/6aebcf97fe4c6/large.jpg"
-    },
-    {
-      "id": "4fbbb9b3c630853c6d807c39",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Crab Haul [Free] [Simulation]",
-      "url": "https://cirewire.itch.io/crab-haul",
-      "summary": "Build a crabbing company from a lonely hand line on the pier to boats running nearshore, shelf, and abyss grounds.",
-      "publishedAt": "2026-09-29T03:28:13Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzYxODg4LnBuZw==/315x250%23c/PyvXXg.png"
-    },
-    {
-      "id": "bd26ffbf8d781d6a86ec6504",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Dynasty Warriors 3: Complete Edition Remastered Switch 2 Performance & Resolution Revealed",
-      "url": "https://www.nintendolife.com/news/2026/09/dynasty-warriors-3-complete-edition-remastered-switch-2-performance-and-resolution-revealed",
-      "summary": "\"It can handle the same number of characters as other versions\". Dynasty Warriors 3: Complete Edition Remastered arrives on the Switch 2 this week, and if you're wondering how the Nintendo version will perform, some…",
-      "publishedAt": "2026-09-29T02:55:00Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://images.nintendolife.com/e2274f29a58a4/large.jpg"
-    },
-    {
       "id": "37d61caff1d644f544a551f5",
       "sourceId": "playstation",
       "sourceName": "PlayStation Blog",
@@ -4655,17 +4615,6 @@
       "imageUrl": "https://blog.playstation.com/tachyon/2026/09/80456f7d6b73917ed6ac7162328b97d7e69df1b9-scaled.jpg"
     },
     {
-      "id": "c8f6e56c00984d30a9d917cb",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "\"Let The Heroic Games Begin\" - Fire Emblem: Fortune's Weave Brings The Battle To Tetris 99",
-      "url": "https://www.nintendolife.com/news/2026/09/let-the-heroic-games-begin-fire-emblem-fortunes-weave-brings-the-battle-to-tetris-99",
-      "summary": "The 57th cup has been announced. Fire Emblem: Fortune's Weave recently arrived exclusively on the Switch 2, and to celebrate, Nintendo's battle royale Tetris 99 will be hosting a special in-game event. During the 57th…",
-      "publishedAt": "2026-09-29T01:55:00Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://images.nintendolife.com/1fee748c68685/large.jpg"
-    },
-    {
       "id": "ee326df3c277f3f425e9e43d",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -4675,17 +4624,6 @@
       "publishedAt": "2026-09-29T01:27:52Z",
       "firstSeenAt": "2026-09-29T10:44:39Z",
       "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_1967_0841573976_050EBY_N0910806SRLC08063_0000LMJ.png?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "cffb43146241b2b9ef01f535",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "WALL//KEEP [Free] [Puzzle]",
-      "url": "https://igoryakunin.itch.io/wallkeep",
-      "summary": "A cozy medieval puzzle for the browser.",
-      "publishedAt": "2026-09-29T01:26:29Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwMzU5NjkwLnBuZw==/315x250%23c/KU1E8%2B.png"
     },
     {
       "id": "a8987d4b25b10617714a9984",
