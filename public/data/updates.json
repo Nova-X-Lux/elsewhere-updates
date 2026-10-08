@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T15:41:36Z",
+  "generatedAt": "2026-10-08T21:22:43Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 23
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 19
     },
@@ -83,10 +83,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
-      "itemCount": 28
+      "itemCount": 29
     },
     {
       "id": "pokemon-pocket",
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 17
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 15
     },
@@ -201,10 +201,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
-      "itemCount": 17
+      "itemCount": 18
     },
     {
       "id": "pokemon-events",
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 16
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 11
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 24
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 21
     },
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 64
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 34
     },
@@ -413,10 +413,10 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
-      "itemCount": 34
+      "itemCount": 35
     },
     {
       "id": "xbox",
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
-      "itemCount": 106
+      "itemCount": 107
     },
     {
       "id": "nasa",
@@ -499,9 +499,9 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
       "lastSuccessAt": "2026-10-08T15:41:36Z",
-      "error": null,
+      "error": "XML document types and entities are not supported",
       "itemCount": 40
     },
     {
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 24
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
       "itemCount": 19
     },
@@ -562,13 +562,133 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-08T15:41:36Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
+      "checkedAt": "2026-10-08T21:22:43Z",
+      "lastSuccessAt": "2026-10-08T21:22:43Z",
       "error": null,
-      "itemCount": 71
+      "itemCount": 68
     }
   ],
   "items": [
+    {
+      "id": "1be17b147b0f2e35cc796534",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Kings and queens I have known by Hélène Vacaresco",
+      "url": "https://www.gutenberg.org/ebooks/79743",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-08T21:22:43Z"
+    },
+    {
+      "id": "e01b74baf3d287475aca56e9",
+      "sourceId": "pokemon-merch",
+      "sourceName": "Pokémon merchandise",
+      "title": "Video: Pokémon TCG x Santa Cruz Skateboards collaboration reveals creative process ahead of October 17 launch",
+      "url": "https://pokemonblog.com/2026/10/08/video-pokemon-tcg-x-santa-cruz-skateboards-collaboration-reveals-creative-process-ahead-of-october-17-launch/",
+      "summary": "Pokémon TCG and Santa Cruz Skateboards are taking fans behind the scenes of their upcoming collaboration, showcasing how 30 selected Pokémon TCG cards were transformed into unique skateboard deck designs. The latest…",
+      "publishedAt": "2026-10-08T21:07:34Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/pokemon_santa_cruz_skateboards_apparel.jpg"
+    },
+    {
+      "id": "66774b378c9bd972afa11b1a",
+      "sourceId": "pokemon-cards",
+      "sourceName": "Pokémon cards",
+      "title": "Video: Pokémon TCG x Santa Cruz Skateboards collaboration reveals creative process ahead of October 17 launch",
+      "url": "https://pokemonblog.com/2026/10/08/video-pokemon-tcg-x-santa-cruz-skateboards-collaboration-reveals-creative-process-ahead-of-october-17-launch/",
+      "summary": "Pokémon TCG and Santa Cruz Skateboards are taking fans behind the scenes of their upcoming collaboration, showcasing how 30 selected Pokémon TCG cards were transformed into unique skateboard deck designs. The latest…",
+      "publishedAt": "2026-10-08T21:07:34Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/pokemon_santa_cruz_skateboards_apparel.jpg"
+    },
+    {
+      "id": "1dda1115dcaf5e69bd1a718e",
+      "sourceId": "pokemon-go",
+      "sourceName": "Pokémon GO",
+      "title": "Pokémon GO Gameplay and Quality-of-Life Updates",
+      "url": "https://pokemongo.com/news/pgo-gameplay-update-oct-2026",
+      "summary": "",
+      "publishedAt": "2026-10-08T18:50:02Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://lh3.googleusercontent.com/YTWdPxzC8pivOHHqNqkA5VYuXBhfFinH38ENvIZ7f9LfkMDoyXrXRnh5kd-ibfKJHequDEp7sbd6Ahwnvh2ct8REj7kjdvJQkCkIXabrFikr=s0-e365"
+    },
+    {
+      "id": "35414e4c460463fdbe31e417",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Clair Obscur: Expedition 33 Comes To Astral Ascent In New Crossover Update",
+      "url": "https://www.nintendolife.com/news/2026/10/clair-obscur-expedition-33-comes-to-astral-ascent-in-new-crossover-update",
+      "summary": "For those who come after. We've been patiently hoping that Clair Obscur: Expedition 33 would make its way to Switch 2 ever since it consumed our every waking hour last year. Sandfall is still yet to make that happen…",
+      "publishedAt": "2026-10-08T17:45:00Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://images.nintendolife.com/cfc985ba24d31/large.jpg"
+    },
+    {
+      "id": "f617ec2473d7ce45bd6c83fd",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "Critical Role joins Rockbeasts, launching January 2027.",
+      "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
+      "summary": "Since the very beginning, we knew Rockbeasts was something special. To us, at least. Not because it’s the biggest game, or the safest bet. Quite the opposite. It’s not built around a genre you can neatly file it under.…",
+      "publishedAt": "2026-10-08T17:00:00Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://live.staticflickr.com/65535/55562459892_3f1a37719e_4k.jpg"
+    },
+    {
+      "id": "1b7a5e4eaa4dc9ba7cbc18fd",
+      "sourceId": "pokemon-go",
+      "sourceName": "Pokémon GO",
+      "title": "Mega Sableye powers up and Shiny Greavard makes its Pokémon GO debut during Halloween 2026 Part II!",
+      "url": "https://pokemongo.com/news/halloween-part-2-2026",
+      "summary": "",
+      "publishedAt": "2026-10-08T17:00:00Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://lh3.googleusercontent.com/4QN-7EtDk7S7dxL9bKLbsUF7lbTaUTntnGzOG8qDk4xxOQFyY4dKt3tQQ2msv37JhacLDFrawLGXVAv_kv3tzE_kTXiIh_HbskFdKhNCHjlh=s0-e365"
+    },
+    {
+      "id": "1696c562aa6b5d9327b4d10c",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Two Point Museum's Cutest Collaboration Is Now Available, And It's Free",
+      "url": "https://www.nintendolife.com/news/2026/10/two-point-museums-cutest-collaboration-is-now-available-and-its-free",
+      "summary": "Little Kitty, Big Museum. There are very few games that we wouldn't benefit from having a cute cat added to it, and Two Point Studios knows it. The dev has just revealed a collaboration between Two Point Museum and…",
+      "publishedAt": "2026-10-08T17:00:00Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://images.nintendolife.com/bff863ebc1f03/large.jpg"
+    },
+    {
+      "id": "c5e2ea25e3dd33e49a98975b",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Grandpa's Garage [Free] [Simulation]",
+      "url": "https://developernoah.itch.io/grandpas-garage",
+      "summary": "Sort grandpa's 250,000 screws into jars. A cozy, finishable incremental.",
+      "publishedAt": "2026-10-08T16:57:50Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjY1MjYyLnBuZw==/315x250%23c/55AvD3.png"
+    },
+    {
+      "id": "beba6e1688514efc8a328b00",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "You Have Minutes to Live: Introducing Echo Weaver",
+      "url": "https://news.xbox.com/en-us/2026/10/08/you-have-minutes-to-live-introducing-echo-weaver/",
+      "summary": "“This is the best demo I’ve ever played.” Two years ago, a demo from a three-person team in northwest North America hit my email and I wasn’t really prepared for how special it would end up being. My name is Buddy…",
+      "publishedAt": "2026-10-08T16:30:00Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/EW_SS01_1920x1080_v2-a55a5ec9fcadcc00ff00-1024x576.jpg"
+    },
+    {
+      "id": "e944c8357cc37b2f9b34eeb1",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Spending On Switch 2 Game-Key Cards In The U.S. Has Risen By 631%",
+      "url": "https://www.nintendolife.com/news/2026/10/spending-on-switch-2-game-key-cards-in-the-u-s-has-risen-by-631percent",
+      "summary": "Overall physical media spending increased 5%. Circana's Mat Piscatella has posted a breakdown of the firm's latest sales report for the U.S., providing an interesting statistic for Game-Key Cards on the Switch 2.…",
+      "publishedAt": "2026-10-08T16:15:00Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://images.nintendolife.com/cf2e354f895ec/large.jpg"
+    },
     {
       "id": "caf73ac1430b893bada310f3",
       "sourceId": "gutenberg",
@@ -1046,7 +1166,7 @@
       "id": "80aa815b4d47a9b038723d9f",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
-      "title": "Claude Dreaming [Free] [Adventure] [Windows]",
+      "title": "Claude Dreaming [Free] [Adventure]",
       "url": "https://rusty-production.itch.io/claude-dreaming",
       "summary": "Wake up in a pixel attic, step into the paintings – every one is a dream someone built with their own Claude.",
       "publishedAt": "2026-10-07T19:46:54Z",
@@ -1272,6 +1392,17 @@
       "publishedAt": "2026-10-07T13:45:00Z",
       "firstSeenAt": "2026-10-07T15:36:06Z",
       "imageUrl": "https://images.nintendolife.com/0e3757e350a02/large.jpg"
+    },
+    {
+      "id": "7631dec76b6ec2ebf855eb49",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Forest Keeper Lookout Demo [Free] [Adventure] [Windows]",
+      "url": "https://kizunagamestudio.itch.io/forest-keeper-lookout-demo",
+      "summary": "Take a temporary job as a forest ranger deep in the mountains.",
+      "publishedAt": "2026-10-07T13:37:58Z",
+      "firstSeenAt": "2026-10-08T21:22:43Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjI4NDAyLnBuZw==/315x250%23c/YQ6Xs3.png"
     },
     {
       "id": "9a7c79bf5e95f59d2e4a3f27",
@@ -4295,57 +4426,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/5SAHXmMPUCpY_TUiDA81oiN00LXrIbsOXN9CTFtZbjI4pz_0RbQr0tmSACr1JErfEvZqM131RfCU8-LA2uskPRaP7YAom1uS216jhW_JpQ=s0-e365"
     },
     {
-      "id": "e6e2c16afe9e7645242b4866",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "George Washington by Woodrow Wilson",
-      "url": "https://www.gutenberg.org/ebooks/79698",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T21:04:13Z"
-    },
-    {
-      "id": "52ae2112c86599b5d8ccd6e8",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The Narrative of Arthur Gordon Pym of Nantucket by Edgar Allan Poe",
-      "url": "https://www.gutenberg.org/ebooks/51060",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T21:04:13Z"
-    },
-    {
-      "id": "2b157e61ea7f1a7261f8e66d",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The fortune-hunters, and other stories by Violet Jacob",
-      "url": "https://www.gutenberg.org/ebooks/79699",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T21:04:13Z"
-    },
-    {
-      "id": "02aa21885bec0f500dcc7910",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Thus Spake Zarathustra: A Book for All and None by Friedrich Wilhelm Nietzsche",
-      "url": "https://www.gutenberg.org/ebooks/1998",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T21:04:13Z"
-    },
-    {
-      "id": "6aa4daab522a7d4933738fc2",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Homestead: Southern Skies [Free] [Survival] [Windows] [macOS] [Android]",
-      "url": "https://arturxxsh.itch.io/homestead",
-      "summary": "Farm, build and get by in a pixel art land where Christmas comes in midsummer",
-      "publishedAt": "2026-10-01T20:15:31Z",
-      "firstSeenAt": "2026-10-02T05:47:51Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDQ2MTk5LnBuZw==/315x250%23c/l9dgUW.png"
-    },
-    {
       "id": "6485fb7fa3c8e511da153441",
       "sourceId": "pokemon-go",
       "sourceName": "Pokémon GO",
@@ -4357,17 +4437,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/lKvMVkt13VprgaVCCdWqglwACCNc_F4rLJMuuZg_MqZSHjDIkEm3dldHcnyv7OPdDmJYAdfYC9xZef00Jfna7R1B8QJLLBMOigqW_89obec=s0-e365"
     },
     {
-      "id": "68f2dca4df0e6d688b41aeac",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Japanese Charts: Fire Emblem Sales Plummet, But It's Still Enough To Stay On The Podium",
-      "url": "https://www.nintendolife.com/news/2026/10/japanese-charts-fire-emblem-sales-plummet-but-its-still-enough-to-stay-on-the-podium",
-      "summary": "Quiet week, eh? After last week's charts came in a little later than usual, it has only been a matter of days since we last caught up with the Japanese game sales numbers, but Famitsu waits for no one, so we're back…",
-      "publishedAt": "2026-10-01T17:00:00Z",
-      "firstSeenAt": "2026-10-01T21:04:13Z",
-      "imageUrl": "https://images.nintendolife.com/7d27aceda35f0/large.jpg"
-    },
-    {
       "id": "449273a0cea01299c12e3ccf",
       "sourceId": "pokemon-go",
       "sourceName": "Pokémon GO",
@@ -4377,17 +4446,6 @@
       "publishedAt": "2026-10-01T17:00:00Z",
       "firstSeenAt": "2026-10-01T21:04:13Z",
       "imageUrl": "https://lh3.googleusercontent.com/u0gcBk4WxvszF4cKKAseYnVDOT8ombVKElMwM2f8545aa98EHjJADmhiyJ6EGXDRhLSlJn6SE4ESV6WVVRLfuQUTIM5Hx7wsKN80mLYxW4rt=s0-e365"
-    },
-    {
-      "id": "58ecfba7d01f6ff4db5b63f9",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "'Croc 2' Is Getting The Remaster Treatment Later This Month",
-      "url": "https://www.nintendolife.com/news/2026/10/croc-2-is-getting-the-remaster-treatment-later-this-month",
-      "summary": "School of Croc. The team at Argonaut Games made it no secret that if last year's Croc: Legend of the Gobbos remaster performed well enough at launch, turning to the sequel would be the logical next step. Well, guess…",
-      "publishedAt": "2026-10-01T16:15:00Z",
-      "firstSeenAt": "2026-10-01T21:04:13Z",
-      "imageUrl": "https://images.nintendolife.com/fbd87143aad4c/large.jpg"
     },
     {
       "id": "881f075b9efd8a9e90c21e31",
@@ -4420,17 +4478,6 @@
       "publishedAt": "2026-10-01T16:00:00Z",
       "firstSeenAt": "2026-10-01T21:04:13Z",
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/Group-Photo-MASTER-with-names-copy-ae95641a167534ff5cfa-1024x606.jpg"
-    },
-    {
-      "id": "a518c07f8a09ec6c4047b511",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "ININ 'Relaunches' R-Type Dimensions 3 With A Free Digital Artbook",
-      "url": "https://www.nintendolife.com/news/2026/10/inin-relaunches-r-type-dimensions-3-with-a-free-digital-artbook",
-      "summary": "Let's try again, shall we? Publisher ININ has announced that it has effectively 'relaunched' R-Type Dimensions III with the release of a third major patch. The latest patch primarily addresses boss fights in Advanced…",
-      "publishedAt": "2026-10-01T15:45:00Z",
-      "firstSeenAt": "2026-10-01T21:04:13Z",
-      "imageUrl": "https://images.nintendolife.com/d5e8793f4b600/large.jpg"
     },
     {
       "id": "21c591b79a05aaba53fe34af",
@@ -5493,16 +5540,6 @@
       "publishedAt": "2026-09-24T23:35:32Z",
       "firstSeenAt": "2026-09-25T05:03:58Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_general_notices_nightcap_pikachu.jpg"
-    },
-    {
-      "id": "c4a02677c086d15599651365",
-      "sourceId": "xbox",
-      "sourceName": "Xbox Wire",
-      "title": "XBOX Insiders Can Join the Chicken Invaders Collection Preview Today!",
-      "url": "https://news.xbox.com/en-us/2026/09/24/xbox-insiders-can-join-the-chicken-invaders-collection-preview-today/",
-      "summary": "Starting today, XBOX Insiders can join the Chicken Invaders Collection preview from InterAction studios on XBOX consoles and Windows PC. Chicken Invaders puts you on the front line against invading intergalactic…",
-      "publishedAt": "2026-09-24T18:00:00Z",
-      "firstSeenAt": "2026-09-24T20:01:17Z"
     },
     {
       "id": "6fee803899c421dd1838f82e",
@@ -7614,17 +7651,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/zlTOaWrQLpNhCSkengTNvC9s02q6woqN-lYbfNFF2xTxiej2CZPXvNP2qSWQDTjOM5cTXxA3DhrKKS4ibrGXNK3BP9-95uRUaOvqfhlsgQ=s0-e365"
     },
     {
-      "id": "a0ee534c5d0bda8c8e7d9da9",
-      "sourceId": "pokemon-go",
-      "sourceName": "Pokémon GO",
-      "title": "Latios soars in faster than a jet for GO Pass: September!",
-      "url": "https://pokemongo.com/news/go-pass-september-2026",
-      "summary": "",
-      "publishedAt": "2026-08-25T17:00:00Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=s0-e365"
-    },
-    {
       "id": "a7cfe68a2af7f56cc1a2f9d0",
       "sourceId": "esa-space",
       "sourceName": "ESA Space Science",
@@ -7645,17 +7671,6 @@
       "publishedAt": "2026-08-24T16:14:14Z",
       "firstSeenAt": "2026-09-19T09:02:54Z",
       "imageUrl": "https://pokejungle.net/wp-content/uploads/2026/08/pokemon-sleep_2026-08_mew-snapshot-pursue-mewtwo-1024x576.jpg"
-    },
-    {
-      "id": "d86f4ed37220ba1b4d086ce1",
-      "sourceId": "pokemon-go",
-      "sourceName": "Pokémon GO",
-      "title": "Celebrate the launch of the Green Pokémon Jet: Take flight on a new adventure through the ANA and Pokémon GO partnership!",
-      "url": "https://pokemongo.com/news/2026_ana_green",
-      "summary": "",
-      "publishedAt": "2026-08-24T06:00:00Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://lh3.googleusercontent.com/Jld2IxLcGvx_Pm6Zm5pz5zr6Td6kwfeN8-FrP8HKXUk1mlYRSbdAjNwvqq4VkYIuZ6c79alLPHTH0YrDF1AZX1USaSjfi1ZR1h1wUmMns40=s0-e365"
     },
     {
       "id": "f17b3dcef1ba7678ec6a8b79",
