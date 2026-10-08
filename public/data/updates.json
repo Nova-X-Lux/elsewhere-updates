@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T21:20:50Z",
+  "generatedAt": "2026-10-08T06:13:59Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,10 +23,10 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
-      "itemCount": 22
+      "itemCount": 23
     },
     {
       "id": "pokemon-games",
@@ -54,10 +54,10 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
-      "itemCount": 18
+      "itemCount": 19
     },
     {
       "id": "pokemon-cards",
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 28
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 17
     },
@@ -140,9 +140,9 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T15:36:06Z",
-      "error": "Source returned HTTP 502",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
+      "error": null,
       "itemCount": 40
     },
     {
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 15
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 17
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 16
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 11
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 23
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 20
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
-      "itemCount": 64
+      "itemCount": 66
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 34
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 34
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
-      "itemCount": 109
+      "itemCount": 110
     },
     {
       "id": "nasa",
@@ -499,9 +499,9 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-05T05:50:11Z",
-      "error": "Source returned HTTP 429",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
+      "error": null,
       "itemCount": 40
     },
     {
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 23
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
       "itemCount": 18
     },
@@ -562,13 +562,174 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-07T21:20:50Z",
-      "lastSuccessAt": "2026-10-07T21:20:50Z",
+      "checkedAt": "2026-10-08T06:13:59Z",
+      "lastSuccessAt": "2026-10-08T06:13:59Z",
       "error": null,
-      "itemCount": 72
+      "itemCount": 71
     }
   ],
   "items": [
+    {
+      "id": "dfb196c382f4eec78a1f66d8",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Mary Had a Little Lamb by Thomas A. Edison",
+      "url": "https://www.gutenberg.org/ebooks/10137",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-08T06:13:59Z"
+    },
+    {
+      "id": "7843b4c8b1ddf5378ed00568",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Essays on museums : by William Henry Flower",
+      "url": "https://www.gutenberg.org/ebooks/79742",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-08T06:13:59Z"
+    },
+    {
+      "id": "4fe526e6256d72acf7e09aaa",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Adorable Clio by Jean Giraudoux",
+      "url": "https://www.gutenberg.org/ebooks/79741",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-08T06:13:59Z"
+    },
+    {
+      "id": "1c19293bb581bafddbcb935d",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Motion Picture of Rotating Earth by United States",
+      "url": "https://www.gutenberg.org/ebooks/256",
+      "summary": "Language:",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-08T06:13:59Z"
+    },
+    {
+      "id": "f1b17e016c0f812bb4dcb9ee",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Round Up: The Reviews For Dragon's Dogma 2: Dark Arisen Are In",
+      "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-dragons-dogma-2-dark-arisen-are-in",
+      "summary": "Here's what the critics think. Dragon's Dogma 2 arrives on the Switch 2 this week, and alongside this, the new Dark Arisen Expansion has been released across all platforms. The reviews are now rolling in about this…",
+      "publishedAt": "2026-10-08T05:25:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://images.nintendolife.com/a88ce0c7dfa51/large.jpg"
+    },
+    {
+      "id": "ad02e61839622050651b0ef4",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "APOD: 2026 October 8 – The Saturn System Smörgåsbord",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/",
+      "summary": "APOD Science APOD APOD: 2026 October 8 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+      "publishedAt": "2026-10-08T04:05:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026-09-21-2349_3-TW-RGB-Sat2_1.5x_Labelled.png?w=2296&h=1500&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "4d38c65da3c990bc3743bf8c",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Fighting Drought in Texas Cotton Country",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/",
+      "summary": "Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.",
+      "publishedAt": "2026-10-08T04:01:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fighting-drought-in-texas-cotton-country/texasdrought_oli_20250922.jpg"
+    },
+    {
+      "id": "a946c8971400e63d66f61001",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
+      "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
+      "summary": "The hit RPG Monster Hunter Stories 3: Twisted Reflection, currently available on XBOX Series X|S, will launch on XBOX on PC on November 18, 2026, with Xbox Play Anywhere support. This will allow players to enjoy the…",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MHST3_Pub03_view02-d0385e8b42ca87a59e08-1024x576.jpg"
+    },
+    {
+      "id": "3e8c2949c1a5a62b59f1b161",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Preview: 'Muramasa: Revenant Blades' Polishes Vanillaware's Gem To Shine Brighter Than Ever",
+      "url": "https://www.nintendolife.com/previews/muramasa-revenant-blades-polishes-vanillawares-gem-to-shine-brighter-than-ever",
+      "summary": "Reforged. Muramasa: The Demon Blade originally launched on the Wii back in 2009, a title that we called \"gorgeous, engrossing,\" and even underrated. We’ve been hoping to see a modern port of this gem for a long time…",
+      "publishedAt": "2026-10-08T04:00:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://images.nintendolife.com/b349be1d98a11/large.jpg"
+    },
+    {
+      "id": "8b33e27d34afd6f2b2917b09",
+      "sourceId": "pokemon-games",
+      "sourceName": "Pokémon games",
+      "title": "Spooky festivities and Gigantamax Duraludon are headed to Pokémon GO!",
+      "url": "https://pokejungle.net/2026/10/07/spooky-festivities-and-gigantamax-duraludon-are-headed-to-pokemon-go/",
+      "summary": "New costumed Pokémon are headed to Pokémon GO for Halloween and Gigantamax Duraludon will debut as part of the upcoming Pokémon GO Wild Area events. Halloween 2026 Part I event details Costumed Zubat, Sinistea, and…",
+      "publishedAt": "2026-10-08T03:42:57Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://pokejungle.net/wp-content/uploads/2026/10/pokemon-go_2026-10_halloween-2026-pt-1-gigantamax-duraludon-1024x576.jpg"
+    },
+    {
+      "id": "5fa153b2755106d16177dddf",
+      "sourceId": "pokemon-news",
+      "sourceName": "Pokémon news",
+      "title": "Spooky festivities and Gigantamax Duraludon are headed to Pokémon GO!",
+      "url": "https://pokejungle.net/2026/10/07/spooky-festivities-and-gigantamax-duraludon-are-headed-to-pokemon-go/",
+      "summary": "New costumed Pokémon are headed to Pokémon GO for Halloween and Gigantamax Duraludon will debut as part of the upcoming Pokémon GO Wild Area events. Halloween 2026 Part I event details Costumed Zubat, Sinistea, and…",
+      "publishedAt": "2026-10-08T03:42:57Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://pokejungle.net/wp-content/uploads/2026/10/pokemon-go_2026-10_halloween-2026-pt-1-gigantamax-duraludon-1024x576.jpg"
+    },
+    {
+      "id": "c399157b56eaceb5280900b0",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Sonic Racing: CrossWorlds \"Year One\" Edition Spotted Online",
+      "url": "https://www.nintendolife.com/news/2026/10/sonic-racing-crossworlds-year-one-edition-spotted-online",
+      "summary": "As \"Year Two\" gets underway. If you didn't catch the first year of Sonic Racing: CrossWorlds, it seems Sega may soon be releasing an updated retail copy. Read the full article on nintendolife.com",
+      "publishedAt": "2026-10-08T02:45:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://images.nintendolife.com/1e963c5a7d33b/large.jpg"
+    },
+    {
+      "id": "2b7ceeb6ca5306e1ecff78f9",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Pokémon Ruby & Sapphire Switch Port Rumours Resurface Following Pokémon HOME's Latest Update",
+      "url": "https://www.nintendolife.com/news/2026/10/pokemon-ruby-and-sapphire-switch-port-rumours-resurface-following-pokemon-homes-latest-update",
+      "summary": "Two GBA games are now compatible with the service. There have been rumours doing the rounds online in recent times about Pokémon Ruby & Sapphire making a return. Now, the latest Pokémon HOME update has got some…",
+      "publishedAt": "2026-10-08T01:55:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://images.nintendolife.com/659b804be1049/large.jpg"
+    },
+    {
+      "id": "02676df4946859b0dd580582",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Minecraft Switch 2 Pre-Orders Now Live, Free Digital Upgrade Path Confirmed As \"Limited Time Offer\"",
+      "url": "https://www.nintendolife.com/news/2026/10/minecraft-switch-2-pre-orders-now-live-free-digital-upgrade-path-confirmed-as-limited-time-offer",
+      "summary": "You have \"until the end of January 2027\" to claim the Switch 2 version. Ahead of the release of Minecraft on the Switch 2 on 27th October 2026, Mojang has now sent pre-orders for this version of the game live. It's…",
+      "publishedAt": "2026-10-08T00:25:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://images.nintendolife.com/180e9441d802b/large.jpg"
+    },
+    {
+      "id": "ff4bde2963cfd991991902a2",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "The First Review For Castlevania: Belmont's Curse Is In",
+      "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-castlevania-belmonts-curse-is-in",
+      "summary": "A fresh take on the world of Castlevania. Konami's Castlevania series returns next week, and the first critic review for Castlevania: Belmont's Curse has now gone live. It comes from the famous Japanese publication…",
+      "publishedAt": "2026-10-07T23:25:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://images.nintendolife.com/c129c0823dc20/large.jpg"
+    },
     {
       "id": "fabd4390a3ec6dce4be7e1a5",
       "sourceId": "gutenberg",
@@ -593,7 +754,7 @@
       "id": "b44fe2e089e612617eb8330b",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "The stratagem and other stories by Aleister Crowley",
+      "title": "The stratagem, and other stories by Aleister Crowley",
       "url": "https://www.gutenberg.org/ebooks/79738",
       "summary": "Language: English",
       "publishedAt": null,
@@ -603,7 +764,7 @@
       "id": "83d099a264bd12506e9473ae",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "The king's friend by Robert Sulivan",
+      "title": "The king's friend : by Robert Sulivan",
       "url": "https://www.gutenberg.org/ebooks/79740",
       "summary": "Language: English",
       "publishedAt": null,
@@ -628,6 +789,72 @@
       "summary": "Language: English",
       "publishedAt": null,
       "firstSeenAt": "2026-10-07T21:20:50Z"
+    },
+    {
+      "id": "62281630faee461c69b636b9",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "summary": "NASA and SpaceX are targeting 6:33 a.m. EDT, Tuesday, Oct. 13, for the next launch to deliver science investigations, supplies, and equipment, including the final set of International Space Station Roll-Out Solar…",
+      "publishedAt": "2026-10-07T21:16:42Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/spacex-35.jpg?w=2048"
+    },
+    {
+      "id": "b75575f35859ecbc4489ee48",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Somewhere, Eventually [Free] [Simulation] [Windows]",
+      "url": "https://aftershift-arcade.itch.io/somewhere-eventually",
+      "summary": "Nothing Stays Undelivered Forever. An incremental game about an impossible post office.",
+      "publishedAt": "2026-10-07T20:42:10Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjM4NTYwLnBuZw==/315x250%23c/dbfGQ%2F.png"
+    },
+    {
+      "id": "4eb736b9a42c8c28a3c755e4",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
+      "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/",
+      "summary": "NASA and SpaceX are targeting no earlier than Tuesday, Oct. 13 to launch scientific investigations, supplies, and equipment to the International Space Station.",
+      "publishedAt": "2026-10-07T20:17:16Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-falcon9-dragon.png?w=1430"
+    },
+    {
+      "id": "5d3184641be65facac470e76",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s PRIMA Spacecraft (Artist’s Concept)",
+      "url": "https://science.nasa.gov/photojournal/nasas-prima-spacecraft-artists-concept/",
+      "summary": "Description This artist’s concept depicts the proposed design for NASA’s PRobe far-Infrared Mission for Astrophysics (PRIMA), which was selected by the agency in September 2026. The PRIMA observatory is the first in a…",
+      "publishedAt": "2026-10-07T20:15:49Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26355/PIA26355.jpg?w=3360&h=3360&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "0e44db3d90c0e37d9571b03c",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "MERIDIAN [Free] [Visual Novel]",
+      "url": "https://birdylight.itch.io/meridian",
+      "summary": "Explore a Cozy Space Ship and Collect Trinkets",
+      "publishedAt": "2026-10-07T20:09:11Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjM3NjgwLnBuZw==/315x250%23c/ETnNpt.png"
+    },
+    {
+      "id": "80aa815b4d47a9b038723d9f",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Claude Dreaming [Free] [Adventure] [Windows]",
+      "url": "https://rusty-production.itch.io/claude-dreaming",
+      "summary": "Wake up in a pixel attic, step into the paintings – every one is a dream someone built with their own Claude.",
+      "publishedAt": "2026-10-07T19:46:54Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjM3MDczLnBuZw==/315x250%23c/IlE4mg.png"
     },
     {
       "id": "5e458f04eb2e08a93c40732b",
@@ -696,6 +923,17 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2018/03/official_artwork_for_english_dub_pokemon_the_series_sun_and_moon_ultra_adventures.jpg"
     },
     {
+      "id": "cc049d20b80bd8ca2015c4ee",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Babysitter (Phone) [Free] [Action]",
+      "url": "https://yjcgame.itch.io/babysitter-mobile",
+      "summary": "A cozy typing game for your phone. Tap the buzz to swat mosquitoes before they wake the baby.",
+      "publishedAt": "2026-10-07T18:19:51Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjM1MDQ3LnBuZw==/315x250%23c/7Hdwht.png"
+    },
+    {
       "id": "e8207004425640965820f87a",
       "sourceId": "playstation",
       "sourceName": "PlayStation Blog",
@@ -705,6 +943,39 @@
       "publishedAt": "2026-10-07T17:00:48Z",
       "firstSeenAt": "2026-10-07T21:20:50Z",
       "imageUrl": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
+    },
+    {
+      "id": "f35d1d23bd70d9cfe283f2cc",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s Curiosity Looks Back After Reaching Elevation Milestone",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-looks-back-after-reaching-elevation-milestone/",
+      "summary": "Description NASA’s Curiosity Mars rover captured this view looking back at the floor of Gale Crater, with the crater’s rim visible in the distance, on Sept. 5, 2026, the 5,006th Martian day, or sol, of the mission.…",
+      "publishedAt": "2026-10-07T17:00:47Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26781/PIA26781.png?w=11027&h=3994&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "1f6ad91f2a25fdd4ca88a7b8",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Spiretoon Park (Demo) [Free] [Simulation]",
+      "url": "https://spirevale.itch.io/spiretoon-park",
+      "summary": "Breed animals with genetics, grow a park visitors love and enjoy the seasonal festivals.demo: the first two seasons.",
+      "publishedAt": "2026-10-07T16:56:19Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjMzNTM0LnBuZw==/315x250%23c/BcPuib.png"
+    },
+    {
+      "id": "f96beb7fec5fcf17122f04b6",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s Curiosity Captures Dawn Breaking on Wind-Carved Cliffs",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-captures-dawn-breaking-on-wind-carved-cliffs/",
+      "summary": "Description NASA’s Curiosity Mars rover captured this panorama of sunrise illuminating distant, wind-carved features called yardangs on Aug. 11, 2026, the 4,982nd Martian day, or sol, of the mission. Scientists are…",
+      "publishedAt": "2026-10-07T16:49:50Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia25/pia25629/PIA25629.png?w=6737&h=1258&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
       "id": "618a673a3455d9dc911a66af",
@@ -727,6 +998,17 @@
       "publishedAt": "2026-10-07T16:00:00Z",
       "firstSeenAt": "2026-10-07T21:20:50Z",
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/ForeverAgo_KeyArt_1920x1080-64a442ed77399110ac5b-1024x576.jpg"
+    },
+    {
+      "id": "3f404f8bd74425b9c1539005",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Artemis II Crew Moon Photo Annotations",
+      "url": "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "summary": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member’s tablet. NASA astronauts Reid Wiseman (in blue) and Victor “Ike”…",
+      "publishedAt": "2026-10-07T15:44:59Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/art002e016252.jpg?w=1966"
     },
     {
       "id": "93759a6424fa24945725b07f",
@@ -793,6 +1075,17 @@
       "publishedAt": "2026-10-07T13:45:00Z",
       "firstSeenAt": "2026-10-07T15:36:06Z",
       "imageUrl": "https://images.nintendolife.com/0e3757e350a02/large.jpg"
+    },
+    {
+      "id": "9a7c79bf5e95f59d2e4a3f27",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Aquarium Alive [Free] [Simulation]",
+      "url": "https://aquariumalive.itch.io/aquarium-alive",
+      "summary": "A cozy pixel aquarium that follows your real weather and clock",
+      "publishedAt": "2026-10-07T13:18:15Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjI3MTc1LnBuZw==/315x250%23c/VZIltr.png"
     },
     {
       "id": "9aca37f3056c68d4499eb2b6",
@@ -1080,6 +1373,17 @@
       "imageUrl": "https://images.nintendolife.com/cf1e0ed21220b/large.jpg"
     },
     {
+      "id": "3be3788f3b2919787e349eea",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "APOD: 2026 October 7 – Supernova Remnant Pa 30",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+      "summary": "APOD Science APOD APOD: 2026 October 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+      "publishedAt": "2026-10-07T04:05:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/noirlab2624a.jpg?w=3233&h=3429&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
       "id": "cc7c00b905ce5c6229627c6e",
       "sourceId": "pokemon-go",
       "sourceName": "Pokémon GO",
@@ -1089,6 +1393,17 @@
       "publishedAt": "2026-10-07T04:00:00Z",
       "firstSeenAt": "2026-10-07T06:07:56Z",
       "imageUrl": "https://lh3.googleusercontent.com/2MjiTTHSr_Vao03G3MxlKLsDlrZvGrsM1RE38Kxv23qi0DGCozAaP2lFV5-sjtwhPe6G9uG5urCo7rRpHZVYo__bc--idrRrIsKZbDMDOGs=s0-e365"
+    },
+    {
+      "id": "0551049a7e05057d4767c7bf",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+      "url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/",
+      "summary": "Satellite records show Arctic sea ice covering less of the ocean in both winter and summer.",
+      "publishedAt": "2026-10-07T04:00:00Z",
+      "firstSeenAt": "2026-10-08T06:13:59Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arctic-sea-ice-shrinks-to-its-2026-minimum/arctic_nsidc_20260912.jpg?w=720&h=545&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
       "id": "e9086bdc375367e9083496ca",
@@ -4162,78 +4477,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNDI4MzAzLnBuZw==/315x250%23c/qXajyQ.png"
     },
     {
-      "id": "fe7fd476d0839a89d31768d7",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The mystery of Hoyle's Mouth : by Mary E. Ropes",
-      "url": "https://www.gutenberg.org/ebooks/79697",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T06:04:58Z"
-    },
-    {
-      "id": "86629f1edc7914f363830203",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The secret of the Sahara : by Rosita Forbes",
-      "url": "https://www.gutenberg.org/ebooks/79696",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T06:04:58Z"
-    },
-    {
-      "id": "5774afe385927f08d7f0a23e",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "\"Captains Courageous\": A Story of the Grand Banks by Rudyard Kipling",
-      "url": "https://www.gutenberg.org/ebooks/2225",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T06:04:58Z"
-    },
-    {
-      "id": "14bc1fadf9d40879d6397ab6",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Bad girl by Viña Delmar",
-      "url": "https://www.gutenberg.org/ebooks/79694",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T06:04:58Z"
-    },
-    {
-      "id": "0fc8563bb33ff6755e893b7d",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Arte da grammatica da lingua do Brasil by Luis Figueira",
-      "url": "https://www.gutenberg.org/ebooks/79695",
-      "summary": "Language: Portuguese",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-01T06:04:58Z"
-    },
-    {
-      "id": "c60582cae38b86bca79169f9",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Fruit Factory [Free] [Simulation]",
-      "url": "https://pakkapin.itch.io/fruit-factory-demo",
-      "summary": "",
-      "publishedAt": "2026-10-01T04:51:21Z",
-      "firstSeenAt": "2026-10-02T05:47:51Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDI2MTM5LnBuZw==/315x250%23c/rxCmey.png"
-    },
-    {
-      "id": "05865f40ede82cafc20bda5b",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "DesktopPond | 浮生·桌面鱼塘 [$4.99] [Simulation] [Windows]",
-      "url": "https://lisisicheng-cyber.itch.io/desktoppool",
-      "summary": "An interactive desktop pond with fish to feed, changing seasons, and draggable file groups.",
-      "publishedAt": "2026-10-01T04:16:10Z",
-      "firstSeenAt": "2026-10-02T14:47:25Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDI2Mzg3LnBuZw==/315x250%23c/8Me7ar.png"
-    },
-    {
       "id": "11cc1a3b167cf051121edcab",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -4254,61 +4497,6 @@
       "publishedAt": "2026-10-01T04:00:00Z",
       "firstSeenAt": "2026-10-01T06:04:58Z",
       "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/an-agricultural-“island”-in-the-saskatchewan-river-delta/manitobaharvest_oli2_20260702.jpg"
-    },
-    {
-      "id": "9e777846eecc28b26973b404",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Nintendo Has Now Shut Down Mario Kart Tour",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-has-now-shut-down-mario-kart-tour",
-      "summary": "\"Thank you for playing\". If you weren't already aware, Nintendo has now officially shut down its free-to-play mobile game Mario Kart Tour. Read the full article on nintendolife.com",
-      "publishedAt": "2026-10-01T03:45:00Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://images.nintendolife.com/d6d5b1f6078d1/large.jpg"
-    },
-    {
-      "id": "3ef0a538db6ab3e798bbd56f",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Surprise! Donkey Kong Bananza's Limited-Time DLC Events Are Back",
-      "url": "https://www.nintendolife.com/news/2026/10/surprise-donkey-kong-bananzas-limited-time-dlc-events-are-back",
-      "summary": "Nintendo announces monthly rotations. Nintendo rolled out its final Emerald Rush event for Donkey Kong Bananza in September, and if you never got around to it, or missed out on previous events, we've got some exciting…",
-      "publishedAt": "2026-10-01T02:25:00Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://images.nintendolife.com/ec47284d4d298/large.jpg"
-    },
-    {
-      "id": "318e40bf200c1ad1507a1c71",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Nintendo Switch 2 System Update 23.0.1 Is Now Live, Here Are The Full Patch Notes",
-      "url": "https://www.nintendolife.com/news/2026/10/nintendo-switch-2-system-update-23-0-1-is-now-live-here-are-the-full-patch-notes",
-      "summary": "It's not much, but it's something. Nintendo released a major update for the Switch 2 earlier in September, bumping the system firmware up to Version 23.0.0. Now, it has rolled Version 23.0.1 at the end of the month to…",
-      "publishedAt": "2026-10-01T01:25:00Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://images.nintendolife.com/a7078b9bba908/large.jpg"
-    },
-    {
-      "id": "75d8f8ebfdf518108a2456e9",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Second Growth [Free] [Simulation]",
-      "url": "https://second-growth.itch.io/second-growth",
-      "summary": "A Rewilding Game",
-      "publishedAt": "2026-10-01T01:09:55Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDIyMzI4LnBuZw==/315x250%23c/hj%2F811.png"
-    },
-    {
-      "id": "641646609a864eb77e8d53b4",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Pokémon Pokopia + Expansion Pass Switch 2 Game-Key Card Release Announced",
-      "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-plus-expansion-pass-switch-2-game-key-card-release-announced",
-      "summary": "Launching in Japan alongside the new Legends: Z-A physical release. Pokémon Pokopia was the first Nintendo title released on a Game-Key Card, and while nothing is changing on this front, it's been announced an updated…",
-      "publishedAt": "2026-10-01T00:25:00Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://images.nintendolife.com/8495dba502d8f/large.jpg"
     },
     {
       "id": "8e5572890a5b9911fe5c1e1e",
@@ -4375,28 +4563,6 @@
       "publishedAt": "2026-09-30T23:19:58Z",
       "firstSeenAt": "2026-10-01T06:04:58Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_pocket_deluxe_pack_mega.jpg"
-    },
-    {
-      "id": "6187339965087a359414ba10",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Rewind House [Free] [Puzzle]",
-      "url": "https://thumbcultstudio.itch.io/rewind-house",
-      "summary": "Sort cassettes, VHS tapes and gel pens back onto the shelves and rebuild your cozy 90s bedroom.",
-      "publishedAt": "2026-09-30T22:08:45Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDE4MTI4LnBuZw==/315x250%23c/n%2FC4px.png"
-    },
-    {
-      "id": "826e836273208c0961f99504",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Lumen: Phos Engine [Free] [Educational]",
-      "url": "https://retrogames10000.itch.io/lumen-phos-engine",
-      "summary": "An HTML5 inbrowser legendary musical learning experience",
-      "publishedAt": "2026-09-30T22:00:19Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDE4MzA0LnBuZw==/315x250%23c/IVcy%2Fj.png"
     },
     {
       "id": "62497ee09f771f58468e4c97",
@@ -4672,17 +4838,6 @@
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2025/09/cropped-nasa-meatball-1.jpg?w=1080"
     },
     {
-      "id": "ef4102ed988747edd16cfa98",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/",
-      "summary": "Editor’s note: This advisory was updated Sept. 30, 2026 with an updated time for the prelaunch news conference. NASA will provide live coverage of prelaunch, launch, and docking activities for the agency’s SpaceX…",
-      "publishedAt": "2026-09-29T18:57:14Z",
-      "firstSeenAt": "2026-09-29T23:45:55Z",
-      "imageUrl": "https://images-assets.nasa.gov/image/jsc2026e401203/jsc2026e401203~large.jpg?w=1920&h=1536&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
       "id": "9370db522e7507f04c24586e",
       "sourceId": "xbox",
       "sourceName": "Xbox Wire",
@@ -4705,17 +4860,6 @@
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/1.-Toast-Gears-E-Day-1e689e713ada7e9b3d37-1024x576.png"
     },
     {
-      "id": "7dbec1207d918cfbf970a612",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-      "url": "https://www.nasa.gov/image-article/crew-13-rocket-and-spacecraft-at-launch-pad/",
-      "summary": "Ahead of NASA’s SpaceX Crew-13 mission launch, a SpaceX Falcon 9 rocket and Dragon spacecraft are vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida in this Sept. 27…",
-      "publishedAt": "2026-09-29T15:31:56Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/55555912182-5c7a52ae0f-o.jpg?w=1365"
-    },
-    {
       "id": "011c8422f80c680c4c52e831",
       "sourceId": "xbox",
       "sourceName": "Xbox Wire",
@@ -4724,17 +4868,6 @@
       "summary": "The post Call of Duty: Modern Warfare 4 PC Trailer, Tech Updates, and More appeared first on XBOX Wire.",
       "publishedAt": "2026-09-29T15:30:00Z",
       "firstSeenAt": "2026-09-29T18:07:28Z"
-    },
-    {
-      "id": "d826cb29b6f4895dd4d2d480",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Opens Applications for Second Season of ORBIT Student Challenge",
-      "url": "https://www.nasa.gov/learning-resources/research-program-for-students/",
-      "summary": "Following a successful inaugural year of ingenuity and career building, NASA ORBIT (Opportunities in Research, Business, Innovation, and Technology) has officially returned for a second season to bring university and…",
-      "publishedAt": "2026-09-29T15:11:15Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2024/10/earth-blue-planet-globe-planet-87651.jpeg?w=750"
     },
     {
       "id": "9c6458500fdefa67868329db",
@@ -4746,28 +4879,6 @@
       "publishedAt": "2026-09-29T14:30:00Z",
       "firstSeenAt": "2026-09-29T18:07:28Z",
       "imageUrl": "https://images.nintendolife.com/463c105bdb0c1/large.jpg"
-    },
-    {
-      "id": "e55da3ade0d2d6be6d33a193",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NSTGRO 2026",
-      "url": "https://www.nasa.gov/directorates/stmd/space-tech-research-grants/nstgro/nstgro-2026/",
-      "summary": "NSTGRO Homepage Omar AlyousefUniversity Of MemphisPolycatenated Architected Materials (PAM) for Origami-Inspired Space Docking Ports Cade ArmstrongUniversity Of Texas at AustinIntelligent Multi-Agent Constellations for…",
-      "publishedAt": "2026-09-29T14:20:08Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/12/stmd.jpg?w=525"
-    },
-    {
-      "id": "8077553142f982f3befd21bc",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Under the Microscope: NASA-Made Material for Moon Manufacturing",
-      "url": "https://www.nasa.gov/image-article/nasa-made-material-moon-manufacturing/",
-      "summary": "Photos taken using a microscope reveal the colorful, kaleidoscope-like crystal structure of a new NASA-made material that could be used for manufacturing during future space missions. Developed at NASA’s Glenn Research…",
-      "publishedAt": "2026-09-29T14:00:00Z",
-      "firstSeenAt": "2026-09-29T18:07:28Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/lsp-2-100x.jpg?w=1024"
     },
     {
       "id": "2a5549173c4267b4a2472b82",
@@ -4836,28 +4947,6 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg"
     },
     {
-      "id": "a27c196818176dc031f992e6",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "APOD: 2026 September 29 – Sh2-188: The Shrimp Nebula",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-29-sh2-188-the-shrimp-nebula/",
-      "summary": "APODScienceAPODAPOD: 2026 September 29 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
-      "publishedAt": "2026-09-29T04:05:00Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/september/Shrimp_Pawel_2048.jpg?w=2048&h=2560&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "db8666e492732742341645c0",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Fire Cloud with a Pileus on Top",
-      "url": "https://science.nasa.gov/earth/earth-observatory/fire-cloud-with-a-pileus-on-top/",
-      "summary": "Scientists captured rare observations of an ephemeral pileus cloud hovering over a smoke-infused cloud that rose above a wildfire in Montana.",
-      "publishedAt": "2026-09-29T04:01:00Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/fire-cloud-with-a-pileus-on-top/montanafire_master_20260811.jpg"
-    },
-    {
       "id": "37d61caff1d644f544a551f5",
       "sourceId": "playstation",
       "sourceName": "PlayStation Blog",
@@ -4867,28 +4956,6 @@
       "publishedAt": "2026-09-29T02:05:06Z",
       "firstSeenAt": "2026-09-29T10:44:39Z",
       "imageUrl": "https://blog.playstation.com/tachyon/2026/09/80456f7d6b73917ed6ac7162328b97d7e69df1b9-scaled.jpg"
-    },
-    {
-      "id": "ee326df3c277f3f425e9e43d",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Mars Has Its Charmes",
-      "url": "https://science.nasa.gov/blog/mars-has-its-charmes/",
-      "summary": "Written by Athanasios (Thanos) Klidaras, Ph.D. candidate at Purdue University Sept. 21, 2026 After a long hiatus, the Perseverance rover updates page is back. A lot has happened on Mars in the meantime, and with…",
-      "publishedAt": "2026-09-29T01:27:52Z",
-      "firstSeenAt": "2026-09-29T10:44:39Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_1967_0841573976_050EBY_N0910806SRLC08063_0000LMJ.png?w=1648&h=1200&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "a8987d4b25b10617714a9984",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "October’s Night Sky Notes: Spooky Stargazing",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/spooky-stargazing/",
-      "summary": "The Ghoul Located within the constellation Perseus lies a star called Algol, also known as ‘Demon Star’ or ‘The Ghoul’. You can spot this star during the autumn months, along with Cassiopeia and Andromeda in the…",
-      "publishedAt": "2026-09-28T22:48:56Z",
-      "firstSeenAt": "2026-09-29T00:24:21Z",
-      "imageUrl": "https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia23/pia23403/PIA23403.gif?w=1041&h=586&fit=clip&crop=faces%2Cfocalpoint"
     },
     {
       "id": "adf4d449ac42ffcabfd31a8b",
@@ -4933,17 +5000,6 @@
       "publishedAt": "2026-09-28T21:06:06Z",
       "firstSeenAt": "2026-09-29T00:24:21Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_masters_ex_sygna_suit_lysandre_alt_and_chi_yu.jpg"
-    },
-    {
-      "id": "fbd646f11d216a1e9ee10d0e",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA, Boeing Share Update on Commercial Starliner Development Plans",
-      "url": "https://www.nasa.gov/news-release/nasa-boeing-share-update-on-commercial-starliner-development-plans/",
-      "summary": "On Monday, NASA and Boeing provided an update on the company’s Starliner spacecraft, including adding additional crew missions and certifying a new rocket for crew transportation to low Earth orbit. “We are living…",
-      "publishedAt": "2026-09-28T19:26:57Z",
-      "firstSeenAt": "2026-09-29T00:24:21Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/starliner-update-sept-28.jpg?w=2048"
     },
     {
       "id": "475984ea4f8f5b9fbce8bb33",
@@ -5654,17 +5710,6 @@
       "summary": "The post Age of Empires II: Definitive Edition – The Viking Sagas Available Now appeared first on XBOX Wire.",
       "publishedAt": "2026-09-23T18:00:00Z",
       "firstSeenAt": "2026-09-23T19:42:17Z"
-    },
-    {
-      "id": "96092ffcb8d710c44789fe0a",
-      "sourceId": "xbox",
-      "sourceName": "Xbox Wire",
-      "title": "CONTROL Resonant Is an Action Game… and an RPG, and a Superhero Game, and More Besides",
-      "url": "https://news.xbox.com/en-us/2026/09/23/control-resonant-launch-genre-details/",
-      "summary": "There’s no doubt that the headline for CONTROL Resonant belongs to the fact that it’s a true-blue melee-action game now. Where the original CONTROL centred on paranatural gunplay, a direct line of evolution from…",
-      "publishedAt": "2026-09-23T13:00:00Z",
-      "firstSeenAt": "2026-09-23T13:41:52Z",
-      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/CTRL_R_Launch_4K_Public_03-8239be67850ed8d29793-1024x576.jpg"
     },
     {
       "id": "b4356a0220697b2efc62158c",
