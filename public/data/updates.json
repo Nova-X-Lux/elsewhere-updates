@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-09T15:21:03Z",
+  "generatedAt": "2026-10-09T20:58:32Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 23
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 19
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 29
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 17
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 16
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 18
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 16
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 11
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 24
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 22
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
-      "itemCount": 66
+      "itemCount": 68
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,10 +392,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
-      "itemCount": 35
+      "itemCount": 36
     },
     {
       "id": "playstation",
@@ -413,10 +413,10 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
-      "itemCount": 35
+      "itemCount": 37
     },
     {
       "id": "xbox",
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
-      "itemCount": 106
+      "itemCount": 109
     },
     {
       "id": "nasa",
@@ -499,9 +499,9 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-08T15:41:36Z",
-      "error": "XML document types and entities are not supported",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
+      "error": null,
       "itemCount": 40
     },
     {
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 24
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
       "itemCount": 19
     },
@@ -562,13 +562,172 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-09T15:21:03Z",
-      "lastSuccessAt": "2026-10-09T15:21:03Z",
+      "checkedAt": "2026-10-09T20:58:32Z",
+      "lastSuccessAt": "2026-10-09T20:58:32Z",
       "error": null,
-      "itemCount": 69
+      "itemCount": 71
     }
   ],
   "items": [
+    {
+      "id": "f708f240c4e25ae825246391",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Les liens invisibles by Selma Lagerlöf",
+      "url": "https://www.gutenberg.org/ebooks/79746",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-09T20:58:32Z"
+    },
+    {
+      "id": "b254ee79dcb641bf56f985ec",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Moby Dick; Or, The Whale by Herman Melville",
+      "url": "https://www.gutenberg.org/ebooks/2701",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-09T20:58:32Z"
+    },
+    {
+      "id": "99b141f7cb2671191b9bba79",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "L'histoire de Guillaume le Maréchal : by Paul Meyer",
+      "url": "https://www.gutenberg.org/ebooks/79747",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-09T20:58:32Z"
+    },
+    {
+      "id": "96a4931853e3a0e0a0f4d3fa",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "L'histoire de Guillaume le Maréchal T. 2 : by Paul Meyer",
+      "url": "https://www.gutenberg.org/ebooks/79748",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-09T20:58:32Z"
+    },
+    {
+      "id": "7974c96587b3d81960deb4a4",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "New discoveries in science : by Hereward Carrington",
+      "url": "https://www.gutenberg.org/ebooks/79745",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-09T20:58:32Z"
+    },
+    {
+      "id": "56482a34f5e3027be71e3ed6",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Gesammelte Schriften von Marie von Ebner-Eschenbach (2/10) : by Maria von Ebner-Eschenbach",
+      "url": "https://www.gutenberg.org/ebooks/79749",
+      "summary": "Language: German",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-09T20:58:32Z"
+    },
+    {
+      "id": "a4d79b9a3daa5032d4999a72",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals…",
+      "publishedAt": "2026-10-09T18:11:44Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
+    },
+    {
+      "id": "ee05bca4dddf88c2b295ab75",
+      "sourceId": "xbox",
+      "sourceName": "Xbox Wire",
+      "title": "DMZ — 5 Features to Get Excited for in Call of Duty: Modern Warfare 4’s New Mode",
+      "url": "https://news.xbox.com/en-us/2026/10/09/dmz-5-features-get-excited-for-mw4/",
+      "summary": "Call of Duty’s upcoming DMZ mode sounds like it’s shaping up to be something special. Set on the new Haijin map and inspired by the events and locations from Modern Warfare 4’s Campaign, this open-world combat…",
+      "publishedAt": "2026-10-09T17:00:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4_DMZDeepDive_General_01_BRANDED-2c427a0a198e8cefc2de-1024x576.jpg"
+    },
+    {
+      "id": "a47d4c6cd54238562e38dd60",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+      "summary": "Forested Development. I left last week's Ocarina of Time feature feeling like I might have been a little too negative about the whole thing. Three weeks into my playthrough, and I had just poo-pooed back-to-back puzzle…",
+      "publishedAt": "2026-10-09T17:00:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://images.nintendolife.com/ac8bdb260287c/large.jpg"
+    },
+    {
+      "id": "97ac153f2a80079903e1db6c",
+      "sourceId": "zelda",
+      "sourceName": "The Legend of Zelda",
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #4 - Still An All-Timer",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-4-still-an-all-timer",
+      "summary": "Forested Development. I left last week's Ocarina of Time feature feeling like I might have been a little too negative about the whole thing. Three weeks into my playthrough, and I had just poo-pooed back-to-back puzzle…",
+      "publishedAt": "2026-10-09T17:00:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://images.nintendolife.com/ac8bdb260287c/large.jpg"
+    },
+    {
+      "id": "e7845bb0b9087a3632735a9b",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Demonstrates Next-Generation Heat Shield Technologies",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/",
+      "summary": "NASA is testing heat shields that can keep astronauts safe as they return from missions to the Moon and Mars in an unusual way: by taking out the trash. When Northrop Grumman 24th cargo resupply mission for NASA…",
+      "publishedAt": "2026-10-09T16:59:24Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0185943.jpg?w=2048"
+    },
+    {
+      "id": "2cc2fb6dc4cc7fe44b7b3846",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "Official PlayStation Podcast Episode 550: Now This is Podcasting",
+      "url": "https://blog.playstation.com/2026/10/09/official-playstation-podcast-episode-550-now-this-is-podcasting/",
+      "summary": "Email us at PSPodcast@sony.com! Subscribe via Apple Podcasts, Spotify, or download here Hey, y’all! O’Dell and Kristen are back this week to talk about games we recently wrapped up, our newest adventures, and check in…",
+      "publishedAt": "2026-10-09T16:32:01Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://blog.playstation.com/tachyon/2026/10/c3ea2b40621ccdf0a2b37c7819f0d9b0912c35f6.jpeg"
+    },
+    {
+      "id": "5cc460c3c68092e993583cdf",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Nintendo Of America's President Comments On The Possibility Of GTA 6 On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/nintendo-of-americas-president-comments-on-the-possibility-of-gta-6-on-switch-2",
+      "summary": "Don't get your hopes up... yet. November is going to be one of the most significant periods in gaming history with the launch of Grand Theft Auto VI. It's projected to be one of, if not the biggest entertainment…",
+      "publishedAt": "2026-10-09T16:15:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://images.nintendolife.com/3e0f97b86ff43/large.jpg"
+    },
+    {
+      "id": "90596ab97a37a87760992da8",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "Share of the Week: Marvel’s Wolverine – Allies & Villains",
+      "url": "https://blog.playstation.com/2026/10/09/share-of-the-week-marvels-wolverine-allies-villains/",
+      "summary": "Last week, we asked you to share moments with allies and villains across Marvel’s Wolverine using #PSshare #PSBlog for a chance to be featured. Here are this week’s highlights: call_me_xavii shares Wolverine facing off…",
+      "publishedAt": "2026-10-09T15:59:32Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://live.staticflickr.com/65535/55576561926_95e33418de_k.jpg"
+    },
+    {
+      "id": "ccf824bc142480b080490e58",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "'It Takes Two' Hops Onto Switch 2 Next Week, Marrying Visual Upgrades & Cross-Play",
+      "url": "https://www.nintendolife.com/news/2026/10/it-takes-two-hops-onto-switch-2-next-week-marrying-visual-upgrades-and-cross-play",
+      "summary": "Cross-platform counselling. After being rumoured earlier this year, Hazelight has announced that its award-winning co-op adventure, It Takes Two, will be getting a full Switch 2 upgrade next week. The new version…",
+      "publishedAt": "2026-10-09T15:30:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://images.nintendolife.com/6b70d6a8fd237/large.jpg"
+    },
     {
       "id": "2ef74f995c9d60356fc7500b",
       "sourceId": "gutenberg",
@@ -611,6 +770,39 @@
       "publishedAt": "2026-10-09T14:01:46Z",
       "firstSeenAt": "2026-10-09T15:21:03Z",
       "imageUrl": "https://store-images.s-microsoft.com/image/apps.11784.13809283243847908.3c8af19e-d1c8-4a13-81ef-c0bb985132a2.dfa4deee-a71c-4482-bebc-e77000827c12?w=400&h=600"
+    },
+    {
+      "id": "44788a015690f67b4446e5af",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Cosmic House of Mirrors",
+      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
+      "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS…",
+      "publishedAt": "2026-10-09T13:57:24Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55558916046-731625cbe5-o.jpg?w=2048"
+    },
+    {
+      "id": "4d9665501764f1e92d45b8c8",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Stormlamp [£2.00] [Strategy] [Windows]",
+      "url": "https://bitwrightapp.itch.io/stormlamp",
+      "summary": "Keep the ships off the rocks through the storm, one sweep of the beam at a time.",
+      "publishedAt": "2026-10-09T13:41:32Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjkwNDEzLnBuZw==/315x250%23c/SuuKiN.png"
+    },
+    {
+      "id": "d6fe121b47f892d4b49d3d90",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Cozy Cat House [Free] [Simulation]",
+      "url": "https://mitsurukatsu.itch.io/cozy-cat-house",
+      "summary": "A tiny pixel home for cats. Feed, pet, play, decorate — and survive the belly trap.",
+      "publishedAt": "2026-10-09T12:34:19Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjg4NDU1LnBuZw==/315x250%23c/XjUw1T.png"
     },
     {
       "id": "9321d46282febb37a1e92dba",
@@ -679,6 +871,17 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/03/pokemon_animated_series_starring_liko_and_roy_official_poster.jpg"
     },
     {
+      "id": "02ed70ec7714100d2dfc3601",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Last Earth [Free] [Simulation]",
+      "url": "https://milicen.itch.io/last-on-earth",
+      "summary": "Can you restore the last bit of dry Earth to green again?",
+      "publishedAt": "2026-10-09T08:03:30Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjg0MTQ5LnBuZw==/315x250%23c/s16wa1.png"
+    },
+    {
       "id": "dc0576a903f7c1aaac4f5247",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
@@ -719,6 +922,28 @@
       "publishedAt": "2026-10-09T04:45:00Z",
       "firstSeenAt": "2026-10-09T06:17:05Z",
       "imageUrl": "https://images.nintendolife.com/d489ae99de819/large.jpg"
+    },
+    {
+      "id": "7d6f7a1b0187d09c33782ea2",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "APOD: 2026 October 9 – Stickney Crater",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+      "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph…",
+      "publishedAt": "2026-10-09T04:05:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/PSP_007769_9010_IRB_Stickney.jpg?w=1836&h=1362&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "e2cea21abf18be3af83d0ba6",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Floodwaters Overwhelm Thailand",
+      "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
+      "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
+      "publishedAt": "2026-10-09T04:01:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/floodwaters-overwhelm-thailand/thailandflooding_oli_20251007.jpg"
     },
     {
       "id": "5ba41302daedb1683e9a68c4",
@@ -830,6 +1055,50 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/pokemon_santa_cruz_skateboards_apparel.jpg"
     },
     {
+      "id": "bf8854f5d394617e870413dd",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+      "url": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission.…",
+      "publishedAt": "2026-10-08T20:22:12Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2023/04/mmx-mars-mission.jpg?w=985"
+    },
+    {
+      "id": "990cdb3c0f9ab92a87429978",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation…",
+      "publishedAt": "2026-10-08T19:40:00Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=2048"
+    },
+    {
+      "id": "fae9ee35e33b6ab2d2d93452",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft…",
+      "publishedAt": "2026-10-08T18:56:25Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/otter-2.png?w=2000"
+    },
+    {
+      "id": "9daa4d0e9c7dd4cf0d0cd584",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "Crew-12 Returns to Earth",
+      "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
+      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA…",
+      "publishedAt": "2026-10-08T18:52:27Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/55577377940-a59482db3e-o.jpg?w=2048"
+    },
+    {
       "id": "1dda1115dcaf5e69bd1a718e",
       "sourceId": "pokemon-go",
       "sourceName": "Pokémon GO",
@@ -839,6 +1108,17 @@
       "publishedAt": "2026-10-08T18:50:02Z",
       "firstSeenAt": "2026-10-08T21:22:43Z",
       "imageUrl": "https://lh3.googleusercontent.com/YTWdPxzC8pivOHHqNqkA5VYuXBhfFinH38ENvIZ7f9LfkMDoyXrXRnh5kd-ibfKJHequDEp7sbd6Ahwnvh2ct8REj7kjdvJQkCkIXabrFikr=s0-e365"
+    },
+    {
+      "id": "0819c72ae63fe9c208a25b48",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
+      "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
+      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and…",
+      "publishedAt": "2026-10-08T18:22:48Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-brown-dwarf-grid-16x9-1.jpg?w=2048"
     },
     {
       "id": "35414e4c460463fdbe31e417",
@@ -855,7 +1135,7 @@
       "id": "f617ec2473d7ce45bd6c83fd",
       "sourceId": "playstation",
       "sourceName": "PlayStation Blog",
-      "title": "Critical Role joins Rockbeasts, launching January 2027.",
+      "title": "Critical Role joins Rockbeasts, launching January 2027",
       "url": "https://blog.playstation.com/2026/10/08/critical-role-joins-rockbeasts-launching-january-2027/",
       "summary": "Since the very beginning, we knew Rockbeasts was something special. To us, at least. Not because it’s the biggest game, or the safest bet. Quite the opposite. It’s not built around a genre you can neatly file it under.…",
       "publishedAt": "2026-10-08T17:00:00Z",
@@ -1093,6 +1373,17 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNjU0MTAwLmdpZg==/original/fwIKpW.gif"
     },
     {
+      "id": "ca77b882d03876b36b2f968a",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Kubernites [Free] [Strategy] [Windows] [macOS] [Linux]",
+      "url": "https://waxb.itch.io/kubernites",
+      "summary": "A cozy medieval town-builder that is secretly a Kubernetes cluster",
+      "publishedAt": "2026-10-08T09:10:04Z",
+      "firstSeenAt": "2026-10-09T20:58:32Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwNjUyNjY5LnBuZw==/315x250%23c/4z22o1.png"
+    },
+    {
       "id": "e7fd03acf2f56546cb72c416",
       "sourceId": "esa-space",
       "sourceName": "ESA Space Science",
@@ -1140,7 +1431,7 @@
       "id": "dfb196c382f4eec78a1f66d8",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "Mary Had a Little Lamb by Thomas A. Edison",
+      "title": "Recording of Thomas Edison by Thomas A. Edison",
       "url": "https://www.gutenberg.org/ebooks/10137",
       "summary": "Language: English",
       "publishedAt": null,
@@ -4077,57 +4368,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNDgwODAxLnBuZw==/315x250%23c/sTHpAW.png"
     },
     {
-      "id": "ff4da236de83540a843f22b4",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The slang brander by Ray Humphreys",
-      "url": "https://www.gutenberg.org/ebooks/79702",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-02T20:47:52Z"
-    },
-    {
-      "id": "f7a1eb90bb57a16168573ad1",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "What made the pinto jump by Ray Humphreys",
-      "url": "https://www.gutenberg.org/ebooks/79703",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-02T20:47:52Z"
-    },
-    {
-      "id": "741b1b5322a882f0055cdf57",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The Antichrist by Friedrich Wilhelm Nietzsche",
-      "url": "https://www.gutenberg.org/ebooks/19322",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-02T20:47:52Z"
-    },
-    {
-      "id": "01524827364b1f201993ce23",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The mountain man by Robert J. Horton",
-      "url": "https://www.gutenberg.org/ebooks/79704",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-02T20:47:52Z"
-    },
-    {
-      "id": "f971dd8894df1c5ddfb7ccb7",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "AI Race Tycoon [Free] [Simulation]",
-      "url": "https://timothystudios.itch.io/ai-race-tycoon",
-      "summary": "From a garage to changing the history of humanity. Probably the funniest game ever.",
-      "publishedAt": "2026-10-02T20:25:39Z",
-      "firstSeenAt": "2026-10-03T05:24:33Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNDc4MTE1LnBuZw==/315x250%23c/6tvARz.png"
-    },
-    {
       "id": "fa975f1831aa0094b39fdbec",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -4247,17 +4487,6 @@
       "publishedAt": "2026-10-02T15:49:26Z",
       "firstSeenAt": "2026-10-02T20:47:52Z",
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/flight-directors.jpg?w=2048"
-    },
-    {
-      "id": "ffbd728fb08ceb10b6cbdaab",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Buckle Up, Memory Shortages Are Reportedly Set To Get Worse In 2027",
-      "url": "https://www.nintendolife.com/news/2026/10/buckle-up-memory-shortages-are-reportedly-set-to-get-worse-in-2027",
-      "summary": "\"the supply-demand environment is only getting tighter\". If you were perhaps hoping that the ongoing memory crisis would abate in the coming months, we have some unfortunate news for you. As reported by The Register…",
-      "publishedAt": "2026-10-02T15:30:00Z",
-      "firstSeenAt": "2026-10-02T20:47:52Z",
-      "imageUrl": "https://images.nintendolife.com/3182a0ac54d88/large.jpg"
     },
     {
       "id": "469f149fbb6cd56dd9d5a419",
@@ -4710,61 +4939,6 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_pocket_deluxe_pack_mega.jpg"
     },
     {
-      "id": "62497ee09f771f58468e4c97",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Help Overlap Zoo Reveal Cosmic Dust",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/",
-      "summary": "Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of…",
-      "publishedAt": "2026-09-30T21:19:33Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2026/STScI-01GE08RNPH8RBMMGMC52JD3R93-Trevor_Butrum.jpg?w=1858&h=1836&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "b9cc47875d4347a426996a0e",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Adds New Science Investigations for Moon Base",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "summary": "Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload. NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and…",
-      "publishedAt": "2026-09-30T21:11:23Z",
-      "firstSeenAt": "2026-10-01T06:04:58Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/stmd-exteriorlunarbase-hdlandscapeversion-2026-0521-1.png?w=2048"
-    },
-    {
-      "id": "8b84c375c1f64dbe6dd4d7f4",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Awards Contract to Develop 5G Communications for Moon",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
-      "summary": "NASA has awarded Modulate Space Corporation a contract to develop key elements of a 5G communications system for use on the lunar surface with built-in Wi-Fi 6, for NASA’s Glenn Research Center in Cleveland. This…",
-      "publishedAt": "2026-09-30T20:41:26Z",
-      "firstSeenAt": "2026-09-30T20:50:51Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/cropped-nasa-meatball-1.jpg?w=1080"
-    },
-    {
-      "id": "48f8f5fa9961c9f7782ed2a6",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA, International Partners Advance Work on Space Crops",
-      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasa-international-partners-advance-work-on-space-crops/",
-      "summary": "NASA, CSA (Canadian Space Agency), and the German Aerospace Center signed a joint statement of intent to begin coordinated, preparatory work toward an Earth-based demonstrator to learn how to grow crops on the Moon.",
-      "publishedAt": "2026-09-30T18:38:20Z",
-      "firstSeenAt": "2026-09-30T20:50:51Z",
-      "imageUrl": "https://images-assets.nasa.gov/image/KSC-20230417-PH-ILW01_0128/KSC-20230417-PH-ILW01_0128~large.jpg?w=1322&h=1920&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "f6934efede43242207898c3b",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Star Trails",
-      "url": "https://www.nasa.gov/image-article/star-trails/",
-      "summary": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the…",
-      "publishedAt": "2026-09-30T17:50:50Z",
-      "firstSeenAt": "2026-09-30T20:50:51Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iss075e0144232orig.jpg?w=1365"
-    },
-    {
       "id": "f68b9376f7f3028f64772583",
       "sourceId": "xbox",
       "sourceName": "Xbox Wire",
@@ -4863,28 +5037,6 @@
       "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/05/global_mars_in_colour/24894462-7-eng-GB/Global_Mars_in_colour_card_full.jpg"
     },
     {
-      "id": "49d40c506497a671912e0ff4",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "APOD: 2026 September 30 – Arp 78: Peculiar Galaxy in Aries",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
-      "summary": "APOD Science APOD APOD: 2026 September 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-      "publishedAt": "2026-09-30T04:05:00Z",
-      "firstSeenAt": "2026-09-30T05:39:55Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/NGC772_Robert_Eder.jpg?w=1772&h=1182&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
-      "id": "11d8305d81daec827f682443",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "Powerful Storms Continue to Prowl the Pacific",
-      "url": "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-      "summary": "Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.",
-      "publishedAt": "2026-09-30T04:01:00Z",
-      "firstSeenAt": "2026-09-30T05:39:55Z",
-      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/powerful-storms-continue-to-prowl-the-pacific/polonolo_epic_20260927.jpg?w=1440&h=1440&fit=clip&crop=faces%2Cfocalpoint"
-    },
-    {
       "id": "555b25722b6c7a9e123b2a25",
       "sourceId": "pokemon-cards",
       "sourceName": "Pokémon cards",
@@ -4938,38 +5090,6 @@
       "publishedAt": "2026-09-29T22:58:22Z",
       "firstSeenAt": "2026-09-29T23:45:55Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2020/09/play_pokemon_logo_with_geometric_poke_ball_shapes_background.jpg"
-    },
-    {
-      "id": "8d70b3bd54ac745d63a363fb",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Opens 2027 Human Lander Challenge for Lunar Communications",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-opens-2027-human-lander-challenge-for-lunar-communications/",
-      "summary": "NASA’s 2027 Human Lander Challenge is seeking ideas from college and university students to help address one of the most critical needs for sustained lunar exploration: reliable communications. As NASA prepares for…",
-      "publishedAt": "2026-09-29T21:27:56Z",
-      "firstSeenAt": "2026-09-29T23:45:55Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/2027-hulc-graphic-header-conceptual-lunar-communications-and-navigation-orbiter.png?w=1800"
-    },
-    {
-      "id": "b6a1af4ee402544bd6fc5071",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Awards Orbital Safety Analysis Support Services Contract",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-orbital-safety-analysis-support-services-contract/",
-      "summary": "NASA has awarded a contract to Omitron Inc. for the acquisition of orbital safety analysis services, which provide for critical protection of NASA spaceflight assets and astronaut lives. This indefinite-delivery…",
-      "publishedAt": "2026-09-29T21:00:00Z",
-      "firstSeenAt": "2026-09-29T23:45:55Z"
-    },
-    {
-      "id": "cc1e10deb0d715c10aa6381b",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Features Exploration, Science at International Space Conference",
-      "url": "https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/",
-      "summary": "NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars…",
-      "publishedAt": "2026-09-29T20:55:24Z",
-      "firstSeenAt": "2026-09-29T23:45:55Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/09/iac.jpg?w=1920"
     },
     {
       "id": "9370db522e7507f04c24586e",
@@ -5462,17 +5582,6 @@
       "publishedAt": "2026-09-25T15:00:00Z",
       "firstSeenAt": "2026-09-25T20:03:00Z",
       "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/09/Layali-Grove-2.0-Fishing-df120190075829bc04e0-1024x576.jpg"
-    },
-    {
-      "id": "eb0463117258a04d369aa801",
-      "sourceId": "xbox",
-      "sourceName": "Xbox Wire",
-      "title": "How Ace Combat 8: Wings of Theve Brings High Flying Drama to XBOX Series X|S",
-      "url": "https://news.xbox.com/en-us/2026/09/25/ace-combat-8-wings-of-theve-high-flying-drama-xbox/",
-      "summary": "Few game franchises capture the fantasy of becoming an ace pilot quite like Ace Combat – with accessible arcade-like controls, beautiful looking fighter jets, and cinematic storytelling, it has long been a recipe for a…",
-      "publishedAt": "2026-09-25T14:30:00Z",
-      "firstSeenAt": "2026-09-25T20:03:00Z",
-      "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/03-8a48b1e2f85ab83d2cbb-1024x576.jpg"
     },
     {
       "id": "3f2dc2b02b675d4a437e5f0d",
