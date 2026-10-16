@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-16T19:34:46Z",
+  "generatedAt": "2026-10-16T22:52:55Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 28
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 22
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 36
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 17
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 18
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 25
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 20
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 12
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 26
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 27
     },
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 61
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,8 +478,8 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 110
     },
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 25
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
       "itemCount": 22
     },
@@ -562,13 +562,64 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-16T19:34:46Z",
-      "lastSuccessAt": "2026-10-16T19:34:46Z",
+      "checkedAt": "2026-10-16T22:52:55Z",
+      "lastSuccessAt": "2026-10-16T22:52:55Z",
       "error": null,
-      "itemCount": 84
+      "itemCount": 82
     }
   ],
   "items": [
+    {
+      "id": "3d3ff3d2d61d100f23a1bf7c",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Fifteen Thousand Useful Phrases by Grenville Kleiser",
+      "url": "https://www.gutenberg.org/ebooks/18362",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-16T22:52:55Z"
+    },
+    {
+      "id": "223c65871b97160e1c1b388f",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Climate, considered especially in relation to man by Robert DeCourcy Ward",
+      "url": "https://www.gutenberg.org/ebooks/79803",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-16T22:52:55Z"
+    },
+    {
+      "id": "21cd54b8ab46e2e916a998bd",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Porträts der Königin Nofret-ete aus den Grabungen 1912/13 in Tell el-Amarna by Ludwig Borchardt",
+      "url": "https://www.gutenberg.org/ebooks/79802",
+      "summary": "Language: German",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-16T22:52:55Z"
+    },
+    {
+      "id": "0d7027a7abe85af53b77433f",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Voyages de Monsieur le chevalier Chardin en Perse et autres lieux de l'Orient. by Sir John Chardin",
+      "url": "https://www.gutenberg.org/ebooks/79711",
+      "summary": "Language: French",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-16T22:52:55Z"
+    },
+    {
+      "id": "d496adee15472432944447f5",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director",
+      "url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "summary": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive…",
+      "publishedAt": "2026-10-16T20:14:39Z",
+      "firstSeenAt": "2026-10-16T22:52:55Z",
+      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg?w=1638"
+    },
     {
       "id": "d63b808516118091704ba200",
       "sourceId": "gutenberg",
@@ -639,6 +690,28 @@
       "summary": "The post DMZ Early Access Starts October 20 appeared first on XBOX Wire.",
       "publishedAt": "2026-10-16T17:00:00Z",
       "firstSeenAt": "2026-10-16T19:34:46Z"
+    },
+    {
+      "id": "1ed5d3935427904b3c6a044e",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Typing Quest [Free] [Educational]",
+      "url": "https://typingquest.itch.io/typing-quest",
+      "summary": "Type fast, earn coins and collect 1,200 cards in a cosy keyboard world",
+      "publishedAt": "2026-10-16T16:48:11Z",
+      "firstSeenAt": "2026-10-16T22:52:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTU1NjkzLnBuZw==/315x250%23c/86b8xa.png"
+    },
+    {
+      "id": "60dc1e542d0a8f4e2b942892",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Carpet Cleaner カーペット洗浄師 [Free] [Simulation]",
+      "url": "https://endeavor0007.itch.io/carpet-cleaner",
+      "summary": "Clean dirty rugs by tracing with your finger. Inspect, wash, dry and collect 46 rugs.",
+      "publishedAt": "2026-10-16T16:46:39Z",
+      "firstSeenAt": "2026-10-16T22:52:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTU1ODk0LmpwZw==/315x250%23c/162a8j.jpg"
     },
     {
       "id": "ee9f647cba3c2a599cd5f9e6",
@@ -894,7 +967,7 @@
       "id": "627d718c47aee3193b64da22",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "The singular occurence at Styles by Alan Henry",
+      "title": "The singular occurence at Styles by John Jakes",
       "url": "https://www.gutenberg.org/ebooks/79797",
       "summary": "Language: English",
       "publishedAt": null,
@@ -904,7 +977,7 @@
       "id": "2939dce698740555251d8d15",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
-      "title": "Oeuvres de Froissart: Chroniques 1386-1389, Tome 12 : by Jean Froissart",
+      "title": "Œuvres de Froissart: Chroniques, Tome 12, 1386-1389 : by Jean Froissart",
       "url": "https://www.gutenberg.org/ebooks/79796",
       "summary": "Language: French",
       "publishedAt": null,
@@ -1681,6 +1754,17 @@
       "publishedAt": "2026-10-14T23:29:53Z",
       "firstSeenAt": "2026-10-15T04:49:03Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/pokemon_santa_cruz_skateboards_apparel.jpg"
+    },
+    {
+      "id": "d911d551abed6fc5325916b8",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Flaggervalp [Free] [Platformer]",
+      "url": "https://ndipdi.itch.io/flaggervalp",
+      "summary": "Features barks by Emlise!",
+      "publishedAt": "2026-10-14T23:29:02Z",
+      "firstSeenAt": "2026-10-16T22:52:55Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTYwOTA5LmdpZg==/original/iCtFui.gif"
     },
     {
       "id": "7eeaaa91ba5c677c0e33b15f",
@@ -4516,17 +4600,6 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/02/pokemon_center_pokemon_red_and_blue_game_music_collection_game_boy_jukebox.jpg"
     },
     {
-      "id": "e10c0b716481f2ff0dcec294",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Chop Chop Idle [Free] [Simulation] [Windows]",
-      "url": "https://wickerbytegames.itch.io/chop-chop-idle",
-      "summary": "A cozy pixel-art idle game that lives in the corner of your desktop.",
-      "publishedAt": "2026-10-09T21:57:26Z",
-      "firstSeenAt": "2026-10-10T06:00:04Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzA1MTY3LnBuZw==/315x250%23c/8mXX8X.png"
-    },
-    {
       "id": "a36ce465aba1a348b6adac3f",
       "sourceId": "pokemon-masters",
       "sourceName": "Pokémon Masters EX",
@@ -4536,88 +4609,6 @@
       "publishedAt": "2026-10-09T21:56:47Z",
       "firstSeenAt": "2026-10-10T06:00:04Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/06/pokemon_masters_ex_larry_and_dudunsparce.jpg"
-    },
-    {
-      "id": "f708f240c4e25ae825246391",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Les liens invisibles by Selma Lagerlöf",
-      "url": "https://www.gutenberg.org/ebooks/79746",
-      "summary": "Language: French",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-09T20:58:32Z"
-    },
-    {
-      "id": "b254ee79dcb641bf56f985ec",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Moby Dick; Or, The Whale by Herman Melville",
-      "url": "https://www.gutenberg.org/ebooks/2701",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-09T20:58:32Z"
-    },
-    {
-      "id": "99b141f7cb2671191b9bba79",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "L'histoire de Guillaume le Maréchal, T. 1 :",
-      "url": "https://www.gutenberg.org/ebooks/79747",
-      "summary": "Language: French",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-09T20:58:32Z"
-    },
-    {
-      "id": "96a4931853e3a0e0a0f4d3fa",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "L'histoire de Guillaume le Maréchal, T. 2 :",
-      "url": "https://www.gutenberg.org/ebooks/79748",
-      "summary": "Language: French",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-09T20:58:32Z"
-    },
-    {
-      "id": "7974c96587b3d81960deb4a4",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "New discoveries in science by Hereward Carrington",
-      "url": "https://www.gutenberg.org/ebooks/79745",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-09T20:58:32Z"
-    },
-    {
-      "id": "56482a34f5e3027be71e3ed6",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Gesammelte Schriften von Marie von Ebner-Eschenbach (2/10) : by Marie von Ebner-Eschenbach",
-      "url": "https://www.gutenberg.org/ebooks/79749",
-      "summary": "Language: German",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-09T20:58:32Z"
-    },
-    {
-      "id": "2691ba0e9bb9bcb62dc9fd16",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Raking It In [Free] [Simulation]",
-      "url": "https://blu-light.itch.io/raking-it-in",
-      "summary": "Cozy leaf cleanup job sim",
-      "publishedAt": "2026-10-09T20:25:34Z",
-      "firstSeenAt": "2026-10-10T06:00:04Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzAxODAxLnBuZw==/315x250%23c/8lm7Oa.png"
-    },
-    {
-      "id": "31226617384d3d7e8551ea19",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Grandpa's Backyard [Free] [Simulation] [Windows] [macOS]",
-      "url": "https://shibadoge.itch.io/grandpas-backyard",
-      "summary": "Grandpa keeps dumping junk in his backyard. Turn it into a factory empire.",
-      "publishedAt": "2026-10-09T19:44:27Z",
-      "firstSeenAt": "2026-10-10T06:00:04Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzA5Mzc4LnBuZw==/315x250%23c/YOLOrs.png"
     },
     {
       "id": "ee05bca4dddf88c2b295ab75",
