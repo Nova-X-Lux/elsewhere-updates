@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T04:36:49Z",
+  "generatedAt": "2026-10-17T12:14:33Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 28
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 22
     },
@@ -83,10 +83,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
-      "itemCount": 38
+      "itemCount": 39
     },
     {
       "id": "pokemon-pocket",
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 18
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 18
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 27
     },
@@ -230,10 +230,10 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
-      "itemCount": 20
+      "itemCount": 21
     },
     {
       "id": "pokemon-unite",
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 12
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 26
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 28
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
-      "itemCount": 59
+      "itemCount": 63
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 40
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 40
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
-      "itemCount": 111
+      "itemCount": 112
     },
     {
       "id": "nasa",
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
-      "itemCount": 41
+      "itemCount": 42
     },
     {
       "id": "esa-space",
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 25
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
       "itemCount": 22
     },
@@ -562,13 +562,99 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-17T04:36:49Z",
-      "lastSuccessAt": "2026-10-17T04:36:49Z",
+      "checkedAt": "2026-10-17T12:14:33Z",
+      "lastSuccessAt": "2026-10-17T12:14:33Z",
       "error": null,
-      "itemCount": 91
+      "itemCount": 85
     }
   ],
   "items": [
+    {
+      "id": "a66e91b40148df29548aa713",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The marriage verdict : by Frank H. Spearman",
+      "url": "https://www.gutenberg.org/ebooks/79812",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-17T12:14:33Z"
+    },
+    {
+      "id": "71c4ca2c5ea7c1c81441c547",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The adventures of Dumpy Dimple and his dog! by May Byron",
+      "url": "https://www.gutenberg.org/ebooks/79813",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-17T12:14:33Z"
+    },
+    {
+      "id": "55dcc36aa007cfeb3c2ac5f4",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Call Of Duty On Switch 2 Has Two Different Upscaling Options",
+      "url": "https://www.nintendolife.com/news/2026/10/call-of-duty-on-switch-2-has-two-different-upscaling-options",
+      "summary": "Here's an early explainer on the difference. Our impressions of Call of Duty: Modern Warfare 4's campaign went live yesterday alongside early access for anyone who pre-ordered the game. The full launch comes on Friday…",
+      "publishedAt": "2026-10-17T12:00:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://images.nintendolife.com/baa08b9ef12ee/large.jpg"
+    },
+    {
+      "id": "d68662b08c6105fbbab84e43",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Talking Point: What Are You Playing This Weekend? (17th October)",
+      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-17th-october",
+      "summary": "Leon's Roar. We finally made it to the weekend — well done, everyone! After the silence of last week, things started to pick up in Nintendo news this week. The big hitter was previews going live for Ocarina of Time on…",
+      "publishedAt": "2026-10-17T09:00:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://images.nintendolife.com/2e615bdd68a7d/large.jpg"
+    },
+    {
+      "id": "0c65f0f0867b4b818a55066d",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+      "summary": "Join the cult next week. Cult of the Lamb has continued to receive all sorts of updates since it launched on the Switch, and now developer Massive Monster has shared some massive news. Read the full article on…",
+      "publishedAt": "2026-10-17T08:00:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://images.nintendolife.com/105fa42933e8e/large.jpg"
+    },
+    {
+      "id": "d7c128f826d6955868e26a59",
+      "sourceId": "pokemon-cards",
+      "sourceName": "Pokémon cards",
+      "title": "2027 Pokémon Nice Regional Championships now underway featuring Pokémon VGC, Pokémon TCG and Pokémon GO events, tune in to the official livestream feeds here",
+      "url": "https://pokemonblog.com/2026/10/17/2027-pokemon-nice-regional-championships-now-underway-featuring-pokemon-vgc-pokemon-tcg-and-pokemon-go-events-tune-in-to-the-official-livestream-feeds-here/",
+      "summary": "The Pokémon Company is continuing to host official Play! Pokémon competitive events to not only foster a vibrant community around the Pokémon games and TCG but also promote friendly competition and sportsmanship…",
+      "publishedAt": "2026-10-17T06:40:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2020/01/pokemon_regional_championships_pikachu.jpg"
+    },
+    {
+      "id": "6fad8f96d3842210a2522d40",
+      "sourceId": "pokemon-events",
+      "sourceName": "Play! Pokémon events",
+      "title": "2027 Pokémon Nice Regional Championships now underway featuring Pokémon VGC, Pokémon TCG and Pokémon GO events, tune in to the official livestream feeds here",
+      "url": "https://pokemonblog.com/2026/10/17/2027-pokemon-nice-regional-championships-now-underway-featuring-pokemon-vgc-pokemon-tcg-and-pokemon-go-events-tune-in-to-the-official-livestream-feeds-here/",
+      "summary": "The Pokémon Company is continuing to host official Play! Pokémon competitive events to not only foster a vibrant community around the Pokémon games and TCG but also promote friendly competition and sportsmanship…",
+      "publishedAt": "2026-10-17T06:40:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2020/01/pokemon_regional_championships_pikachu.jpg"
+    },
+    {
+      "id": "ae5136dc015d40c0ba9f2380",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+      "summary": "[Insert funny Shrek joke here]. Aspyr Media, the team behind the recent Lord of the Rings and Middle-earth ports for Nintendo platforms, has apparently got a remaster of Shrek 2 in the pipeline. This announcement has…",
+      "publishedAt": "2026-10-17T06:00:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://images.nintendolife.com/2d6833e57c2e3/large.jpg"
+    },
     {
       "id": "f8e2b982ac348a7e6341e528",
       "sourceId": "gutenberg",
@@ -660,6 +746,39 @@
       "firstSeenAt": "2026-10-17T04:36:49Z"
     },
     {
+      "id": "b40a8441df645c47ee813501",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "WitchQuest [Free] [Role Playing] [Windows] [Linux]",
+      "url": "https://flemming1k.itch.io/witchquest",
+      "summary": "bewitching alchemy experience",
+      "publishedAt": "2026-10-17T04:20:51Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTc1NTY0LnBuZw==/315x250%23c/S%2BSK9N.png"
+    },
+    {
+      "id": "9f87882e193abe174ce23eff",
+      "sourceId": "nasa",
+      "sourceName": "NASA",
+      "title": "APOD: 2026 October 17 – 3D 67P",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "summary": "APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+      "publishedAt": "2026-10-17T04:05:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=2048&h=1884&fit=clip&crop=faces%2Cfocalpoint"
+    },
+    {
+      "id": "03dad6ce0d2b607367eac3d9",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+      "summary": "Releasing alongside a major update. Here on Nintendo Life, we first heard about the laid-back co-op farming sim Coral Island back in 2021, when it successfully hit its Kickstarter goal. Now, after overcoming some…",
+      "publishedAt": "2026-10-17T04:05:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://images.nintendolife.com/416335a352022/large.jpg"
+    },
+    {
       "id": "ffdb9a5a97150ece1f579b13",
       "sourceId": "pokemon-cards",
       "sourceName": "Pokémon cards",
@@ -726,6 +845,17 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_tcg_mega_evolution_delta_reign_mega_rayquaza_ex.jpg"
     },
     {
+      "id": "44b3dc0648e383db093464a2",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "TINY TOWN GROWS 小鎮慢慢長 [Free] [Simulation]",
+      "url": "https://seaertw.itch.io/tiny-town-grows",
+      "summary": "一款療癒系 3D 微縮城市建造沙盒遊戲。 A cozy 3D isometric city-builder",
+      "publishedAt": "2026-10-17T02:27:04Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTcyMDA0LmpwZw==/315x250%23c/Noudo2.jpg"
+    },
+    {
       "id": "0b4a82c2d502597cfa5df77b",
       "sourceId": "nintendo",
       "sourceName": "Nintendo",
@@ -735,6 +865,17 @@
       "publishedAt": "2026-10-17T01:55:00Z",
       "firstSeenAt": "2026-10-17T04:36:49Z",
       "imageUrl": "https://images.nintendolife.com/3768f6736f5ca/large.jpg"
+    },
+    {
+      "id": "bd836a46423fcb1ba3a25a2e",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Reminder: Sonic Racing: CrossWorlds \"Final Content Drop Of Year One\" Is Now Available",
+      "url": "https://www.nintendolife.com/news/2026/10/reminder-sonic-racing-crossworlds-final-content-drop-of-year-one-is-now-available",
+      "summary": "But the race isn't over yet... : Sega has announced the \"final content drop\" for Year One of Sonic Racing: CrossWorlds will be arriving later this month on 13th October 2026. Read the full article on nintendolife.com",
+      "publishedAt": "2026-10-17T00:30:00Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://images.nintendolife.com/cc53314210756/large.jpg"
     },
     {
       "id": "3d3ff3d2d61d100f23a1bf7c",
@@ -1022,6 +1163,17 @@
       "firstSeenAt": "2026-10-16T13:18:38Z"
     },
     {
+      "id": "c819142dc084053b7ede4886",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Little Wat [Free] [Simulation] [Windows]",
+      "url": "https://hellodatgame.itch.io/little-wat",
+      "summary": "A cozy Thai temple builder. Grow a small riverside temple into the heart of its village. Free Era 1 demo.",
+      "publishedAt": "2026-10-16T13:12:25Z",
+      "firstSeenAt": "2026-10-17T12:14:33Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTQ4NDk4LnBuZw==/315x250%23c/gPfYGt.png"
+    },
+    {
       "id": "c963fbc2b39f463d2be605fc",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -1096,7 +1248,7 @@
       "summary": "Run a cozy little cinema — sell tickets, pop the popcorn, meet the neighbours and grow it into a busy multiplex.",
       "publishedAt": "2026-10-16T08:44:21Z",
       "firstSeenAt": "2026-10-16T19:34:46Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTQxNzU0LnBuZw==/315x250%23c/sCmTxj.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMwOTgwMTM2LnBuZw==/315x250%23c/RP5eck.png"
     },
     {
       "id": "a5176978a6f5bfec90ad9037",
@@ -1948,7 +2100,7 @@
       "id": "d911d551abed6fc5325916b8",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
-      "title": "Flaggervalp [Free] [Platformer]",
+      "title": "Flaggervalp [Free] [Platformer] [Windows]",
       "url": "https://ndipdi.itch.io/flaggervalp",
       "summary": "Features barks by Emlise!",
       "publishedAt": "2026-10-14T23:29:02Z",
@@ -4566,28 +4718,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMwNzIxNDAxLnBuZw==/315x250%23c/bmnpZf.png"
     },
     {
-      "id": "51f003b6c5a7079bc7b492c6",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Frogtory [40% Off] [$3.00] [Simulation] [Windows]",
-      "url": "https://pologi.itch.io/frogtory",
-      "summary": "",
-      "publishedAt": "2026-10-10T11:14:39Z",
-      "firstSeenAt": "2026-10-10T20:07:58Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzc1MjA4LmdpZg==/original/L3cMdS.gif"
-    },
-    {
-      "id": "fcc25b742038ad6312ccc48e",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Mistlight — A Quiet Puzzle at Sea [Free] [Puzzle]",
-      "url": "https://vincentchanxx.itch.io/mistlight",
-      "summary": "Rotate the lightways, wake the lanterns. 18 quiet puzzles at sea. English / 中文.",
-      "publishedAt": "2026-10-10T09:40:21Z",
-      "firstSeenAt": "2026-10-10T14:30:30Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwNzE3Njg2LnBuZw==/315x250%23c/gN%2ByQm.png"
-    },
-    {
       "id": "f9ac5213a1a08fc73cd0609b",
       "sourceId": "pokemon-masters",
       "sourceName": "Pokémon Masters EX",
@@ -4597,108 +4727,6 @@
       "publishedAt": "2026-10-10T09:28:04Z",
       "firstSeenAt": "2026-10-10T14:30:30Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/legendary_arena_raikou_pokemon_masters_ex.jpg"
-    },
-    {
-      "id": "86a6761acb3a31d357b7af6b",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Talking Point: What Are You Playing This Weekend? (10th October)",
-      "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-10th-october",
-      "summary": "Gawrsh! Another week is over - thank goodness. It's been a bit of a quiet one again, despite the beginning of what will no doubt be one of the busiest release months in Nintendo's history. Rumours picked up once again…",
-      "publishedAt": "2026-10-10T09:00:00Z",
-      "firstSeenAt": "2026-10-10T14:30:30Z",
-      "imageUrl": "https://images.nintendolife.com/7f158591cb7d6/large.jpg"
-    },
-    {
-      "id": "1a9de9aa1ef31c0317c87c42",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Fortnite X Sonic Collab \"To Be Continued\"",
-      "url": "https://www.nintendolife.com/news/2026/10/fortnite-x-sonic-collab-to-be-continued",
-      "summary": "Is that...? Epic's free-to-play battle royale Fortnite appears to be expanding on its in-game collab with the Sonic the Hedgehog series. As part of the blue blur's ongoing 35th anniversary celebrations, Sega shared a…",
-      "publishedAt": "2026-10-10T07:00:00Z",
-      "firstSeenAt": "2026-10-10T14:30:30Z",
-      "imageUrl": "https://images.nintendolife.com/2f3b035eb2dd8/large.jpg"
-    },
-    {
-      "id": "fad31411dae383ed3ab5edfc",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Twilight : by Annette Lyster",
-      "url": "https://www.gutenberg.org/ebooks/79755",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "ef9cc6ff7f2d952aab41c1ae",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Viisas Mary by Joseph Crosby Lincoln and Väinö Nyman",
-      "url": "https://www.gutenberg.org/ebooks/79754",
-      "summary": "Language: Finnish",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "d4689d9dfdb38845115117a0",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The beginnings of the Egyptian question and the rise of Mehemet Ali : by Muḥammad Shafīq Ghurbāl",
-      "url": "https://www.gutenberg.org/ebooks/79750",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "acd59ea1a7307de1c4769df9",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Puhdasta jälkeä : by Väinö Kolkkala",
-      "url": "https://www.gutenberg.org/ebooks/79753",
-      "summary": "Language: Finnish",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "83f0125049239ba0fe66d1c2",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "L'histoire de Guillaume le Maréchal, T. 3 :",
-      "url": "https://www.gutenberg.org/ebooks/79756",
-      "summary": "Language: French",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "43f540a973207cbb9ccfcdab",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Kovan onnen mies : by Theodor Wehl",
-      "url": "https://www.gutenberg.org/ebooks/79752",
-      "summary": "Language: Finnish",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "294c4df009d6b7ab6646f909",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The moors and the fens, volume 3 (of 3) by Mrs. J. H. Riddell",
-      "url": "https://www.gutenberg.org/ebooks/79751",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
-    },
-    {
-      "id": "1a4899e1d4afa2851a8d2716",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Emmeline, the Orphan of the Castle by Charlotte Smith",
-      "url": "https://www.gutenberg.org/ebooks/41646",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-10T06:00:04Z"
     },
     {
       "id": "65f14b828329aa2a83e8a0f0",
