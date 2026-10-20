@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T04:58:39Z",
+  "generatedAt": "2026-10-20T13:37:25Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 28
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 22
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 40
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 18
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 19
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 30
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 22
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 12
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 27
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 30
     },
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 64
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 40
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 40
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,8 +478,8 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
       "itemCount": 119
     },
@@ -499,10 +499,10 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
-      "itemCount": 47
+      "itemCount": 45
     },
     {
       "id": "esa-space",
@@ -519,10 +519,10 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
-      "itemCount": 27
+      "itemCount": 29
     },
     {
       "id": "raspberry-pi",
@@ -540,10 +540,10 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
-      "itemCount": 23
+      "itemCount": 24
     },
     {
       "id": "gutenberg",
@@ -562,13 +562,78 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-20T04:58:39Z",
-      "lastSuccessAt": "2026-10-20T04:58:39Z",
+      "checkedAt": "2026-10-20T13:37:25Z",
+      "lastSuccessAt": "2026-10-20T13:37:25Z",
       "error": null,
-      "itemCount": 103
+      "itemCount": 99
     }
   ],
   "items": [
+    {
+      "id": "bf8dbb9cb3e38bc2212c78ee",
+      "sourceId": "playstation",
+      "sourceName": "PlayStation Blog",
+      "title": "How Final Fantasy Resonance uses Visions to change how we see the series",
+      "url": "https://blog.playstation.com/2026/10/20/how-final-fantasy-resonance-uses-visions-to-change-how-we-see-the-series/",
+      "summary": "With its cinematic HD-2D visuals and flashy combat, Final Fantasy Resonance was already piquing the interest of turn-based RPG fans, but its powerful and fun Visions mechanic has really captured the imagination. I went…",
+      "publishedAt": "2026-10-20T13:30:11Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z"
+    },
+    {
+      "id": "94017395b679f2b279476895",
+      "sourceId": "raspberry-pi",
+      "sourceName": "Raspberry Pi",
+      "title": "Introducing the Raspberry Pi Guide to Retro Gaming",
+      "url": "https://www.raspberrypi.com/news/introducing-the-raspberry-pi-guide-to-retro-gaming/",
+      "summary": "The definitive guide on how to play your favourite games of yesteryear on a Raspberry Pi. The post Introducing the Raspberry Pi Guide to Retro Gaming appeared first on Raspberry Pi.",
+      "publishedAt": "2026-10-20T12:42:11Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://www.raspberrypi.com/app/uploads/2026/10/Raspberry-Pi-Guide-to-Retro-Gaming-156x234-mock-lighter-1-1024x698.jpg"
+    },
+    {
+      "id": "c1b018d7190a1926ce516063",
+      "sourceId": "zelda",
+      "sourceName": "The Legend of Zelda",
+      "title": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads",
+      "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
+      "summary": "Art thou hyped? The Legend of Zelda: Ocarina of Time might not be Nintendo's next Switch 2 exclusive (don't worry Nintendo Switch Sports Resort, we haven't forgotten about you), but the looming 5th November release…",
+      "publishedAt": "2026-10-20T10:45:00Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://images.nintendolife.com/d4a237bca94ec/large.jpg"
+    },
+    {
+      "id": "b442de35ce00edcd24e6f796",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "New Zelda: Ocarina Of Time Trailer Is A Throwback To The '90s N64 Ads",
+      "url": "https://www.nintendolife.com/news/2026/10/new-zelda-ocarina-of-time-trailer-is-a-throwback-to-the-90s-n64-ads",
+      "summary": "Art thou hyped? The Legend of Zelda: Ocarina of Time might not be Nintendo's next Switch 2 exclusive (don't worry Nintendo Switch Sports Resort, we haven't forgotten about you), but the looming 5th November release…",
+      "publishedAt": "2026-10-20T10:45:00Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://images.nintendolife.com/d4a237bca94ec/large.jpg"
+    },
+    {
+      "id": "a4c57fd6ee6d8d852c3180f2",
+      "sourceId": "esa-space",
+      "sourceName": "ESA Space Science",
+      "title": "MMX lifts off to Mars’s moon Phobos",
+      "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+      "summary": "Image: MMX lifts off to Mars’s moon Phobos",
+      "publishedAt": "2026-10-20T07:00:00Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif"
+    },
+    {
+      "id": "87a62f3ed007a23894d82b51",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
+      "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
+      "summary": "\"Focus on what's important\". Stellar Blade will grace the Switch 2 next month, and ahead of the official launch, developer Shift Up has released a new trailer for this version, showcasing the game's Photo Mode. This…",
+      "publishedAt": "2026-10-20T05:55:00Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://images.nintendolife.com/b4779dd13d1ea/large.jpg"
+    },
     {
       "id": "ca234e70c29094c05e7459ad",
       "sourceId": "gutenberg",
@@ -795,6 +860,17 @@
       "publishedAt": "2026-10-19T18:22:47Z",
       "firstSeenAt": "2026-10-20T04:58:39Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMDkyMTQwLnBuZw==/315x250%23c/M6Exx0.png"
+    },
+    {
+      "id": "6149065df99bf8d681bba98f",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Crazy Froggers [Free] [Strategy]",
+      "url": "https://hnkxobka.itch.io/crazyfroggers",
+      "summary": "TD Frogs",
+      "publishedAt": "2026-10-19T18:15:38Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTE5MDY0LnBuZw==/315x250%23c/kk2gj2.png"
     },
     {
       "id": "e383c7d25f4953fc8dadc6aa",
@@ -1031,6 +1107,17 @@
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=1837"
     },
     {
+      "id": "19b60da356faf28f50d28816",
+      "sourceId": "esa-space",
+      "sourceName": "ESA Space Science",
+      "title": "Celebrating BepiColombo, three words at a time",
+      "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+      "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December…",
+      "publishedAt": "2026-10-19T15:00:00Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png"
+    },
+    {
       "id": "947e036a01ae00b41ee82073",
       "sourceId": "nintendo",
       "sourceName": "Nintendo",
@@ -1072,7 +1159,7 @@
       "summary": "Read the core",
       "publishedAt": "2026-10-19T12:27:50Z",
       "firstSeenAt": "2026-10-19T16:05:49Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMDc5NzA3LnBuZw==/315x250%23c/d3rTQt.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTIxOTUwLnBuZw==/315x250%23c/WxbrIv.png"
     },
     {
       "id": "e00214f8238fc40312c0c548",
@@ -1161,6 +1248,17 @@
       "publishedAt": "2026-10-19T10:00:00Z",
       "firstSeenAt": "2026-10-19T16:05:49Z",
       "imageUrl": "https://images.nintendolife.com/862c498927ae8/large.jpg"
+    },
+    {
+      "id": "c62bc698339287a897095d1d",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Meow Bomb! [Free] [Simulation] [Windows]",
+      "url": "https://qook1e.itch.io/meow-bomb",
+      "summary": "Make the Atom BOMB with your paws",
+      "publishedAt": "2026-10-19T09:51:36Z",
+      "firstSeenAt": "2026-10-20T13:37:25Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMDk2OTg2LnBuZw==/315x250%23c/5zWtOq.png"
     },
     {
       "id": "18a841b56f87dd615cfd266e",
@@ -1379,7 +1477,7 @@
       "summary": "",
       "publishedAt": "2026-10-18T21:29:34Z",
       "firstSeenAt": "2026-10-20T04:58:39Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMTA3NTExLnBuZw==/315x250%23c/p6khXA.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxMTI0Mzc3LnBuZw==/315x250%23c/SC9UGo.png"
     },
     {
       "id": "c568d5bd3cd634f9182dac6a",
@@ -4967,17 +5065,6 @@
       "imageUrl": "https://blog.playstation.com/content/themes/playstation-2018/images/placeholder.svg"
     },
     {
-      "id": "a7ba6cae8eed7823337cb9e8",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern…",
-      "publishedAt": "2026-10-13T13:00:00Z",
-      "firstSeenAt": "2026-10-13T19:20:20Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg?w=1024"
-    },
-    {
       "id": "1561f84c7f6129d7cb5afa54",
       "sourceId": "playstation",
       "sourceName": "PlayStation Blog",
@@ -4998,101 +5085,6 @@
       "publishedAt": "2026-10-13T12:00:00Z",
       "firstSeenAt": "2026-10-13T19:20:20Z",
       "imageUrl": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png"
-    },
-    {
-      "id": "ce06e4e9d3676f2d130f7869",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The historical evolution of the Ukrainian problem by Mykhaĭlo Hrushevsʹkyĭ",
-      "url": "https://www.gutenberg.org/ebooks/79773",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-13T11:52:55Z"
-    },
-    {
-      "id": "b3f0b157c3cf98f5bab6b9ef",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Secret societies and the French revolution : by Una Pope-Hennessy",
-      "url": "https://www.gutenberg.org/ebooks/79771",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-13T11:52:55Z"
-    },
-    {
-      "id": "42d435734fa618bb10d4e6bb",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Jeff Clayton's surprise : by William ) Ward",
-      "url": "https://www.gutenberg.org/ebooks/79772",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-13T11:52:55Z"
-    },
-    {
-      "id": "1ed55b9da3fac9a12191bf44",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Madame Bovary by Gustave Flaubert",
-      "url": "https://www.gutenberg.org/ebooks/2413",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-13T11:52:55Z"
-    },
-    {
-      "id": "30a9c2d0a81f9250b849eac9",
-      "sourceId": "nasa",
-      "sourceName": "NASA",
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-      "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds…",
-      "publishedAt": "2026-10-13T11:12:18Z",
-      "firstSeenAt": "2026-10-13T11:52:55Z",
-      "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png?w=1360"
-    },
-    {
-      "id": "f5817689fc2a4e5d7f96eab4",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Two Shin Chan Ports Coming To Switch 2 In 2027, Physical Bundle Confirmed",
-      "url": "https://www.nintendolife.com/news/2026/10/two-shin-chan-ports-coming-to-switch-2-in-2027-physical-bundle-confirmed",
-      "summary": "Digital Switch owners will also get a discount. Publisher Neos has confirmed that two Shin-Chan games on Switch will receive Switch 2 ports on 4th March 2027. The two titles in question – Me and the Professor on Summer…",
-      "publishedAt": "2026-10-13T10:30:00Z",
-      "firstSeenAt": "2026-10-13T11:52:55Z",
-      "imageUrl": "https://images.nintendolife.com/66d797fc4473e/large.jpg"
-    },
-    {
-      "id": "31356ba4639ada774c592d09",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo",
-      "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
-      "summary": "\"It was kind of out of left field\". Former Nintendo employees Kit Ellis and Krysta Yang have stated that a 2021 Saturday Night Live skit involving Elon Musk dressed as Wario \"was not received well\" by Nintendo. This…",
-      "publishedAt": "2026-10-13T09:45:00Z",
-      "firstSeenAt": "2026-10-13T11:52:55Z",
-      "imageUrl": "https://images.nintendolife.com/c7ecc5e706006/large.jpg"
-    },
-    {
-      "id": "d0d22a6de51a15f24fe9ed10",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Idle Island [Free] [Simulation]",
-      "url": "https://cosmos07.itch.io/idle-island",
-      "summary": "",
-      "publishedAt": "2026-10-13T06:22:28Z",
-      "firstSeenAt": "2026-10-13T11:52:55Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwOTcyMDMyLnBuZw==/315x250%23c/35B%2FR6.png"
-    },
-    {
-      "id": "d7e0ff0c158c344dc77c22e4",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Tide Pool [Free] [Other]",
-      "url": "https://mahmid026.itch.io/tide-pool",
-      "summary": "Tap the water. Watch the ripples turn to light and music.",
-      "publishedAt": "2026-10-13T06:19:39Z",
-      "firstSeenAt": "2026-10-13T19:20:20Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMwODIyOTAxLnBuZw==/315x250%23c/%2FcUpYq.png"
     },
     {
       "id": "2352c6daa64bb5c28706284f",
@@ -7862,17 +7854,6 @@
       "imageUrl": "https://images.nintendolife.com/65a33a05345c9/large.jpg"
     },
     {
-      "id": "609459b1b3398c859117a552",
-      "sourceId": "playstation",
-      "sourceName": "PlayStation Blog",
-      "title": "Final Fantasy VII Revelation hands-on report: Into the Whirlwind Maze where Sephiroth awaits",
-      "url": "https://blog.playstation.com/2026/09/17/final-fantasy-vii-revelation-hands-on-report-into-the-whirlwind-maze-where-sephiroth-awaits/",
-      "summary": "Final Fantasy VII Revelation, launching April 8, 2027 on PlayStation 5, marks the epic final chapter in the remake trilogy following Final Fantasy VII Remake and Final Fantasy VII Rebirth. At Tokyo Game Show 2026, we…",
-      "publishedAt": "2026-09-17T08:00:09Z",
-      "firstSeenAt": "2026-09-19T01:09:35Z",
-      "imageUrl": "https://live.staticflickr.com/65535/55529774677_a52b613243_k.jpg"
-    },
-    {
       "id": "8fa72a19cbe514b2b1f9523e",
       "sourceId": "zelda",
       "sourceName": "The Legend of Zelda",
@@ -8234,17 +8215,6 @@
       "publishedAt": "2026-09-12T15:10:20Z",
       "firstSeenAt": "2026-09-19T09:02:54Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg"
-    },
-    {
-      "id": "9d5d08e58fef8b45bbae3bc1",
-      "sourceId": "zelda",
-      "sourceName": "The Legend of Zelda",
-      "title": "Nintendo Confirms Zelda 40th Anniversary Collection Restocks",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendo-confirms-zelda-40th-anniversary-collection-restocks",
-      "summary": "Expect an announcement via the Nintendo Store app. Earlier this week, Nintendo announced a new Zelda-themed Switch 2, Pro Controller and various other items celebrating the 40th Anniversary of the series.…",
-      "publishedAt": "2026-09-12T05:30:00Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://images.nintendolife.com/049aaf00cf15d/large.jpg"
     },
     {
       "id": "50d7fd34fc5a3a35c1997243",
