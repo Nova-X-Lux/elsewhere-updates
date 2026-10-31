@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T14:34:50Z",
+  "generatedAt": "2026-10-31T20:01:34Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 33
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 25
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 24
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 24
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 38
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 27
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 15
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 38
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -336,8 +336,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 65
     },
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
-      "itemCount": 155
+      "itemCount": 158
     },
     {
       "id": "nasa",
@@ -499,8 +499,8 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 43
     },
@@ -519,8 +519,8 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 31
     },
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
       "itemCount": 28
     },
@@ -562,13 +562,77 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-10-31T14:34:50Z",
-      "lastSuccessAt": "2026-10-31T14:34:50Z",
+      "checkedAt": "2026-10-31T20:01:34Z",
+      "lastSuccessAt": "2026-10-31T20:01:34Z",
       "error": null,
-      "itemCount": 80
+      "itemCount": 77
     }
   ],
   "items": [
+    {
+      "id": "b3e5e2a56c68990afe59c49a",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Lord Lister No. 0354: Montague en Capuletti by Blankensee and Hageman and Matull",
+      "url": "https://www.gutenberg.org/ebooks/79885",
+      "summary": "Language: Dutch",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-31T20:01:34Z"
+    },
+    {
+      "id": "1158780f18c4a4d3c01e6ed4",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Mr. Honey's Large Business Dictionary (English-German) by Winfried Honig",
+      "url": "https://www.gutenberg.org/ebooks/3221",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-10-31T20:01:34Z"
+    },
+    {
+      "id": "9957db35374be957ae68d578",
+      "sourceId": "pokemon-masters",
+      "sourceName": "Pokémon Masters EX",
+      "title": "Pokémon Masters EX adds Arceus Arc Chapter 11, a special battle event and Gladion Arc Suit Fair",
+      "url": "https://pokemonblog.com/2026/10/31/pokemon-masters-ex-adds-arceus-arc-chapter-11-a-special-battle-event-and-gladion-arc-suit-fair/",
+      "summary": "Pokémon Masters EX’s October 29, 2026 update adds Chapter 11 to the Arceus Arc, launches the Arceus Arc Celebration Special Battle Event, and debuts the Gladion Arc Suit Fair. The story chapter is available from…",
+      "publishedAt": "2026-10-31T17:13:12Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/10/pokemon_masters_ex_arc_suit_gladion_silvally_and_arc_suit_hau_raichu.jpg"
+    },
+    {
+      "id": "eb2ab8fe51d931f389e9ef18",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Twist & Untangle [Free] [Simulation]",
+      "url": "https://3dcubegames.itch.io/twist-and-untangle",
+      "summary": "A cozy idle game: wind tangled yarn into balls, fill orders, knit, pet the cat.",
+      "publishedAt": "2026-10-31T16:09:29Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjMzNjg1LnBuZw==/315x250%23c/33J21I.png"
+    },
+    {
+      "id": "702b8ae119d90f18e17bdbc7",
+      "sourceId": "nintendo",
+      "sourceName": "Nintendo",
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
+      "summary": "Dampé my spirits. Would you look at that, we are rapidly closing in on the release date of Ocarina of Time on Switch 2 and the end of my Dungeon Crawl replay of the N64 original. Doesn't time fly? With the…",
+      "publishedAt": "2026-10-31T16:00:00Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://images.nintendolife.com/e960e90722843/large.jpg"
+    },
+    {
+      "id": "429f853d850737a77bbb1a6d",
+      "sourceId": "zelda",
+      "sourceName": "The Legend of Zelda",
+      "title": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #7 - Grave Expectations",
+      "url": "https://www.nintendolife.com/features/countdown-zelda-ocarina-of-time-dungeon-crawl-7-grave-expectations",
+      "summary": "Dampé my spirits. Would you look at that, we are rapidly closing in on the release date of Ocarina of Time on Switch 2 and the end of my Dungeon Crawl replay of the N64 original. Doesn't time fly? With the…",
+      "publishedAt": "2026-10-31T16:00:00Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://images.nintendolife.com/e960e90722843/large.jpg"
+    },
     {
       "id": "0e9cdfa7371e5ca2dc6de06f",
       "sourceId": "gutenberg",
@@ -578,6 +642,17 @@
       "summary": "Language: English",
       "publishedAt": null,
       "firstSeenAt": "2026-10-31T14:34:50Z"
+    },
+    {
+      "id": "11d41e9b97900b2468d06372",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Community Life Observatory [BETA] [Free] [Simulation]",
+      "url": "https://tarosuke0707.itch.io/community-life-observatory",
+      "summary": "",
+      "publishedAt": "2026-10-31T14:19:54Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjI4NTQ2LnBuZw==/315x250%23c/mfpCH1.png"
     },
     {
       "id": "eabc88f4357872cea5e26971",
@@ -591,6 +666,28 @@
       "imageUrl": "https://images.nintendolife.com/8aca49f180cac/large.jpg"
     },
     {
+      "id": "26d4a1cbe69bdedbcbf90f2a",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Stay a Little Longer [Free] [Interactive Fiction]",
+      "url": "https://leineddev.itch.io/stay-a-little-longer",
+      "summary": "A lifetime with Speed. Time speeds up when there’s no interaction.",
+      "publishedAt": "2026-10-31T12:07:25Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjI0MjAyLnBuZw==/315x250%23c/wGcOGN.png"
+    },
+    {
+      "id": "4a329d3139f4b28230fcc812",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "SCOOPLINGS [Free] [Action]",
+      "url": "https://yun7420.itch.io/scooplings",
+      "summary": "Walk to scoop. Roll to sweep.",
+      "publishedAt": "2026-10-31T11:20:23Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjIwNzkwLnBuZw==/315x250%23c/Ne%2F7KH.png"
+    },
+    {
       "id": "f7e9c87016bd05aa87ec3d34",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
@@ -599,7 +696,7 @@
       "summary": "A cozy island clicker. Chop trees, hire sleepy helpers, catch helpful weather, and grow stronger with every fresh start.",
       "publishedAt": "2026-10-31T10:16:57Z",
       "firstSeenAt": "2026-10-31T14:34:50Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxNjE4ODM3LnBuZw==/315x250%23c/BI6TDE.png"
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjM5NDY0LnBuZw==/315x250%23c/leCQVA.png"
     },
     {
       "id": "4f2229b80983bb462fe9dd18",
@@ -730,6 +827,17 @@
       "firstSeenAt": "2026-10-31T05:53:12Z"
     },
     {
+      "id": "f7aaf46756df97e6e0a2e727",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Bonk the Donk [Free] [Simulation] [Windows]",
+      "url": "https://enmanuel-gutierrez.itch.io/bonk-the-donk",
+      "summary": "Smash piñatas. Suck up 1,000,000 candies. Bonk the giant Donk.",
+      "publishedAt": "2026-10-31T05:33:00Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjM4MDMzLmpwZw==/315x250%23c/EgHXzq.jpg"
+    },
+    {
       "id": "588721a15672e6a7eea5646c",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -750,6 +858,17 @@
       "publishedAt": "2026-10-31T03:55:00Z",
       "firstSeenAt": "2026-10-31T05:53:12Z",
       "imageUrl": "https://images.nintendolife.com/b8ab9102b2c84/large.jpg"
+    },
+    {
+      "id": "d59fc1a27c594c7ac4806c89",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "A Nothing Day [Free] [Simulation]",
+      "url": "https://turnleftorright.itch.io/a-nothing-day",
+      "summary": "She goes out for a walk, and brings back little pieces of the day for you.",
+      "publishedAt": "2026-10-31T03:17:29Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNjA3MTYwLnBuZw==/315x250%23c/7J9PDG.png"
     },
     {
       "id": "efb9d531f8dfa9815448793e",
@@ -843,7 +962,7 @@
       "id": "9e584b9ff2132255dd4efb4b",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
-      "title": "Please, Just the Cake [Free] [Other]",
+      "title": "Please, Just the Cake [Free] [Other] [Windows] [macOS] [Linux] [Android]",
       "url": "https://talhauenal38.itch.io/please-just-the-cake",
       "summary": "A small winter village. A festival in your honour. Everyone is so, so nice.",
       "publishedAt": "2026-10-30T21:11:09Z",
@@ -2822,6 +2941,17 @@
       "publishedAt": "2026-10-28T09:58:23Z",
       "firstSeenAt": "2026-10-29T15:16:21Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxNTM0Nzg3LnBuZw==/315x250%23c/AbMBuy.png"
+    },
+    {
+      "id": "f6550b5a3ef89bcc29f7ec1b",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Зельеварение / Potion Brewing [Free] [Puzzle] [Windows]",
+      "url": "https://andromeda-999.itch.io/potionbrewing",
+      "summary": "Подбери нужный ингредиент!",
+      "publishedAt": "2026-10-28T09:49:39Z",
+      "firstSeenAt": "2026-10-31T20:01:34Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMxNDczMzI4LmpwZWc=/315x250%23c/itgARt.jpeg"
     },
     {
       "id": "0490503ddc19b4af35de78b0",
@@ -5209,111 +5339,6 @@
       "publishedAt": "2026-10-24T20:14:14Z",
       "firstSeenAt": "2026-10-24T22:32:36Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMxMzEzMTgzLnBuZw==/315x250%23c/ze2tgf.png"
-    },
-    {
-      "id": "77477d10405c31f4e7fd5344",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Nothing but terror by Jesse F. Bone",
-      "url": "https://www.gutenberg.org/ebooks/79850",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-24T18:49:51Z"
-    },
-    {
-      "id": "71015bf6c71a0f287881f75a",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The preparation by Helen R. Hull",
-      "url": "https://www.gutenberg.org/ebooks/79849",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-24T18:49:51Z"
-    },
-    {
-      "id": "6ff0d0c8383818d28a6e1dc3",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Asteroid 745: Mauritia by Donald A. Wollheim",
-      "url": "https://www.gutenberg.org/ebooks/79852",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-24T18:49:51Z"
-    },
-    {
-      "id": "66173494e8cfa13a32da1254",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Faith killer by Winston K. Marks",
-      "url": "https://www.gutenberg.org/ebooks/79851",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-24T18:49:51Z"
-    },
-    {
-      "id": "4c2f9af0f52da7f299004c5d",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Romance in science : by Bessie Irving Miller",
-      "url": "https://www.gutenberg.org/ebooks/79853",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-10-24T18:49:51Z"
-    },
-    {
-      "id": "ac97c7c97bd758a9ba58acad",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Çaynamə [Free] [Simulation]",
-      "url": "https://tunarjamalov.itch.io/caynama",
-      "summary": "Atadan qalan çayxananı dirçəlt: çayı dəmlə, şirniyyat bişir, qəlyan hazırla, müştəriləri razı sal!",
-      "publishedAt": "2026-10-24T18:15:20Z",
-      "firstSeenAt": "2026-10-24T22:32:36Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMzA4NzQ4LnBuZw==/315x250%23c/fQuMFu.png"
-    },
-    {
-      "id": "c5bb81ed0c50ea79c449d503",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Cinderglaze [Free] [Simulation]",
-      "url": "https://fitztoppicks.itch.io/cinderglaze",
-      "summary": "Throw, glaze, fire, collect: a cozy pottery idle game where no two pots look the same.",
-      "publishedAt": "2026-10-24T17:39:00Z",
-      "firstSeenAt": "2026-10-24T22:32:36Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMzA3MTQxLnBuZw==/315x250%23c/fLyIPN.png"
-    },
-    {
-      "id": "6ef27c3a806890ae31d85638",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Spot the Spooky [34% Off] [$1.97] [Puzzle] [Windows]",
-      "url": "https://atelier1031.itch.io/spot-the-spooky",
-      "summary": "",
-      "publishedAt": "2026-10-24T16:17:41Z",
-      "firstSeenAt": "2026-10-25T22:37:09Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMzM0NjYxLmdpZg==/original/dwomxW.gif"
-    },
-    {
-      "id": "0142282b6d0207c5882c4172",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live",
-      "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live",
-      "summary": "Get downloading. If you're playing Call of Duty: Modern Warfare 4 on Switch 2 this weekend, you might need to update the game since your last session. Activision hasn't shared any official notice about this at the time…",
-      "publishedAt": "2026-10-24T15:00:00Z",
-      "firstSeenAt": "2026-10-24T18:49:51Z",
-      "imageUrl": "https://images.nintendolife.com/39d66f7a3e8d1/large.jpg"
-    },
-    {
-      "id": "0ad93942fb5dbe78a84f7d0d",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Prep Night [Free] [Simulation] [Windows]",
-      "url": "https://onomatopoeiameow.itch.io/prep-night",
-      "summary": "Be the GM nobody thanks: four friends, six days of prep, one session that makes it worth it.",
-      "publishedAt": "2026-10-24T14:50:45Z",
-      "firstSeenAt": "2026-10-24T18:49:51Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxMzAyMzE3LnBuZw==/315x250%23c/uWG%2BGN.png"
     },
     {
       "id": "4ff5aa0e31205c2964b6386f",
@@ -8607,17 +8632,6 @@
       "imageUrl": "https://lh3.googleusercontent.com/YI_hCo34fVtgznowncdPRDK3uObq-7nJkPTmsttNh2uBZGkKDqFWvPQFP-9lTLmjkvpb-iHQq-JERqqXXYbVsWryT2gNTWc5_xVf3H0H-3FN=s0-e365"
     },
     {
-      "id": "f9e5a01e229b864206809802",
-      "sourceId": "zelda",
-      "sourceName": "The Legend of Zelda",
-      "title": "Nintendo's Zelda Quiz Error Apology Has Led To... Yet Another Error",
-      "url": "https://www.nintendolife.com/news/2026/09/nintendos-zelda-quiz-error-apology-has-led-to-yet-another-error",
-      "summary": "Wrong Wrong Ranch. It's difficult to remember last week's Zelda Direct without having your mind clouded by that sweet Ocarina of Time footage, but you might recall that Nintendo announced a couple of new Nintendo Today…",
-      "publishedAt": "2026-09-22T15:30:00Z",
-      "firstSeenAt": "2026-09-22T19:46:05Z",
-      "imageUrl": "https://images.nintendolife.com/65a33a05345c9/large.jpg"
-    },
-    {
       "id": "3b10e604032d8182f0e92cd8",
       "sourceId": "raspberry-pi",
       "sourceName": "Raspberry Pi",
@@ -9253,17 +9267,6 @@
       "publishedAt": "2026-09-10T22:23:22Z",
       "firstSeenAt": "2026-09-19T09:02:54Z",
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2022/02/pokemon_unite_championship_series.jpeg"
-    },
-    {
-      "id": "607207f257f55bf0738bb2ab",
-      "sourceId": "pokemon-masters",
-      "sourceName": "Pokémon Masters EX",
-      "title": "Pokémon Masters EX adds new missions to Dahlia’s Lucky Dance Ultimate Battle",
-      "url": "https://pokemonblog.com/2026/09/10/pokemon-masters-ex-adds-new-missions-to-dahlias-lucky-dance-ultimate-battle/",
-      "summary": "Pokémon Masters EX has added new Missions to the permanent Ultimate Battle Dahlia’s Lucky Dance, giving players additional challenges to tackle through the game’s Challenge the Strong content. The new Missions were…",
-      "publishedAt": "2026-09-10T22:17:59Z",
-      "firstSeenAt": "2026-09-19T09:02:54Z",
-      "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/03/pokemon_masters_ex_dahlia_and_ludicolo.jpg"
     },
     {
       "id": "6053a5769de9d43515191134",
