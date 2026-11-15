@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T20:46:10Z",
+  "generatedAt": "2026-11-15T06:44:18Z",
   "sources": [
     {
       "id": "pokemon-news",
@@ -23,8 +23,8 @@
       "official": false,
       "imageUrl": "https://lh3.googleusercontent.com/X-8d7GHRr9T9DVuP-AFLVJv7tJLr541Sk4RICeQJWEn3-XBX86cSybrNKPKMyb7YRZmQaVPFk0CyTGGz0bjlrKiRrjFMjgKYdnDViWJKw3E=e365-pa-nu-w3840",
       "imagePage": "https://pokemongo.com/news/go-pass-september-2026?hl=eng",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -54,8 +54,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/static-assets/content-assets/cms2/img/video-games/_tiles/pokemon-pokopia/announce/pokemon-pokopia-169.png",
       "imagePage": "https://www.pokemon.com/uk/news/pokemon-pokopia-arriving-in-2026",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 31
     },
@@ -83,8 +83,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/09/pokemon_tcg_30th_celebration_booster_bundle.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-tcg-30th-celebration-booster-bundle-launches-oct-2-with-six-packs/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -110,8 +110,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2024/09/pokemon_trading_card_game_tcg_pocket_phone.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/03/pokemon-tcg-pocket-version-1-7-2-update-goes-live-with-bug-fixes/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 25
     },
@@ -140,8 +140,8 @@
       "official": true,
       "imageUrl": "https://lh3.googleusercontent.com/o8jvdwEPkxtY4vnEQ54snT5Tn-lxn-_vV0_PTWtY2IW4Jh18RLWRB_UDL7do0zkr4HuAIFKQI5PyAOUVFyklR3fWPv4Z8EeHWoGasKu0IWGE=s0-e365",
       "imagePage": "https://pokemongo.com/news/city-safari-brisbane-know-before-you-go",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -170,8 +170,8 @@
       "official": false,
       "imageUrl": "https://mcdn.pokemon.com/image/upload/c_limit,w_1439/f_auto/q_auto:best/v1/live/pcom-cms/static-assets/cms3/us/img/animation/tiles/horizons/03/est/01/pokemon-horizons-169-en.png",
       "imagePage": "https://www.pokemon.com/us/news/pokemon-horizons-season-3-part-1-available-on-amazon-apple-tv-and-youtube-movies-tv",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 31
     },
@@ -201,8 +201,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/07/sean_wotherspoon_x_pokemon_center_plush_trio_collection_bulbasaur_charizard_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/sean-wotherspoon-pokemon-plush-collaboration-now-available-at-pokemon-center/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -230,8 +230,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2017/02/play_pokemon_official_logo.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokeween-events-bring-pokemon-tcg-promos-and-activities-to-play-pokemon-stores/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 29
     },
@@ -256,8 +256,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2026/08/pokemon_unite_morpeko_toxtricity_jolteon_flareon.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/toxtricity-joins-pokemon-unite-on-september-24-as-new-ranged-attacker/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 17
     },
@@ -282,8 +282,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_sleep_performance_issues_pikachu.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/17/pokemon-sleep-fixes-bug-that-could-prevent-players-from-progressing/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -309,8 +309,8 @@
       "official": false,
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/09/akari_and_hisuian_samurott_pokemon_masters_ex.jpg",
       "imagePage": "https://pokemonblog.com/2026/09/18/pokemon-masters-ex-brings-back-together-in-an-unknown-land-story-event/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -336,10 +336,10 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1c2f06a72747d/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/monster-hunter-world-probably-wont-be-coming-to-switch-2",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
-      "itemCount": 74
+      "itemCount": 73
     },
     {
       "id": "animal-crossing",
@@ -365,8 +365,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/1da2968192c73/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/07/select-mario-zelda-and-animal-crossing-lego-sets-to-be-retired-next-week",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 21
     },
@@ -392,8 +392,8 @@
       "official": false,
       "imageUrl": "https://images.nintendolife.com/4a08e753ff397/large.jpg",
       "imagePage": "https://www.nintendolife.com/news/2026/09/nintendo-excited-about-broadening-zeldas-audience-with-live-action-movie",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -413,8 +413,8 @@
         "ps4",
         "gaming"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -433,8 +433,8 @@
         "game pass",
         "gaming"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -457,8 +457,8 @@
       ],
       "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
       "imagePage": "https://store.steampowered.com/app/413150/Stardew_Valley/",
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -478,10 +478,10 @@
         "cozy",
         "games"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
-      "itemCount": 121
+      "itemCount": 125
     },
     {
       "id": "nasa",
@@ -499,8 +499,8 @@
         "moon",
         "stars"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 40
     },
@@ -519,7 +519,7 @@
         "science",
         "astronomy"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
       "lastSuccessAt": "2026-11-04T19:53:25Z",
       "error": "Source returned HTTP 404",
       "itemCount": 31
@@ -540,8 +540,8 @@
         "diy",
         "making"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
       "itemCount": 34
     },
@@ -562,13 +562,66 @@
         "classics",
         "free books"
       ],
-      "checkedAt": "2026-11-14T20:46:10Z",
-      "lastSuccessAt": "2026-11-14T20:46:10Z",
+      "checkedAt": "2026-11-15T06:44:18Z",
+      "lastSuccessAt": "2026-11-15T06:44:18Z",
       "error": null,
-      "itemCount": 85
+      "itemCount": 79
     }
   ],
   "items": [
+    {
+      "id": "ab4745a3795ebdcf4c36a644",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "Die Todtenhand : by F. le Prince",
+      "url": "https://www.gutenberg.org/ebooks/80004",
+      "summary": "Language: German",
+      "publishedAt": null,
+      "firstSeenAt": "2026-11-15T06:44:18Z"
+    },
+    {
+      "id": "8ede492afbb43f75c3d6816f",
+      "sourceId": "gutenberg",
+      "sourceName": "New free ebooks",
+      "title": "The works of Samuel Johnson, LL.D. in nine volumes, volume 09 : by Samuel Johnson",
+      "url": "https://www.gutenberg.org/ebooks/80007",
+      "summary": "Language: English",
+      "publishedAt": null,
+      "firstSeenAt": "2026-11-15T06:44:18Z"
+    },
+    {
+      "id": "10e266f4b060bcef8ce1c04f",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Tunnel Tots [Free] [Simulation]",
+      "url": "https://zox007.itch.io/tunnel-tots",
+      "summary": "Tap, merge, and dig to the core. Every rebirth unlocks a new tool, not just bigger numbers.",
+      "publishedAt": "2026-11-15T03:10:55Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjgzNTE4LnBuZw==/315x250%23c/76MwSC.png"
+    },
+    {
+      "id": "262e9678e78457aa825b9697",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Litter Hunter [Free] [Simulation]",
+      "url": "https://werter08.itch.io/litter-hunter",
+      "summary": "Sweep the beach. Find the treasure.",
+      "publishedAt": "2026-11-15T01:46:18Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjgxMTgxLmdpZg==/original/95ky8l.gif"
+    },
+    {
+      "id": "c9cd6122bea017fa57880925",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Patchwork Town [Free] [Simulation]",
+      "url": "https://cosmos07.itch.io/patchwork-town",
+      "summary": "Fix up a mossy little village with your own two hands.",
+      "publishedAt": "2026-11-14T21:50:23Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjcyNTUxLnBuZw==/315x250%23c/1UAXzG.png"
+    },
     {
       "id": "d4712dc1b80da63b36caf69a",
       "sourceId": "gutenberg",
@@ -652,6 +705,50 @@
       "imageUrl": "https://pokemonblog.com/wp-content/uploads/2023/07/pokemon_horizons_the_series_liko_roy_sprigatito_fuecoco_quaxly.jpeg"
     },
     {
+      "id": "c7e3a785689e5f248cef5228",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Zhuer Can't Sleep: Counting Pigs [Free] [Simulation]",
+      "url": "https://zhudaandzhuer.itch.io/zhuer-cant-sleep-counting-pigs",
+      "summary": "Can't sleep? Count pigs. Herd piglets into the mud, watch them leap the fence, and count to 100,000 through six dreams.",
+      "publishedAt": "2026-11-14T18:19:27Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjYzMjAyLnBuZw==/315x250%23c/lKo3id.png"
+    },
+    {
+      "id": "882a8d7c7cfea987865c52ed",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "River Factory [Free] [Simulation] [Windows]",
+      "url": "https://emilianostack.itch.io/river-factory",
+      "summary": "A cozy isometric factory builder on a winding river: chop, saw, smelt and ship your goods downstream.",
+      "publishedAt": "2026-11-14T16:20:40Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjU3NDQ4LnBuZw==/315x250%23c/LMm2Vc.png"
+    },
+    {
+      "id": "038c0a05544f6e42f1054766",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Slow Days [Free] [Simulation] [Windows] [macOS] [Linux]",
+      "url": "https://phatnguyen0110.itch.io/slow-days",
+      "summary": "A slow, cozy 3D village life. Grow a garden, fish by the river, fly kites and watch the sunset.",
+      "publishedAt": "2026-11-14T16:02:57Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjU2ODMzLnBuZw==/315x250%23c/VSgiP2.png"
+    },
+    {
+      "id": "be22a067380e9d542538eca9",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "The Human & The Omega [Free] [Role Playing]",
+      "url": "https://grossgirlgames.itch.io/the-human-the-omega",
+      "summary": "An omegaverse BL romance between an ordinary human and an alien Omega who believes he's found his future mate.",
+      "publishedAt": "2026-11-14T15:59:14Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjY2NDkwLnBuZw==/315x250%23c/q71xi8.png"
+    },
+    {
       "id": "c9d508871ca40dbe27a7f991",
       "sourceId": "gutenberg",
       "sourceName": "New free ebooks",
@@ -726,6 +823,17 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMyMjQ5MTE0LnBuZw==/315x250%23c/NqKjHZ.png"
     },
     {
+      "id": "fc8207c46cbc22281b5f7044",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Wool done! (a counting sheep game) [Free] [Simulation]",
+      "url": "https://gg-vibes-games.itch.io/wool-done-a-counting-sheep-game",
+      "summary": "A cozy sheep-counting roguelite: tend your flock, then count them over the fence to sleep.",
+      "publishedAt": "2026-11-14T11:46:18Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjc5MzY5LnBuZw==/315x250%23c/P4zAps.png"
+    },
+    {
       "id": "3e7156cfce75b1a3218242d3",
       "sourceId": "itch-cozy",
       "sourceName": "Cozy games on itch.io",
@@ -735,6 +843,28 @@
       "publishedAt": "2026-11-14T11:24:59Z",
       "firstSeenAt": "2026-11-14T20:46:10Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMyMjQ1OTEyLnBuZw==/315x250%23c/QI0J4f.png"
+    },
+    {
+      "id": "9fdefba97e9384bd736b847e",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "No Vacancy at Thirteen [Free] [Puzzle]",
+      "url": "https://itchelement.itch.io/no-vacancy-at-thirteen",
+      "summary": "Every monster has a lucky number. So does the hotel.",
+      "publishedAt": "2026-11-14T11:21:20Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjQ0NDk3LnBuZw==/315x250%23c/R04%2BNi.png"
+    },
+    {
+      "id": "7d9f082fa6f065e131da9e4f",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "LAWN [Free] [Puzzle]",
+      "url": "https://uchilles.itch.io/lawn",
+      "summary": "Bring color to life.",
+      "publishedAt": "2026-11-14T10:42:32Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMjU2ODE3LnBuZw==/315x250%23c/JLNIaQ.png"
     },
     {
       "id": "7a1ec57eb0fa73e6ea9a3069",
@@ -2578,6 +2708,17 @@
       "publishedAt": "2026-11-11T15:58:41Z",
       "firstSeenAt": "2026-11-11T22:50:07Z",
       "imageUrl": "https://img.itch.zone/aW1nLzMyMTEyNjE3LnBuZw==/315x250%23c/26j5kZ.png"
+    },
+    {
+      "id": "7823b4709984885ece6c1989",
+      "sourceId": "itch-cozy",
+      "sourceName": "Cozy games on itch.io",
+      "title": "Unholy Pepperoni (Demo) [Free] [Simulation]",
+      "url": "https://andriykodev.itch.io/unholy-pepperoni",
+      "summary": "Run a small pizzeria, make pizzas, and serve customers. But as the nights go by, strange things start to happen...",
+      "publishedAt": "2026-11-11T15:57:48Z",
+      "firstSeenAt": "2026-11-15T06:44:18Z",
+      "imageUrl": "https://img.itch.zone/aW1nLzMyMTczMTQ2LnBuZw==/315x250%23c/Q%2FNwyb.png"
     },
     {
       "id": "3e237a69656580d959fc2119",
@@ -4676,48 +4817,6 @@
       "imageUrl": "https://img.itch.zone/aW1nLzMxOTY5MTMxLmpwZw==/315x250%23c/Q%2FLIZ8.jpg"
     },
     {
-      "id": "b5f4885aeb0fe2824fddf958",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Ding Dang music workshop [Free]",
-      "url": "https://jinzhao-today.itch.io/ding-dang-music-workshop",
-      "summary": "Rediscover forgotten melodies, and let unfinished stories sing.",
-      "publishedAt": "2026-11-08T06:41:53Z",
-      "firstSeenAt": "2026-11-08T15:19:14Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTcwMjIyLnBuZw==/315x250%23c/Alnmul.png"
-    },
-    {
-      "id": "b65b012d0b483fed35abcabb",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Chromameowncy [Free] [Visual Novel] [Windows]",
-      "url": "https://whatthehek.itch.io/chromameowncy",
-      "summary": "Help Bianca bring life back into her Grandmother's house with chromamancy.",
-      "publishedAt": "2026-11-08T06:19:18Z",
-      "firstSeenAt": "2026-11-08T15:19:14Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTY2NTYzLnBuZw==/315x250%23c/NcxEvX.png"
-    },
-    {
-      "id": "ca70ecbe4c71aa709ad040a9",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Scenes in the lives of St. Matthew, St. Jude, and Saint Simon, in easy verse. by Anonymous",
-      "url": "https://www.gutenberg.org/ebooks/79943",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-08T06:14:07Z"
-    },
-    {
-      "id": "a9f89777d217d207aad8abc1",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "The Fearsome Island : by Albert Kinross",
-      "url": "https://www.gutenberg.org/ebooks/79942",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-08T06:14:07Z"
-    },
-    {
       "id": "a222c02133f1cda74547a792",
       "sourceId": "zelda",
       "sourceName": "The Legend of Zelda",
@@ -4726,17 +4825,6 @@
       "summary": "Take a look. Zelda: Ocarina of Time returned this week on the Switch 2 and it looks better than ever. If you are wondering just much of a facelift it's had since the 2011 outing, and the original N64 hit, you might…",
       "publishedAt": "2026-11-08T06:00:00Z",
       "firstSeenAt": "2026-11-08T06:14:07Z",
-      "imageUrl": "https://images.nintendolife.com/d14351f36451a/large.jpg"
-    },
-    {
-      "id": "54d4ffd311f0a9d8d87e1922",
-      "sourceId": "nintendo",
-      "sourceName": "Nintendo",
-      "title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
-      "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
-      "summary": "Take a look. Zelda: Ocarina of Time returned this week on the Switch 2 and it looks better than ever. If you are wondering just much of a facelift it's had since the 2011 outing, and the original N64 hit, you might…",
-      "publishedAt": "2026-11-08T06:00:00Z",
-      "firstSeenAt": "2026-11-08T15:19:14Z",
       "imageUrl": "https://images.nintendolife.com/d14351f36451a/large.jpg"
     },
     {
@@ -4773,99 +4861,6 @@
       "imageUrl": "https://pokejungle.net/wp-content/uploads/2026/11/pokemon-sleep_2026-11_bountiful-banquet-week-1024x576.jpg"
     },
     {
-      "id": "e9aab4ca1fcbb864bbc6f381",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Roguescoba [Free] [Card Game]",
-      "url": "https://romi121.itch.io/roguescoba",
-      "summary": "Deck builder roguelike card game for ThinkyJam 2026",
-      "publishedAt": "2026-11-08T02:14:15Z",
-      "firstSeenAt": "2026-11-08T15:19:14Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTYwMjE0LnBuZw==/315x250%23c/g1c8OS.png"
-    },
-    {
-      "id": "792e46e1d0b4058af9e067f0",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Capy Springs [Free] [Simulation]",
-      "url": "https://poetiha.itch.io/capy-springs",
-      "summary": "Cozy capybara idle clicker with a story",
-      "publishedAt": "2026-11-08T00:13:29Z",
-      "firstSeenAt": "2026-11-08T06:14:07Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTU3NzIzLmpwZw==/315x250%23c/fPsRGg.jpg"
-    },
-    {
-      "id": "f2c4bc9b30f557c973e48ab9",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Anting-Anting Stories, and Other Strange Tales of the Filipinos by Sargent Kayme",
-      "url": "https://www.gutenberg.org/ebooks/24690",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-07T23:42:20Z"
-    },
-    {
-      "id": "523b6db5582ba28094b07e85",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Building the Pacific Railway : by Edwin L. Sabin",
-      "url": "https://www.gutenberg.org/ebooks/79941",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-07T23:42:20Z"
-    },
-    {
-      "id": "4c53420b5356e8ee9cb3eefc",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Jessica, the Heiress by Evelyn Raymond",
-      "url": "https://www.gutenberg.org/ebooks/30074",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-07T23:42:20Z"
-    },
-    {
-      "id": "46b84a0d6abdf3093f06c18b",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Ragged Lady — Complete by William Dean Howells",
-      "url": "https://www.gutenberg.org/ebooks/4270",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-07T23:42:20Z"
-    },
-    {
-      "id": "11e0f61ef84eab04704993ea",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "A Hive of Busy Bees by Effie Mae Hency Williams",
-      "url": "https://www.gutenberg.org/ebooks/7027",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-07T23:42:20Z"
-    },
-    {
-      "id": "02a78d955d459ccc6e81ad27",
-      "sourceId": "gutenberg",
-      "sourceName": "New free ebooks",
-      "title": "Dies and die making by James Lewis Lucas",
-      "url": "https://www.gutenberg.org/ebooks/79940",
-      "summary": "Language: English",
-      "publishedAt": null,
-      "firstSeenAt": "2026-11-07T23:42:20Z"
-    },
-    {
-      "id": "cc23b7619e2c7413b4756172",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Out Of Office [Free] [Platformer]",
-      "url": "https://qinyuz.itch.io/out-of-office",
-      "summary": "Escape the daily grind on a joyful soul’s journey through whimsical worlds",
-      "publishedAt": "2026-11-07T23:09:36Z",
-      "firstSeenAt": "2026-11-08T15:19:14Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTk2MDgyLnBuZw==/315x250%23c/X%2Fjr3n.png"
-    },
-    {
       "id": "5f2d02d13f811b5b39f4b2d2",
       "sourceId": "nasa",
       "sourceName": "NASA",
@@ -4875,28 +4870,6 @@
       "publishedAt": "2026-11-07T22:47:03Z",
       "firstSeenAt": "2026-11-07T23:42:20Z",
       "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936"
-    },
-    {
-      "id": "ffd295e3ad34a48966fcf6ae",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Autumnbound [Free] [Adventure] [Windows]",
-      "url": "https://hunterzinho.itch.io/autumnbound",
-      "summary": "",
-      "publishedAt": "2026-11-07T22:35:56Z",
-      "firstSeenAt": "2026-11-08T06:14:07Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMxOTU0NzM2LnBuZw==/315x250%23c/7%2Ftm5N.png"
-    },
-    {
-      "id": "bee4f5ead784906fea9da63e",
-      "sourceId": "itch-cozy",
-      "sourceName": "Cozy games on itch.io",
-      "title": "Count your Luck [Free] [Puzzle]",
-      "url": "https://manardx.itch.io/count-your-luck",
-      "summary": "Read their fate, brew their fortune, and wish them luck!",
-      "publishedAt": "2026-11-07T21:54:27Z",
-      "firstSeenAt": "2026-11-14T15:09:38Z",
-      "imageUrl": "https://img.itch.zone/aW1nLzMyMjA2ODg5LnBuZw==/315x250%23c/sM9Q%2Bt.png"
     },
     {
       "id": "7551602eee1cf944bb06ef8f",
